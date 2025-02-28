@@ -66,8 +66,9 @@ Required Attestation and Contribution Declaration
 WE ATTEST THAT WE HAVEN’T USED ANY OTHER STUDENTS’ WORK IN OUR
 ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK.
 Contribution:
-Example:
-● Hishita Thakkar: 33 1/3%
-● Asavari Shejwal: 33 1/3%
-● Pratik Kanade: 33 1/3%
-Links to GitHub tasks and tasks owned by each member
+
+Hishita Thakkar: 33 1/3%
+
+Asavari Shejwal: 33 1/3%
+
+Pratik Kanade: 33 1/3%
