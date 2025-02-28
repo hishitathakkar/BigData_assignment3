@@ -1,0 +1,4 @@
+database: "DEV_DB"
+schema: "DEV_SCHEMA"
+stage: "DEV_STAGE"
+warehouse: "DEV_WH"

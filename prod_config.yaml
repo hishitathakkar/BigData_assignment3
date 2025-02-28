@@ -1,0 +1,4 @@
+database: "PROD_DB"
+schema: "PROD_SCHEMA"
+stage: "PROD_STAGE"
+warehouse: "PROD_WH"
