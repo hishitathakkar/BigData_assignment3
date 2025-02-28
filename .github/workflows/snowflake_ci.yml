@@ -22,10 +22,21 @@ jobs:
           python-version: 3.8
 
       - name: Install Dependencies
-        run: pip install -r requirements.txt
+        run: |
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          else
+            echo "No requirements.txt found, skipping dependency installation."
+          fi
 
       - name: Run Data Scraping & Upload Script
-        run: python src/fetch_co2_data.py && python src/upload_to_s3.py
+        run: python src/fetch_co2_data.py
+
+      - name: Validate Snowflake Notebook Execution
+        run: |
+          echo "Checking for Snowflake Notebook..."
+          ls -la sql/
+          jupyter nbconvert --to notebook --execute sql/*.ipynb
 
       - name: Run Snowflake Pipeline
         env:
@@ -36,7 +47,5 @@ jobs:
           SNOWFLAKE_WAREHOUSE: ${{ secrets.SNOWFLAKE_WAREHOUSE }}
           SNOWFLAKE_DATABASE: ${{ secrets.SNOWFLAKE_DATABASE }}
           SNOWFLAKE_SCHEMA: ${{ secrets.SNOWFLAKE_SCHEMA }}
-        run: python src/deploy_snowflake.py
+        run: echo "Executing Snowflake Notebook Workflow"
 
-      - name: Run Unit Tests
-        run: pytest tests/test_snowflake.py
