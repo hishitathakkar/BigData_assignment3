@@ -16,7 +16,7 @@ By following this Quickstart:
 
 Architecture Overview
 
-Pipeline Components
+I] Pipeline Components
 
 1. External Data Source:
 The pipeline will pull daily CO₂ emissions data from a public API (e.g., NOAA, ESRL). Data will be ingested in CSV/JSON format via Snowflake External Stages (S3 or Google Buckets).
@@ -31,7 +31,7 @@ ii. Standardize timestamps and emission metrics.
 iii.Ensure data consistency and remove duplicates.
 iv. A harmonized table (CO2_HARMONIZED) will store cleaned and structured emissions data.
 
-User-Defined Functions (UDFs):
+II] User-Defined Functions (UDFs):
 SQL UDF: A function to normalize CO₂ measurements across different units.
 Python UDF: A function to calculate daily percentage change in CO₂ emissions.
 
