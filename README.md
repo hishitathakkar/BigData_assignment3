@@ -94,6 +94,7 @@ Summary
 
 This Quickstart enables users to build a scalable, automated, and efficient data pipeline for CO₂ emissions data using Snowflake and Snowpark, ensuring accurate and timely updates for environmental analytics.
 
+AI USE DISCLOSURE:
 
 Required Attestation and Contribution Declaration
 WE ATTEST THAT WE HAVEN’T USED ANY OTHER STUDENTS’ WORK IN OUR
