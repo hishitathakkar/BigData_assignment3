@@ -1,0 +1,7002 @@
+[
+    {
+        "mindate": "2015-10-02",
+        "maxdate": "2025-02-25",
+        "name": "Bakersfield, CA 93311",
+        "datacoverage": 0.9997,
+        "id": "ZIP:93311"
+    },
+    {
+        "mindate": "1959-10-01",
+        "maxdate": "1969-07-31",
+        "name": "Bakersfield, CA 93313",
+        "datacoverage": 1,
+        "id": "ZIP:93313"
+    },
+    {
+        "mindate": "1940-07-11",
+        "maxdate": "1944-10-31",
+        "name": "Bakersfield, MO 65609",
+        "datacoverage": 1,
+        "id": "ZIP:65609"
+    },
+    {
+        "mindate": "1938-11-29",
+        "maxdate": "2025-02-25",
+        "name": "Bakersville, NC 28705",
+        "datacoverage": 1,
+        "id": "ZIP:28705"
+    },
+    {
+        "mindate": "2007-03-28",
+        "maxdate": "2020-07-13",
+        "name": "Bala Cynwyd, PA 19004",
+        "datacoverage": 1,
+        "id": "ZIP:19004"
+    },
+    {
+        "mindate": "2024-03-20",
+        "maxdate": "2025-02-24",
+        "name": "Balaton, MN 56115",
+        "datacoverage": 0.9971,
+        "id": "ZIP:56115"
+    },
+    {
+        "mindate": "1920-05-01",
+        "maxdate": "2016-05-31",
+        "name": "Bald Knob, AR 72010",
+        "datacoverage": 1,
+        "id": "ZIP:72010"
+    },
+    {
+        "mindate": "1909-05-01",
+        "maxdate": "2025-02-25",
+        "name": "Baldwin City, KS 66006",
+        "datacoverage": 1,
+        "id": "ZIP:66006"
+    },
+    {
+        "mindate": "1941-11-01",
+        "maxdate": "2025-02-25",
+        "name": "Baldwin Park, CA 91706",
+        "datacoverage": 0.9919,
+        "id": "ZIP:91706"
+    },
+    {
+        "mindate": "1999-11-01",
+        "maxdate": "2025-02-25",
+        "name": "Baldwin, GA 30511",
+        "datacoverage": 1,
+        "id": "ZIP:30511"
+    },
+    {
+        "mindate": "2001-05-30",
+        "maxdate": "2025-02-24",
+        "name": "Baldwin, LA 70514",
+        "datacoverage": 1,
+        "id": "ZIP:70514"
+    },
+    {
+        "mindate": "2010-10-10",
+        "maxdate": "2015-07-08",
+        "name": "Baldwin, MD 21013",
+        "datacoverage": 0.8788,
+        "id": "ZIP:21013"
+    },
+    {
+        "mindate": "1896-09-25",
+        "maxdate": "2025-02-25",
+        "name": "Baldwin, MI 49304",
+        "datacoverage": 1,
+        "id": "ZIP:49304"
+    },
+    {
+        "mindate": "2016-10-08",
+        "maxdate": "2017-07-24",
+        "name": "Baldwin, NY 11510",
+        "datacoverage": 1,
+        "id": "ZIP:11510"
+    },
+    {
+        "mindate": "1944-08-28",
+        "maxdate": "2025-02-25",
+        "name": "Baldwin, WI 54002",
+        "datacoverage": 1,
+        "id": "ZIP:54002"
+    },
+    {
+        "mindate": "1893-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Baldwinsville, NY 13027",
+        "datacoverage": 1,
+        "id": "ZIP:13027"
+    },
+    {
+        "mindate": "1940-02-24",
+        "maxdate": "2025-02-25",
+        "name": "Baldwyn, MS 38824",
+        "datacoverage": 1,
+        "id": "ZIP:38824"
+    },
+    {
+        "mindate": "1948-08-01",
+        "maxdate": "2022-06-11",
+        "name": "Balfour, ND 58712",
+        "datacoverage": 0.1161,
+        "id": "ZIP:58712"
+    },
+    {
+        "mindate": "1947-03-20",
+        "maxdate": "2025-02-20",
+        "name": "Ball Ground, GA 30107",
+        "datacoverage": 1,
+        "id": "ZIP:30107"
+    },
+    {
+        "mindate": "1919-04-01",
+        "maxdate": "2011-12-06",
+        "name": "Ballantine, MT 59006",
+        "datacoverage": 1,
+        "id": "ZIP:59006"
+    },
+    {
+        "mindate": "1897-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Ballinger, TX 76821",
+        "datacoverage": 1,
+        "id": "ZIP:76821"
+    },
+    {
+        "mindate": "1904-02-01",
+        "maxdate": "2021-12-23",
+        "name": "Ballston Lake, NY 12019",
+        "datacoverage": 0.956,
+        "id": "ZIP:12019"
+    },
+    {
+        "mindate": "1955-10-15",
+        "maxdate": "2025-02-25",
+        "name": "Ballston Spa, NY 12020",
+        "datacoverage": 1,
+        "id": "ZIP:12020"
+    },
+    {
+        "mindate": "2010-10-23",
+        "maxdate": "2025-02-25",
+        "name": "Ballwin, MO 63011",
+        "datacoverage": 0.9468,
+        "id": "ZIP:63011"
+    },
+    {
+        "mindate": "2003-03-04",
+        "maxdate": "2025-02-25",
+        "name": "Ballwin, MO 63021",
+        "datacoverage": 1,
+        "id": "ZIP:63021"
+    },
+    {
+        "mindate": "1923-09-01",
+        "maxdate": "2025-01-10",
+        "name": "Balmorhea, TX 79718",
+        "datacoverage": 1,
+        "id": "ZIP:79718"
+    },
+    {
+        "mindate": "1946-07-25",
+        "maxdate": "1948-08-01",
+        "name": "Balsam Grove, NC 28708",
+        "datacoverage": 0.9705,
+        "id": "ZIP:28708"
+    },
+    {
+        "mindate": "2023-03-25",
+        "maxdate": "2025-02-25",
+        "name": "Balsam Lake, WI 54810",
+        "datacoverage": 1,
+        "id": "ZIP:54810"
+    },
+    {
+        "mindate": "1931-01-01",
+        "maxdate": "1967-02-28",
+        "name": "Baltic, CT 06330",
+        "datacoverage": 1,
+        "id": "ZIP:06330"
+    },
+    {
+        "mindate": "1946-06-01",
+        "maxdate": "1974-10-31",
+        "name": "Baltic, OH 43804",
+        "datacoverage": 1,
+        "id": "ZIP:43804"
+    },
+    {
+        "mindate": "2007-06-01",
+        "maxdate": "2017-10-11",
+        "name": "Baltic, SD 57003",
+        "datacoverage": 0.645,
+        "id": "ZIP:57003"
+    },
+    {
+        "mindate": "1871-01-01",
+        "maxdate": "1999-05-31",
+        "name": "Baltimore, MD 21201",
+        "datacoverage": 1,
+        "id": "ZIP:21201"
+    },
+    {
+        "mindate": "1998-05-01",
+        "maxdate": "2025-02-22",
+        "name": "Baltimore, MD 21202",
+        "datacoverage": 1,
+        "id": "ZIP:21202"
+    },
+    {
+        "mindate": "1957-03-01",
+        "maxdate": "1960-11-25",
+        "name": "Baltimore, MD 21206",
+        "datacoverage": 0.9947,
+        "id": "ZIP:21206"
+    },
+    {
+        "mindate": "2010-07-23",
+        "maxdate": "2025-02-25",
+        "name": "Baltimore, MD 21209",
+        "datacoverage": 0.9235,
+        "id": "ZIP:21209"
+    },
+    {
+        "mindate": "2003-10-01",
+        "maxdate": "2011-05-24",
+        "name": "Baltimore, MD 21210",
+        "datacoverage": 1,
+        "id": "ZIP:21210"
+    },
+    {
+        "mindate": "2008-07-17",
+        "maxdate": "2025-02-24",
+        "name": "Baltimore, MD 21214",
+        "datacoverage": 0.9464,
+        "id": "ZIP:21214"
+    },
+    {
+        "mindate": "1899-05-01",
+        "maxdate": "1900-01-31",
+        "name": "Baltimore, MD 21217",
+        "datacoverage": 0.5543,
+        "id": "ZIP:21217"
+    },
+    {
+        "mindate": "1905-12-01",
+        "maxdate": "1922-10-31",
+        "name": "Baltimore, MD 21218",
+        "datacoverage": 1,
+        "id": "ZIP:21218"
+    },
+    {
+        "mindate": "1944-12-01",
+        "maxdate": "2020-08-17",
+        "name": "Baltimore, MD 21230",
+        "datacoverage": 1,
+        "id": "ZIP:21230"
+    },
+    {
+        "mindate": "1950-07-23",
+        "maxdate": "2025-02-23",
+        "name": "Baltimore, MD 21240",
+        "datacoverage": 1,
+        "id": "ZIP:21240"
+    },
+    {
+        "mindate": "2013-08-11",
+        "maxdate": "2024-11-20",
+        "name": "Baltimore, OH 43105",
+        "datacoverage": 0.9366,
+        "id": "ZIP:43105"
+    },
+    {
+        "mindate": "1951-08-01",
+        "maxdate": "2025-02-25",
+        "name": "Bamberg, SC 29003",
+        "datacoverage": 0.9633,
+        "id": "ZIP:29003"
+    },
+    {
+        "mindate": "1936-01-01",
+        "maxdate": "1954-09-30",
+        "name": "Bancroft, IA 50517",
+        "datacoverage": 1,
+        "id": "ZIP:50517"
+    },
+    {
+        "mindate": "1894-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Bancroft, ID 83217",
+        "datacoverage": 1,
+        "id": "ZIP:83217"
+    },
+    {
+        "mindate": "1998-01-01",
+        "maxdate": "2002-05-23",
+        "name": "Bancroft, MI 48414",
+        "datacoverage": 0.9906,
+        "id": "ZIP:48414"
+    },
+    {
+        "mindate": "2006-06-16",
+        "maxdate": "2025-02-22",
+        "name": "Bancroft, NE 68004",
+        "datacoverage": 0.8845,
+        "id": "ZIP:68004"
+    },
+    {
+        "mindate": "1921-09-01",
+        "maxdate": "1984-04-30",
+        "name": "Bancroft, WI 54921",
+        "datacoverage": 1,
+        "id": "ZIP:54921"
+    },
+    {
+        "mindate": "2001-07-03",
+        "maxdate": "2025-02-25",
+        "name": "Bandera, TX 78003",
+        "datacoverage": 1,
+        "id": "ZIP:78003"
+    },
+    {
+        "mindate": "1893-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Bandon, OR 97411",
+        "datacoverage": 1,
+        "id": "ZIP:97411"
+    },
+    {
+        "mindate": "1990-05-02",
+        "maxdate": "2025-02-25",
+        "name": "Bangor, CA 95914",
+        "datacoverage": 0.9682,
+        "id": "ZIP:95914"
+    },
+    {
+        "mindate": "1925-10-03",
+        "maxdate": "2025-02-25",
+        "name": "Bangor, ME 04401",
+        "datacoverage": 0.9996,
+        "id": "ZIP:04401"
+    },
+    {
+        "mindate": "1924-05-01",
+        "maxdate": "1936-01-31",
+        "name": "Bangor, MI 49013",
+        "datacoverage": 1,
+        "id": "ZIP:49013"
+    },
+    {
+        "mindate": "2016-11-18",
+        "maxdate": "2025-02-25",
+        "name": "Bangor, PA 18013",
+        "datacoverage": 1,
+        "id": "ZIP:18013"
+    },
+    {
+        "mindate": "2016-02-01",
+        "maxdate": "2017-07-24",
+        "name": "Bangs, TX 76823",
+        "datacoverage": 0.9741,
+        "id": "ZIP:76823"
+    },
+    {
+        "mindate": "1954-03-01",
+        "maxdate": "2025-02-25",
+        "name": "Banks, OR 97106",
+        "datacoverage": 0.9423,
+        "id": "ZIP:97106"
+    },
+    {
+        "mindate": "2004-03-18",
+        "maxdate": "2025-02-23",
+        "name": "Bankston, AL 35542",
+        "datacoverage": 0.3255,
+        "id": "ZIP:35542"
+    },
+    {
+        "mindate": "1907-09-01",
+        "maxdate": "2025-02-25",
+        "name": "Banner Elk, NC 28604",
+        "datacoverage": 1,
+        "id": "ZIP:28604"
+    },
+    {
+        "mindate": "2015-07-28",
+        "maxdate": "2016-06-03",
+        "name": "Banner, KY 41603",
+        "datacoverage": 0.3654,
+        "id": "ZIP:41603"
+    },
+    {
+        "mindate": "1940-07-01",
+        "maxdate": "2025-02-25",
+        "name": "Banner, WY 82832",
+        "datacoverage": 0.9985,
+        "id": "ZIP:82832"
+    },
+    {
+        "mindate": "1939-08-01",
+        "maxdate": "2025-02-25",
+        "name": "Banning, CA 92220",
+        "datacoverage": 1,
+        "id": "ZIP:92220"
+    },
+    {
+        "mindate": "1950-07-02",
+        "maxdate": "1958-06-30",
+        "name": "Bantry, ND 58713",
+        "datacoverage": 1,
+        "id": "ZIP:58713"
+    },
+    {
+        "mindate": "1893-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Bar Harbor, ME 04609",
+        "datacoverage": 1,
+        "id": "ZIP:04609"
+    },
+    {
+        "mindate": "1893-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Baraboo, WI 53913",
+        "datacoverage": 1,
+        "id": "ZIP:53913"
+    },
+    {
+        "mindate": "1896-01-01",
+        "maxdate": "1987-03-31",
+        "name": "Baraga, MI 49908",
+        "datacoverage": 1,
+        "id": "ZIP:49908"
+    },
+    {
+        "mindate": "1942-01-01",
+        "maxdate": "1990-08-31",
+        "name": "Barbeau, MI 49710",
+        "datacoverage": 1,
+        "id": "ZIP:49710"
+    },
+    {
+        "mindate": "1996-04-23",
+        "maxdate": "2025-02-25",
+        "name": "Barboursville, VA 22923",
+        "datacoverage": 1,
+        "id": "ZIP:22923"
+    },
+    {
+        "mindate": "1940-04-12",
+        "maxdate": "2025-02-22",
+        "name": "Barbourville, KY 40906",
+        "datacoverage": 1,
+        "id": "ZIP:40906"
+    },
+    {
+        "mindate": "1969-10-01",
+        "maxdate": "2024-03-26",
+        "name": "Barceloneta, PR 00617",
+        "datacoverage": 1,
+        "id": "ZIP:00617"
+    },
+    {
+        "mindate": "1944-01-01",
+        "maxdate": "1984-04-30",
+        "name": "Bard, NM 88411",
+        "datacoverage": 1,
+        "id": "ZIP:88411"
+    },
+    {
+        "mindate": "1896-07-01",
+        "maxdate": "2025-02-17",
+        "name": "Bardstown, KY 40004",
+        "datacoverage": 1,
+        "id": "ZIP:40004"
+    },
+    {
+        "mindate": "1894-03-01",
+        "maxdate": "2010-01-31",
+        "name": "Bardwell, KY 42023",
+        "datacoverage": 1,
+        "id": "ZIP:42023"
+    },
+    {
+        "mindate": "1955-09-01",
+        "maxdate": "2000-09-13",
+        "name": "Baring, WA 98224",
+        "datacoverage": 1,
+        "id": "ZIP:98224"
+    },
+    {
+        "mindate": "1941-06-13",
+        "maxdate": "1976-01-31",
+        "name": "Barker, NY 14012",
+        "datacoverage": 1,
+        "id": "ZIP:14012"
+    },
+    {
+        "mindate": "1948-06-01",
+        "maxdate": "2025-02-25",
+        "name": "Barkhamsted, CT 06063",
+        "datacoverage": 1,
+        "id": "ZIP:06063"
+    },
+    {
+        "mindate": "1917-06-01",
+        "maxdate": "1970-12-31",
+        "name": "Barksdale AFB, LA 71110",
+        "datacoverage": 1,
+        "id": "ZIP:71110"
+    },
+    {
+        "mindate": "1953-01-01",
+        "maxdate": "2021-06-22",
+        "name": "Barksdale, TX 78828",
+        "datacoverage": 0.9203,
+        "id": "ZIP:78828"
+    },
+    {
+        "mindate": "2018-10-12",
+        "maxdate": "2024-09-30",
+        "name": "Barlow, KY 42024",
+        "datacoverage": 0.6987,
+        "id": "ZIP:42024"
+    },
+    {
+        "mindate": "1948-08-01",
+        "maxdate": "2025-02-25",
+        "name": "Barnard, KS 67418",
+        "datacoverage": 1,
+        "id": "ZIP:67418"
+    },
+    {
+        "mindate": "1948-09-01",
+        "maxdate": "2025-01-05",
+        "name": "Barnardsville, NC 28709",
+        "datacoverage": 0.9961,
+        "id": "ZIP:28709"
+    },
+    {
+        "mindate": "2016-10-01",
+        "maxdate": "2025-02-25",
+        "name": "Barnegat Light, NJ 08006",
+        "datacoverage": 0.9539,
+        "id": "ZIP:08006"
+    },
+    {
+        "mindate": "1959-06-11",
+        "maxdate": "2020-04-30",
+        "name": "Barnes, KS 66933",
+        "datacoverage": 1,
+        "id": "ZIP:66933"
+    },
+    {
+        "mindate": "1995-06-07",
+        "maxdate": "2025-01-31",
+        "name": "Barneston, NE 68309",
+        "datacoverage": 0.9981,
+        "id": "ZIP:68309"
+    },
+    {
+        "mindate": "1908-06-01",
+        "maxdate": "2022-09-29",
+        "name": "Barnesville, GA 30204",
+        "datacoverage": 1,
+        "id": "ZIP:30204"
+    },
+    {
+        "mindate": "2010-02-25",
+        "maxdate": "2024-08-08",
+        "name": "Barnesville, MN 56514",
+        "datacoverage": 0.9294,
+        "id": "ZIP:56514"
+    },
+    {
+        "mindate": "1939-08-01",
+        "maxdate": "2007-12-31",
+        "name": "Barnesville, OH 43713",
+        "datacoverage": 1,
+        "id": "ZIP:43713"
+    },
+    {
+        "mindate": "1948-06-01",
+        "maxdate": "2025-02-20",
+        "name": "Barnet, VT 05821",
+        "datacoverage": 0.9953,
+        "id": "ZIP:05821"
+    },
+    {
+        "mindate": "1948-05-01",
+        "maxdate": "2009-01-29",
+        "name": "Barneveld, NY 13304",
+        "datacoverage": 1,
+        "id": "ZIP:13304"
+    },
+    {
+        "mindate": "2010-10-24",
+        "maxdate": "2021-06-23",
+        "name": "Barnhart, MO 63012",
+        "datacoverage": 0.3763,
+        "id": "ZIP:63012"
+    },
+    {
+        "mindate": "1948-03-01",
+        "maxdate": "1965-04-30",
+        "name": "Barnhart, TX 76930",
+        "datacoverage": 0.8352,
+        "id": "ZIP:76930"
+    },
+    {
+        "mindate": "1943-10-29",
+        "maxdate": "2002-11-30",
+        "name": "Barnsdall, OK 74002",
+        "datacoverage": 0.9835,
+        "id": "ZIP:74002"
+    },
+    {
+        "mindate": "2018-11-25",
+        "maxdate": "2025-02-25",
+        "name": "Barnstable, MA 02630",
+        "datacoverage": 0.9895,
+        "id": "ZIP:02630"
+    },
+    {
+        "mindate": "2012-07-01",
+        "maxdate": "2024-11-23",
+        "name": "Barnum, MN 55707",
+        "datacoverage": 1,
+        "id": "ZIP:55707"
+    },
+    {
+        "mindate": "2007-10-01",
+        "maxdate": "2025-02-25",
+        "name": "Barnwell, SC 29812",
+        "datacoverage": 1,
+        "id": "ZIP:29812"
+    },
+    {
+        "mindate": "2024-05-30",
+        "maxdate": "2025-02-25",
+        "name": "Baroda, MI 49101",
+        "datacoverage": 0.9072,
+        "id": "ZIP:49101"
+    },
+    {
+        "mindate": "1955-01-01",
+        "maxdate": "1991-12-31",
+        "name": "Barranquitas, PR 00794",
+        "datacoverage": 1,
+        "id": "ZIP:00794"
+    },
+    {
+        "mindate": "1959-02-01",
+        "maxdate": "2025-02-25",
+        "name": "Barre, MA 01005",
+        "datacoverage": 0.9699,
+        "id": "ZIP:01005"
+    },
+    {
+        "mindate": "1937-01-01",
+        "maxdate": "2025-02-22",
+        "name": "Barre, VT 05641",
+        "datacoverage": 1,
+        "id": "ZIP:05641"
+    },
+    {
+        "mindate": "2017-02-26",
+        "maxdate": "2025-02-25",
+        "name": "Barrett, MN 56311",
+        "datacoverage": 1,
+        "id": "ZIP:56311"
+    },
+    {
+        "mindate": "1962-11-01",
+        "maxdate": "2025-02-25",
+        "name": "Barrington, IL 60010",
+        "datacoverage": 0.9211,
+        "id": "ZIP:60010"
+    },
+    {
+        "mindate": "2016-12-26",
+        "maxdate": "2025-02-25",
+        "name": "Barrington, NH 03825",
+        "datacoverage": 0.9477,
+        "id": "ZIP:03825"
+    },
+    {
+        "mindate": "2022-07-01",
+        "maxdate": "2024-12-16",
+        "name": "Barrington, NJ 08007",
+        "datacoverage": 0.1656,
+        "id": "ZIP:08007"
+    },
+    {
+        "mindate": "2017-04-17",
+        "maxdate": "2025-02-24",
+        "name": "Barrington, RI 02806",
+        "datacoverage": 1,
+        "id": "ZIP:02806"
+    },
+    {
+        "mindate": "2016-03-30",
+        "maxdate": "2024-11-20",
+        "name": "Barron, WI 54812",
+        "datacoverage": 0.1197,
+        "id": "ZIP:54812"
+    },
+    {
+        "mindate": "1977-07-01",
+        "maxdate": "2025-02-25",
+        "name": "Barrow, AK 99723",
+        "datacoverage": 0.9971,
+        "id": "ZIP:99723"
+    },
+    {
+        "mindate": "1941-01-01",
+        "maxdate": "1976-05-26",
+        "name": "Barry, IL 62312",
+        "datacoverage": 1,
+        "id": "ZIP:62312"
+    },
+    {
+        "mindate": "1940-08-01",
+        "maxdate": "1942-04-20",
+        "name": "Barry, TX 75102",
+        "datacoverage": 1,
+        "id": "ZIP:75102"
+    },
+    {
+        "mindate": "1903-01-01",
+        "maxdate": "2025-02-24",
+        "name": "Barstow, CA 92311",
+        "datacoverage": 1,
+        "id": "ZIP:92311"
+    },
+    {
+        "mindate": "1906-05-01",
+        "maxdate": "1919-12-31",
+        "name": "Barstow, TX 79719",
+        "datacoverage": 1,
+        "id": "ZIP:79719"
+    },
+    {
+        "mindate": "2016-03-24",
+        "maxdate": "2025-02-24",
+        "name": "Bartelso, IL 62218",
+        "datacoverage": 0.9413,
+        "id": "ZIP:62218"
+    },
+    {
+        "mindate": "1920-01-01",
+        "maxdate": "2025-02-24",
+        "name": "Bartlesville, OK 74003",
+        "datacoverage": 1,
+        "id": "ZIP:74003"
+    },
+    {
+        "mindate": "1922-07-01",
+        "maxdate": "2018-10-09",
+        "name": "Bartlesville, OK 74006",
+        "datacoverage": 1,
+        "id": "ZIP:74006"
+    },
+    {
+        "mindate": "2006-11-30",
+        "maxdate": "2024-12-09",
+        "name": "Bartlett, IL 60103",
+        "datacoverage": 0.8638,
+        "id": "ZIP:60103"
+    },
+    {
+        "mindate": "1973-04-01",
+        "maxdate": "2025-02-23",
+        "name": "Bartlett, KS 67332",
+        "datacoverage": 0.8618,
+        "id": "ZIP:67332"
+    },
+    {
+        "mindate": "1972-12-01",
+        "maxdate": "2025-02-11",
+        "name": "Bartlett, NE 68622",
+        "datacoverage": 1,
+        "id": "ZIP:68622"
+    },
+    {
+        "mindate": "1887-09-10",
+        "maxdate": "2022-04-30",
+        "name": "Bartlett, NH 03812",
+        "datacoverage": 1,
+        "id": "ZIP:03812"
+    },
+    {
+        "mindate": "1940-01-01",
+        "maxdate": "2021-01-03",
+        "name": "Bartlett, TX 76511",
+        "datacoverage": 1,
+        "id": "ZIP:76511"
+    },
+    {
+        "mindate": "2004-08-24",
+        "maxdate": "2024-11-19",
+        "name": "Bartley, NE 69020",
+        "datacoverage": 0.9111,
+        "id": "ZIP:69020"
+    },
+    {
+        "mindate": "2007-06-16",
+        "maxdate": "2008-09-07",
+        "name": "Barto, PA 19504",
+        "datacoverage": 1,
+        "id": "ZIP:19504"
+    },
+    {
+        "mindate": "1951-05-01",
+        "maxdate": "1996-01-01",
+        "name": "Barton, MD 21521",
+        "datacoverage": 1,
+        "id": "ZIP:21521"
+    },
+    {
+        "mindate": "2009-09-21",
+        "maxdate": "2013-04-05",
+        "name": "Barton, NY 13734",
+        "datacoverage": 1,
+        "id": "ZIP:13734"
+    },
+    {
+        "mindate": "2009-03-30",
+        "maxdate": "2024-08-31",
+        "name": "Barton, VT 05822",
+        "datacoverage": 0.7625,
+        "id": "ZIP:05822"
+    },
+    {
+        "mindate": "1892-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Bartow, FL 33830",
+        "datacoverage": 0.9893,
+        "id": "ZIP:33830"
+    },
+    {
+        "mindate": "1902-07-28",
+        "maxdate": "2009-08-27",
+        "name": "Bartow, WV 24920",
+        "datacoverage": 1,
+        "id": "ZIP:24920"
+    },
+    {
+        "mindate": "1949-11-22",
+        "maxdate": "2025-02-25",
+        "name": "Basalt, CO 81621",
+        "datacoverage": 1,
+        "id": "ZIP:81621"
+    },
+    {
+        "mindate": "2024-04-28",
+        "maxdate": "2025-02-25",
+        "name": "Basehor, KS 66007",
+        "datacoverage": 0.9474,
+        "id": "ZIP:66007"
+    },
+    {
+        "mindate": "1943-01-18",
+        "maxdate": "1957-12-31",
+        "name": "Basile, LA 70515",
+        "datacoverage": 1,
+        "id": "ZIP:70515"
+    },
+    {
+        "mindate": "1898-01-01",
+        "maxdate": "2025-01-06",
+        "name": "Basin, WY 82410",
+        "datacoverage": 1,
+        "id": "ZIP:82410"
+    },
+    {
+        "mindate": "1959-04-01",
+        "maxdate": "2025-02-25",
+        "name": "Basking Ridge, NJ 07920",
+        "datacoverage": 1,
+        "id": "ZIP:07920"
+    },
+    {
+        "mindate": "2007-10-30",
+        "maxdate": "2008-09-21",
+        "name": "Basom, NY 14013",
+        "datacoverage": 0.9604,
+        "id": "ZIP:14013"
+    },
+    {
+        "mindate": "1893-01-01",
+        "maxdate": "2010-10-26",
+        "name": "Bassett, NE 68714",
+        "datacoverage": 1,
+        "id": "ZIP:68714"
+    },
+    {
+        "mindate": "1948-08-01",
+        "maxdate": "2025-02-18",
+        "name": "Bassett, VA 24055",
+        "datacoverage": 1,
+        "id": "ZIP:24055"
+    },
+    {
+        "mindate": "2013-05-10",
+        "maxdate": "2016-12-06",
+        "name": "Bassfield, MS 39421",
+        "datacoverage": 0.1576,
+        "id": "ZIP:39421"
+    },
+    {
+        "mindate": "1940-04-04",
+        "maxdate": "1943-12-31",
+        "name": "Bastian, VA 24314",
+        "datacoverage": 1,
+        "id": "ZIP:24314"
+    },
+    {
+        "mindate": "1893-12-01",
+        "maxdate": "2023-12-11",
+        "name": "Bastrop, LA 71220",
+        "datacoverage": 1,
+        "id": "ZIP:71220"
+    },
+    {
+        "mindate": "1900-12-12",
+        "maxdate": "2025-02-25",
+        "name": "Bastrop, TX 78602",
+        "datacoverage": 1,
+        "id": "ZIP:78602"
+    },
+    {
+        "mindate": "2006-12-01",
+        "maxdate": "2025-02-25",
+        "name": "Batavia, IL 60510",
+        "datacoverage": 1,
+        "id": "ZIP:60510"
+    },
+    {
+        "mindate": "1912-11-03",
+        "maxdate": "2025-02-25",
+        "name": "Batavia, NY 14020",
+        "datacoverage": 0.9874,
+        "id": "ZIP:14020"
+    },
+    {
+        "mindate": "1948-05-01",
+        "maxdate": "2025-02-25",
+        "name": "Batavia, OH 45103",
+        "datacoverage": 1,
+        "id": "ZIP:45103"
+    },
+    {
+        "mindate": "1948-06-01",
+        "maxdate": "2005-07-01",
+        "name": "Batchelor, LA 70715",
+        "datacoverage": 0.9752,
+        "id": "ZIP:70715"
+    },
+    {
+        "mindate": "1948-08-01",
+        "maxdate": "1998-08-01",
+        "name": "Batchtown, IL 62006",
+        "datacoverage": 0.2115,
+        "id": "ZIP:62006"
+    },
+    {
+        "mindate": "2001-12-11",
+        "maxdate": "2025-01-03",
+        "name": "Bates City, MO 64011",
+        "datacoverage": 0.8772,
+        "id": "ZIP:64011"
+    },
+    {
+        "mindate": "1947-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Batesburg, SC 29006",
+        "datacoverage": 1,
+        "id": "ZIP:29006"
+    },
+    {
+        "mindate": "2023-05-13",
+        "maxdate": "2024-12-10",
+        "name": "Batesland, SD 57716",
+        "datacoverage": 0.2197,
+        "id": "ZIP:57716"
+    },
+    {
+        "mindate": "1904-07-26",
+        "maxdate": "2025-02-25",
+        "name": "Batesville, AR 72501",
+        "datacoverage": 1,
+        "id": "ZIP:72501"
+    },
+    {
+        "mindate": "1948-07-01",
+        "maxdate": "2025-02-25",
+        "name": "Batesville, IN 47006",
+        "datacoverage": 1,
+        "id": "ZIP:47006"
+    },
+    {
+        "mindate": "1891-02-01",
+        "maxdate": "2025-02-25",
+        "name": "Batesville, MS 38606",
+        "datacoverage": 1,
+        "id": "ZIP:38606"
+    },
+    {
+        "mindate": "1965-06-01",
+        "maxdate": "2001-03-31",
+        "name": "Batesville, TX 78829",
+        "datacoverage": 0.9946,
+        "id": "ZIP:78829"
+    },
+    {
+        "mindate": "1949-01-01",
+        "maxdate": "1962-03-31",
+        "name": "Bath Springs, TN 38311",
+        "datacoverage": 1,
+        "id": "ZIP:38311"
+    },
+    {
+        "mindate": "1992-12-01",
+        "maxdate": "2025-02-25",
+        "name": "Bath, ME 04530",
+        "datacoverage": 1,
+        "id": "ZIP:04530"
+    },
+    {
+        "mindate": "2008-07-02",
+        "maxdate": "2025-02-21",
+        "name": "Bath, MI 48808",
+        "datacoverage": 0.8462,
+        "id": "ZIP:48808"
+    },
+    {
+        "mindate": "1998-09-17",
+        "maxdate": "2025-02-24",
+        "name": "Bath, NC 27808",
+        "datacoverage": 1,
+        "id": "ZIP:27808"
+    },
+    {
+        "mindate": "1944-07-15",
+        "maxdate": "2017-02-28",
+        "name": "Bath, NH 03740",
+        "datacoverage": 1,
+        "id": "ZIP:03740"
+    },
+    {
+        "mindate": "1953-08-01",
+        "maxdate": "2025-02-25",
+        "name": "Bath, NY 14810",
+        "datacoverage": 1,
+        "id": "ZIP:14810"
+    },
+    {
+        "mindate": "2024-04-22",
+        "maxdate": "2025-01-20",
+        "name": "Bath, PA 18014",
+        "datacoverage": 0.6628,
+        "id": "ZIP:18014"
+    },
+    {
+        "mindate": "2002-04-01",
+        "maxdate": "2024-11-30",
+        "name": "Bath, SD 57427",
+        "datacoverage": 1,
+        "id": "ZIP:57427"
+    },
+    {
+        "mindate": "1892-06-01",
+        "maxdate": "1962-07-01",
+        "name": "Baton Rouge, LA 70802",
+        "datacoverage": 1,
+        "id": "ZIP:70802"
+    },
+    {
+        "mindate": "2008-01-08",
+        "maxdate": "2025-02-25",
+        "name": "Baton Rouge, LA 70803",
+        "datacoverage": 1,
+        "id": "ZIP:70803"
+    },
+    {
+        "mindate": "1933-01-01",
+        "maxdate": "2025-02-24",
+        "name": "Baton Rouge, LA 70806",
+        "datacoverage": 1,
+        "id": "ZIP:70806"
+    },
+    {
+        "mindate": "1945-02-25",
+        "maxdate": "2025-02-24",
+        "name": "Baton Rouge, LA 70807",
+        "datacoverage": 1,
+        "id": "ZIP:70807"
+    },
+    {
+        "mindate": "1986-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Baton Rouge, LA 70808",
+        "datacoverage": 1,
+        "id": "ZIP:70808"
+    },
+    {
+        "mindate": "2017-03-25",
+        "maxdate": "2025-02-25",
+        "name": "Baton Rouge, LA 70809",
+        "datacoverage": 0.9033,
+        "id": "ZIP:70809"
+    },
+    {
+        "mindate": "2008-01-10",
+        "maxdate": "2025-02-25",
+        "name": "Baton Rouge, LA 70810",
+        "datacoverage": 1,
+        "id": "ZIP:70810"
+    },
+    {
+        "mindate": "1978-10-20",
+        "maxdate": "1993-05-01",
+        "name": "Baton Rouge, LA 70811",
+        "datacoverage": 1,
+        "id": "ZIP:70811"
+    },
+    {
+        "mindate": "1986-10-01",
+        "maxdate": "2025-02-25",
+        "name": "Baton Rouge, LA 70815",
+        "datacoverage": 1,
+        "id": "ZIP:70815"
+    },
+    {
+        "mindate": "2008-01-19",
+        "maxdate": "2021-11-29",
+        "name": "Baton Rouge, LA 70816",
+        "datacoverage": 0.9711,
+        "id": "ZIP:70816"
+    },
+    {
+        "mindate": "1979-07-01",
+        "maxdate": "2025-02-25",
+        "name": "Baton Rouge, LA 70817",
+        "datacoverage": 1,
+        "id": "ZIP:70817"
+    },
+    {
+        "mindate": "1980-02-01",
+        "maxdate": "2023-04-03",
+        "name": "Baton Rouge, LA 70818",
+        "datacoverage": 1,
+        "id": "ZIP:70818"
+    },
+    {
+        "mindate": "1963-01-01",
+        "maxdate": "2019-04-21",
+        "name": "Baton Rouge, LA 70820",
+        "datacoverage": 1,
+        "id": "ZIP:70820"
+    },
+    {
+        "mindate": "2011-01-01",
+        "maxdate": "2025-02-24",
+        "name": "Battle Creek, IA 51006",
+        "datacoverage": 0.9936,
+        "id": "ZIP:51006"
+    },
+    {
+        "mindate": "1948-05-01",
+        "maxdate": "2025-02-20",
+        "name": "Battle Creek, MI 49015",
+        "datacoverage": 0.9714,
+        "id": "ZIP:49015"
+    },
+    {
+        "mindate": "1893-01-01",
+        "maxdate": "2025-02-24",
+        "name": "Battle Creek, MI 49017",
+        "datacoverage": 1,
+        "id": "ZIP:49017"
+    },
+    {
+        "mindate": "1960-09-01",
+        "maxdate": "2025-02-24",
+        "name": "Battle Creek, MI 49037",
+        "datacoverage": 1,
+        "id": "ZIP:49037"
+    },
+    {
+        "mindate": "2018-09-12",
+        "maxdate": "2025-02-24",
+        "name": "Battle Creek, NE 68715",
+        "datacoverage": 0.6781,
+        "id": "ZIP:68715"
+    },
+    {
+        "mindate": "1928-05-27",
+        "maxdate": "2025-02-25",
+        "name": "Battle Ground, WA 98604",
+        "datacoverage": 1,
+        "id": "ZIP:98604"
+    },
+    {
+        "mindate": "1899-05-01",
+        "maxdate": "2025-02-25",
+        "name": "Battle Lake, MN 56515",
+        "datacoverage": 1,
+        "id": "ZIP:56515"
+    },
+    {
+        "mindate": "1893-02-01",
+        "maxdate": "2025-02-25",
+        "name": "Battle Mountain, NV 89820",
+        "datacoverage": 1,
+        "id": "ZIP:89820"
+    },
+    {
+        "mindate": "2010-06-07",
+        "maxdate": "2017-06-24",
+        "name": "Battleboro, NC 27809",
+        "datacoverage": 0.1429,
+        "id": "ZIP:27809"
+    },
+    {
+        "mindate": "1925-10-01",
+        "maxdate": "2017-05-25",
+        "name": "Battletown, KY 40104",
+        "datacoverage": 1,
+        "id": "ZIP:40104"
+    },
+    {
+        "mindate": "1908-12-14",
+        "maxdate": "2025-02-25",
+        "name": "Baudette, MN 56623",
+        "datacoverage": 1,
+        "id": "ZIP:56623"
+    },
+    {
+        "mindate": "2017-03-25",
+        "maxdate": "2025-02-25",
+        "name": "Bauxite, AR 72011",
+        "datacoverage": 1,
+        "id": "ZIP:72011"
+    },
+    {
+        "mindate": "1943-07-17",
+        "maxdate": "2025-02-25",
+        "name": "Baxley, GA 31513",
+        "datacoverage": 1,
+        "id": "ZIP:31513"
+    },
+    {
+        "mindate": "1899-04-01",
+        "maxdate": "1939-12-31",
+        "name": "Baxter, IA 50028",
+        "datacoverage": 1,
+        "id": "ZIP:50028"
+    },
+    {
+        "mindate": "2002-07-20",
+        "maxdate": "2018-09-16",
+        "name": "Baxter, KY 40806",
+        "datacoverage": 0.991,
+        "id": "ZIP:40806"
+    },
+    {
+        "mindate": "2016-04-04",
+        "maxdate": "2025-02-25",
+        "name": "Baxter, MN 56425",
+        "datacoverage": 1,
+        "id": "ZIP:56425"
+    },
+    {
+        "mindate": "1927-11-01",
+        "maxdate": "2025-02-25",
+        "name": "Baxter, TN 38544",
+        "datacoverage": 1,
+        "id": "ZIP:38544"
+    },
+    {
+        "mindate": "1896-05-03",
+        "maxdate": "2025-02-25",
+        "name": "Bay City, MI 48706",
+        "datacoverage": 1,
+        "id": "ZIP:48706"
+    },
+    {
+        "mindate": "1915-03-23",
+        "maxdate": "2021-03-11",
+        "name": "Bay City, MI 48708",
+        "datacoverage": 0.9835,
+        "id": "ZIP:48708"
+    },
+    {
+        "mindate": "2008-06-21",
+        "maxdate": "2009-07-25",
+        "name": "Bay City, OR 97107",
+        "datacoverage": 1,
+        "id": "ZIP:97107"
+    },
+    {
+        "mindate": "1909-10-01",
+        "maxdate": "2025-02-24",
+        "name": "Bay City, TX 77414",
+        "datacoverage": 1,
+        "id": "ZIP:77414"
+    },
+    {
+        "mindate": "2011-10-01",
+        "maxdate": "2017-07-12",
+        "name": "Bay City, WI 54723",
+        "datacoverage": 0.5743,
+        "id": "ZIP:54723"
+    },
+    {
+        "mindate": "1913-11-01",
+        "maxdate": "2025-02-24",
+        "name": "Bay Minette, AL 36507",
+        "datacoverage": 1,
+        "id": "ZIP:36507"
+    },
+    {
+        "mindate": "2013-01-31",
+        "maxdate": "2025-02-11",
+        "name": "Bay Port, MI 48720",
+        "datacoverage": 0.9888,
+        "id": "ZIP:48720"
+    },
+    {
+        "mindate": "1891-02-01",
+        "maxdate": "2025-02-25",
+        "name": "Bay Saint Louis, MS 39520",
+        "datacoverage": 1,
+        "id": "ZIP:39520"
+    },
+    {
+        "mindate": "2014-08-20",
+        "maxdate": "2025-02-25",
+        "name": "Bay Shore, NY 11706",
+        "datacoverage": 1,
+        "id": "ZIP:11706"
+    },
+    {
+        "mindate": "1902-08-01",
+        "maxdate": "2016-09-26",
+        "name": "Bay Springs, MS 39422",
+        "datacoverage": 1,
+        "id": "ZIP:39422"
+    },
+    {
+        "mindate": "2022-07-17",
+        "maxdate": "2024-11-26",
+        "name": "Bay Village, OH 44140",
+        "datacoverage": 0.6424,
+        "id": "ZIP:44140"
+    },
+    {
+        "mindate": "2020-04-20",
+        "maxdate": "2025-02-21",
+        "name": "Bayamon, PR 00956",
+        "datacoverage": 1,
+        "id": "ZIP:00956"
+    },
+    {
+        "mindate": "2001-12-01",
+        "maxdate": "2024-12-31",
+        "name": "Bayard, NE 69334",
+        "datacoverage": 1,
+        "id": "ZIP:69334"
+    },
+    {
+        "mindate": "1948-12-04",
+        "maxdate": "2025-02-15",
+        "name": "Bayard, NM 88023",
+        "datacoverage": 1,
+        "id": "ZIP:88023"
+    },
+    {
+        "mindate": "1922-10-01",
+        "maxdate": "2019-11-22",
+        "name": "Bayboro, NC 28515",
+        "datacoverage": 1,
+        "id": "ZIP:28515"
+    },
+    {
+        "mindate": "1917-04-01",
+        "maxdate": "2025-02-25",
+        "name": "Bayfield, CO 81122",
+        "datacoverage": 1,
+        "id": "ZIP:81122"
+    },
+    {
+        "mindate": "1938-05-06",
+        "maxdate": "2025-02-25",
+        "name": "Bayfield, WI 54814",
+        "datacoverage": 1,
+        "id": "ZIP:54814"
+    },
+    {
+        "mindate": "1992-09-01",
+        "maxdate": "2025-02-25",
+        "name": "Baylis, IL 62314",
+        "datacoverage": 1,
+        "id": "ZIP:62314"
+    },
+    {
+        "mindate": "1955-08-01",
+        "maxdate": "2025-02-24",
+        "name": "Bayport, MN 55003",
+        "datacoverage": 1,
+        "id": "ZIP:55003"
+    },
+    {
+        "mindate": "1964-11-01",
+        "maxdate": "2025-02-17",
+        "name": "Bayport, NY 11705",
+        "datacoverage": 0.9702,
+        "id": "ZIP:11705"
+    },
+    {
+        "mindate": "2008-09-26",
+        "maxdate": "2025-02-24",
+        "name": "Bayside, CA 95524",
+        "datacoverage": 1,
+        "id": "ZIP:95524"
+    },
+    {
+        "mindate": "1921-10-10",
+        "maxdate": "1974-01-25",
+        "name": "Baytown, TX 77520",
+        "datacoverage": 1,
+        "id": "ZIP:77520"
+    },
+    {
+        "mindate": "1966-03-03",
+        "maxdate": "2018-09-26",
+        "name": "Baytown, TX 77521",
+        "datacoverage": 0.8898,
+        "id": "ZIP:77521"
+    },
+    {
+        "mindate": "1909-06-01",
+        "maxdate": "2025-02-25",
+        "name": "Baytown, TX 77523",
+        "datacoverage": 1,
+        "id": "ZIP:77523"
+    },
+    {
+        "mindate": "1947-04-01",
+        "maxdate": "2025-02-24",
+        "name": "Bayview, ID 83803",
+        "datacoverage": 1,
+        "id": "ZIP:83803"
+    },
+    {
+        "mindate": "2009-08-24",
+        "maxdate": "2025-02-25",
+        "name": "Bayville, NJ 08721",
+        "datacoverage": 1,
+        "id": "ZIP:08721"
+    },
+    {
+        "mindate": "2007-03-30",
+        "maxdate": "2025-02-20",
+        "name": "Bazine, KS 67516",
+        "datacoverage": 1,
+        "id": "ZIP:67516"
+    },
+    {
+        "mindate": "1998-09-19",
+        "maxdate": "2025-02-11",
+        "name": "Beach Haven, NJ 08008",
+        "datacoverage": 1,
+        "id": "ZIP:08008"
+    },
+    {
+        "mindate": "2004-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Beach Lake, PA 18405",
+        "datacoverage": 1,
+        "id": "ZIP:18405"
+    },
+    {
+        "mindate": "1906-08-01",
+        "maxdate": "2025-02-25",
+        "name": "Beach, ND 58621",
+        "datacoverage": 1,
+        "id": "ZIP:58621"
+    },
+    {
+        "mindate": "2020-06-23",
+        "maxdate": "2025-02-25",
+        "name": "Beachwood, NJ 08722",
+        "datacoverage": 0.4587,
+        "id": "ZIP:08722"
+    },
+    {
+        "mindate": "2014-05-15",
+        "maxdate": "2025-02-25",
+        "name": "Beachwood, OH 44122",
+        "datacoverage": 0.9951,
+        "id": "ZIP:44122"
+    },
+    {
+        "mindate": "1955-12-08",
+        "maxdate": "1956-10-30",
+        "name": "Beacon Falls, CT 06403",
+        "datacoverage": 0.7927,
+        "id": "ZIP:06403"
+    },
+    {
+        "mindate": "1953-09-01",
+        "maxdate": "1966-10-07",
+        "name": "Beacon, IA 52534",
+        "datacoverage": 0.9603,
+        "id": "ZIP:52534"
+    },
+    {
+        "mindate": "1932-02-01",
+        "maxdate": "2025-02-25",
+        "name": "Beacon, NY 12508",
+        "datacoverage": 1,
+        "id": "ZIP:12508"
+    },
+    {
+        "mindate": "1959-07-01",
+        "maxdate": "1970-12-31",
+        "name": "Beale AFB, CA 95903",
+        "datacoverage": 1,
+        "id": "ZIP:95903"
+    },
+    {
+        "mindate": "2005-11-15",
+        "maxdate": "2023-03-13",
+        "name": "Bealeton, VA 22712",
+        "datacoverage": 0.9444,
+        "id": "ZIP:22712"
+    },
+    {
+        "mindate": "2000-08-01",
+        "maxdate": "2003-09-30",
+        "name": "Bean Station, TN 37708",
+        "datacoverage": 1,
+        "id": "ZIP:37708"
+    },
+    {
+        "mindate": "2023-05-01",
+        "maxdate": "2025-02-25",
+        "name": "Beans Purchase, NH 00168",
+        "datacoverage": 1,
+        "id": "ZIP:00168"
+    },
+    {
+        "mindate": "2007-12-03",
+        "maxdate": "2025-02-25",
+        "name": "Bear Creek, NC 27207",
+        "datacoverage": 1,
+        "id": "ZIP:27207"
+    },
+    {
+        "mindate": "1892-02-01",
+        "maxdate": "1895-05-18",
+        "name": "Bear Lake, MI 49614",
+        "datacoverage": 1,
+        "id": "ZIP:49614"
+    },
+    {
+        "mindate": "2003-02-01",
+        "maxdate": "2012-12-04",
+        "name": "Bear, DE 19701",
+        "datacoverage": 1,
+        "id": "ZIP:19701"
+    },
+    {
+        "mindate": "1893-05-15",
+        "maxdate": "1973-05-31",
+        "name": "Beardsley, MN 56211",
+        "datacoverage": 1,
+        "id": "ZIP:56211"
+    },
+    {
+        "mindate": "1896-01-01",
+        "maxdate": "2024-05-25",
+        "name": "Beardstown, IL 62618",
+        "datacoverage": 1,
+        "id": "ZIP:62618"
+    },
+    {
+        "mindate": "1940-07-01",
+        "maxdate": "1959-06-30",
+        "name": "Bearsville, NY 12409",
+        "datacoverage": 0.195,
+        "id": "ZIP:12409"
+    },
+    {
+        "mindate": "2008-02-19",
+        "maxdate": "2025-02-12",
+        "name": "Beason, IL 62512",
+        "datacoverage": 0.918,
+        "id": "ZIP:62512"
+    },
+    {
+        "mindate": "1941-12-23",
+        "maxdate": "2000-11-30",
+        "name": "Beatrice, AL 36425",
+        "datacoverage": 1,
+        "id": "ZIP:36425"
+    },
+    {
+        "mindate": "1893-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Beatrice, NE 68310",
+        "datacoverage": 1,
+        "id": "ZIP:68310"
+    },
+    {
+        "mindate": "1958-04-29",
+        "maxdate": "2025-02-19",
+        "name": "Beattie, KS 66406",
+        "datacoverage": 1,
+        "id": "ZIP:66406"
+    },
+    {
+        "mindate": "1944-11-01",
+        "maxdate": "1948-07-01",
+        "name": "Beatty, NV 89003",
+        "datacoverage": 0.9052,
+        "id": "ZIP:89003"
+    },
+    {
+        "mindate": "1988-04-10",
+        "maxdate": "1997-09-30",
+        "name": "Beatty, OR 97621",
+        "datacoverage": 1,
+        "id": "ZIP:97621"
+    },
+    {
+        "mindate": "1902-10-01",
+        "maxdate": "2025-02-24",
+        "name": "Beattyville, KY 41311",
+        "datacoverage": 1,
+        "id": "ZIP:41311"
+    },
+    {
+        "mindate": "1896-02-01",
+        "maxdate": "2025-02-25",
+        "name": "Beaufort, NC 28516",
+        "datacoverage": 1,
+        "id": "ZIP:28516"
+    },
+    {
+        "mindate": "1918-10-01",
+        "maxdate": "2025-02-25",
+        "name": "Beaufort, SC 29902",
+        "datacoverage": 1,
+        "id": "ZIP:29902"
+    },
+    {
+        "mindate": "1893-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Beaufort, SC 29906",
+        "datacoverage": 1,
+        "id": "ZIP:29906"
+    },
+    {
+        "mindate": "2013-09-04",
+        "maxdate": "2025-02-25",
+        "name": "Beaufort, SC 29907",
+        "datacoverage": 1,
+        "id": "ZIP:29907"
+    },
+    {
+        "mindate": "1906-03-01",
+        "maxdate": "2025-02-25",
+        "name": "Beaumont, CA 92223",
+        "datacoverage": 1,
+        "id": "ZIP:92223"
+    },
+    {
+        "mindate": "1942-02-10",
+        "maxdate": "2024-12-31",
+        "name": "Beaumont, MS 39423",
+        "datacoverage": 1,
+        "id": "ZIP:39423"
+    },
+    {
+        "mindate": "1901-11-01",
+        "maxdate": "1968-03-01",
+        "name": "Beaumont, TX 77701",
+        "datacoverage": 1,
+        "id": "ZIP:77701"
+    },
+    {
+        "mindate": "2008-02-15",
+        "maxdate": "2016-02-11",
+        "name": "Beaumont, TX 77702",
+        "datacoverage": 1,
+        "id": "ZIP:77702"
+    },
+    {
+        "mindate": "1968-03-01",
+        "maxdate": "2022-10-21",
+        "name": "Beaumont, TX 77703",
+        "datacoverage": 0.9703,
+        "id": "ZIP:77703"
+    },
+    {
+        "mindate": "1947-10-01",
+        "maxdate": "2025-02-25",
+        "name": "Beaumont, TX 77705",
+        "datacoverage": 1,
+        "id": "ZIP:77705"
+    },
+    {
+        "mindate": "2010-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Beaumont, TX 77706",
+        "datacoverage": 1,
+        "id": "ZIP:77706"
+    },
+    {
+        "mindate": "1947-09-01",
+        "maxdate": "2025-02-25",
+        "name": "Beaumont, TX 77707",
+        "datacoverage": 1,
+        "id": "ZIP:77707"
+    },
+    {
+        "mindate": "2024-04-19",
+        "maxdate": "2025-02-25",
+        "name": "Beaumont, TX 77708",
+        "datacoverage": 1,
+        "id": "ZIP:77708"
+    },
+    {
+        "mindate": "1978-04-01",
+        "maxdate": "2025-02-25",
+        "name": "Beaumont, TX 77713",
+        "datacoverage": 1,
+        "id": "ZIP:77713"
+    },
+    {
+        "mindate": "1893-01-01",
+        "maxdate": "2025-02-21",
+        "name": "Beaver City, NE 68926",
+        "datacoverage": 1,
+        "id": "ZIP:68926"
+    },
+    {
+        "mindate": "2016-03-11",
+        "maxdate": "2024-12-28",
+        "name": "Beaver Crossing, NE 68313",
+        "datacoverage": 0.3397,
+        "id": "ZIP:68313"
+    },
+    {
+        "mindate": "1948-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Beaver Dam, KY 42320",
+        "datacoverage": 1,
+        "id": "ZIP:42320"
+    },
+    {
+        "mindate": "1893-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Beaver Dam, WI 53916",
+        "datacoverage": 1,
+        "id": "ZIP:53916"
+    },
+    {
+        "mindate": "2010-03-25",
+        "maxdate": "2010-09-23",
+        "name": "Beaver Dams, NY 14812",
+        "datacoverage": 0.6393,
+        "id": "ZIP:14812"
+    },
+    {
+        "mindate": "1899-03-01",
+        "maxdate": "2025-02-24",
+        "name": "Beaver Falls, PA 15010",
+        "datacoverage": 1,
+        "id": "ZIP:15010"
+    },
+    {
+        "mindate": "1905-08-01",
+        "maxdate": "2024-12-31",
+        "name": "Beaver Island, MI 49782",
+        "datacoverage": 1,
+        "id": "ZIP:49782"
+    },
+    {
+        "mindate": "1996-10-01",
+        "maxdate": "1997-02-01",
+        "name": "Beaver Meadows, PA 18216",
+        "datacoverage": 1,
+        "id": "ZIP:18216"
+    },
+    {
+        "mindate": "1971-06-29",
+        "maxdate": "2000-11-30",
+        "name": "Beaver, AK 99724",
+        "datacoverage": 0.5941,
+        "id": "ZIP:99724"
+    },
+    {
+        "mindate": "1896-02-01",
+        "maxdate": "2025-02-23",
+        "name": "Beaver, OK 73932",
+        "datacoverage": 1,
+        "id": "ZIP:73932"
+    },
+    {
+        "mindate": "1893-07-01",
+        "maxdate": "2025-02-25",
+        "name": "Beaver, PA 15009",
+        "datacoverage": 1,
+        "id": "ZIP:15009"
+    },
+    {
+        "mindate": "1893-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Beaver, UT 84713",
+        "datacoverage": 1,
+        "id": "ZIP:84713"
+    },
+    {
+        "mindate": "1963-05-15",
+        "maxdate": "2025-02-25",
+        "name": "Beaver, WV 25813",
+        "datacoverage": 1,
+        "id": "ZIP:25813"
+    },
+    {
+        "mindate": "2007-12-08",
+        "maxdate": "2010-05-12",
+        "name": "Beavercreek, OR 97004",
+        "datacoverage": 1,
+        "id": "ZIP:97004"
+    },
+    {
+        "mindate": "2004-04-01",
+        "maxdate": "2025-02-24",
+        "name": "Beaverdam, VA 23015",
+        "datacoverage": 1,
+        "id": "ZIP:23015"
+    },
+    {
+        "mindate": "1948-07-01",
+        "maxdate": "2015-09-08",
+        "name": "Beaverton, MI 48612",
+        "datacoverage": 1,
+        "id": "ZIP:48612"
+    },
+    {
+        "mindate": "1972-10-01",
+        "maxdate": "2025-02-25",
+        "name": "Beaverton, OR 97005",
+        "datacoverage": 1,
+        "id": "ZIP:97005"
+    },
+    {
+        "mindate": "2007-07-01",
+        "maxdate": "2025-01-31",
+        "name": "Beaverton, OR 97006",
+        "datacoverage": 1,
+        "id": "ZIP:97006"
+    },
+    {
+        "mindate": "2007-12-16",
+        "maxdate": "2025-02-24",
+        "name": "Beaverton, OR 97007",
+        "datacoverage": 1,
+        "id": "ZIP:97007"
+    },
+    {
+        "mindate": "1985-07-02",
+        "maxdate": "2025-02-25",
+        "name": "Beaverton, OR 97008",
+        "datacoverage": 1,
+        "id": "ZIP:97008"
+    },
+    {
+        "mindate": "1946-02-01",
+        "maxdate": "2015-10-31",
+        "name": "Beavertown, PA 17813",
+        "datacoverage": 1,
+        "id": "ZIP:17813"
+    },
+    {
+        "mindate": "1958-03-05",
+        "maxdate": "2012-03-31",
+        "name": "Bechtelsville, PA 19505",
+        "datacoverage": 1,
+        "id": "ZIP:19505"
+    },
+    {
+        "mindate": "2015-04-19",
+        "maxdate": "2025-02-09",
+        "name": "Becker, MN 55308",
+        "datacoverage": 1,
+        "id": "ZIP:55308"
+    },
+    {
+        "mindate": "1948-06-01",
+        "maxdate": "2024-10-25",
+        "name": "Becket, MA 01223",
+        "datacoverage": 1,
+        "id": "ZIP:01223"
+    },
+    {
+        "mindate": "1893-12-01",
+        "maxdate": "2025-02-25",
+        "name": "Beckley, WV 25801",
+        "datacoverage": 1,
+        "id": "ZIP:25801"
+    },
+    {
+        "mindate": "1898-09-21",
+        "maxdate": "2025-02-13",
+        "name": "Bedford, IA 50833",
+        "datacoverage": 1,
+        "id": "ZIP:50833"
+    },
+    {
+        "mindate": "1893-02-01",
+        "maxdate": "2025-02-25",
+        "name": "Bedford, IN 47421",
+        "datacoverage": 1,
+        "id": "ZIP:47421"
+    },
+    {
+        "mindate": "2008-01-06",
+        "maxdate": "2025-02-25",
+        "name": "Bedford, KY 40006",
+        "datacoverage": 0.9527,
+        "id": "ZIP:40006"
+    },
+    {
+        "mindate": "1968-06-01",
+        "maxdate": "2025-02-24",
+        "name": "Bedford, MA 01730",
+        "datacoverage": 1,
+        "id": "ZIP:01730"
+    },
+    {
+        "mindate": "1931-07-01",
+        "maxdate": "2025-02-25",
+        "name": "Bedford, PA 15522",
+        "datacoverage": 0.9968,
+        "id": "ZIP:15522"
+    },
+    {
+        "mindate": "2008-05-08",
+        "maxdate": "2022-08-24",
+        "name": "Bedford, TX 76021",
+        "datacoverage": 1,
+        "id": "ZIP:76021"
+    },
+    {
+        "mindate": "1893-01-01",
+        "maxdate": "2025-02-24",
+        "name": "Bedford, VA 24523",
+        "datacoverage": 1,
+        "id": "ZIP:24523"
+    },
+    {
+        "mindate": "1899-07-13",
+        "maxdate": "2025-02-25",
+        "name": "Bedford, WY 83112",
+        "datacoverage": 1,
+        "id": "ZIP:83112"
+    },
+    {
+        "mindate": "1940-03-08",
+        "maxdate": "2025-02-25",
+        "name": "Bedias, TX 77831",
+        "datacoverage": 0.9251,
+        "id": "ZIP:77831"
+    },
+    {
+        "mindate": "1999-06-01",
+        "maxdate": "2025-02-25",
+        "name": "Bedminster, NJ 07921",
+        "datacoverage": 1,
+        "id": "ZIP:07921"
+    },
+    {
+        "mindate": "1948-08-01",
+        "maxdate": "2025-02-25",
+        "name": "Bedrock, CO 81411",
+        "datacoverage": 1,
+        "id": "ZIP:81411"
+    },
+    {
+        "mindate": "1892-08-10",
+        "maxdate": "2025-02-25",
+        "name": "Bee Branch, AR 72013",
+        "datacoverage": 0.9675,
+        "id": "ZIP:72013"
+    },
+    {
+        "mindate": "1964-04-01",
+        "maxdate": "2025-02-24",
+        "name": "Bee Spring, KY 42207",
+        "datacoverage": 1,
+        "id": "ZIP:42207"
+    },
+    {
+        "mindate": "2005-04-26",
+        "maxdate": "2005-11-11",
+        "name": "Bee, NE 68314",
+        "datacoverage": 0.855,
+        "id": "ZIP:68314"
+    },
+    {
+        "mindate": "1948-11-18",
+        "maxdate": "2025-02-24",
+        "name": "Beebe, AR 72012",
+        "datacoverage": 1,
+        "id": "ZIP:72012"
+    },
+    {
+        "mindate": "2007-04-14",
+        "maxdate": "2016-11-30",
+        "name": "Beech Bluff, TN 38313",
+        "datacoverage": 1,
+        "id": "ZIP:38313"
+    },
+    {
+        "mindate": "1953-09-04",
+        "maxdate": "1957-11-30",
+        "name": "Beech Creek, PA 16822",
+        "datacoverage": 1,
+        "id": "ZIP:16822"
+    },
+    {
+        "mindate": "1941-11-01",
+        "maxdate": "1975-04-30",
+        "name": "Beech Grove, AR 72412",
+        "datacoverage": 1,
+        "id": "ZIP:72412"
+    },
+    {
+        "mindate": "1989-04-01",
+        "maxdate": "2013-08-04",
+        "name": "Beech Grove, IN 46107",
+        "datacoverage": 0.9895,
+        "id": "ZIP:46107"
+    },
+    {
+        "mindate": "2009-03-12",
+        "maxdate": "2011-01-02",
+        "name": "Beech Island, SC 29842",
+        "datacoverage": 1,
+        "id": "ZIP:29842"
+    },
+    {
+        "mindate": "1974-09-01",
+        "maxdate": "2025-02-24",
+        "name": "Beecher City, IL 62414",
+        "datacoverage": 1,
+        "id": "ZIP:62414"
+    },
+    {
+        "mindate": "2007-05-10",
+        "maxdate": "2025-02-25",
+        "name": "Beecher, IL 60401",
+        "datacoverage": 1,
+        "id": "ZIP:60401"
+    },
+    {
+        "mindate": "1949-01-01",
+        "maxdate": "1962-03-31",
+        "name": "Beechgrove, TN 37018",
+        "datacoverage": 1,
+        "id": "ZIP:37018"
+    },
+    {
+        "mindate": "2007-11-03",
+        "maxdate": "2025-01-31",
+        "name": "Beeler, KS 67518",
+        "datacoverage": 1,
+        "id": "ZIP:67518"
+    },
+    {
+        "mindate": "1948-06-01",
+        "maxdate": "2025-02-22",
+        "name": "Beemer, NE 68716",
+        "datacoverage": 0.9554,
+        "id": "ZIP:68716"
+    },
+    {
+        "mindate": "2007-04-04",
+        "maxdate": "2025-02-24",
+        "name": "Beersheba Springs, TN 37305",
+        "datacoverage": 0.8091,
+        "id": "ZIP:37305"
+    },
+    {
+        "mindate": "1895-08-01",
+        "maxdate": "2025-02-25",
+        "name": "Beeville, TX 78102",
+        "datacoverage": 1,
+        "id": "ZIP:78102"
+    },
+    {
+        "mindate": "1983-08-01",
+        "maxdate": "2004-04-30",
+        "name": "Beggs, OK 74421",
+        "datacoverage": 1,
+        "id": "ZIP:74421"
+    },
+    {
+        "mindate": "2007-06-04",
+        "maxdate": "2025-02-22",
+        "name": "Bel Air, MD 21014",
+        "datacoverage": 0.7257,
+        "id": "ZIP:21014"
+    },
+    {
+        "mindate": "2010-06-15",
+        "maxdate": "2025-02-17",
+        "name": "Bel Air, MD 21015",
+        "datacoverage": 1,
+        "id": "ZIP:21015"
+    },
+    {
+        "mindate": "1948-06-01",
+        "maxdate": "2025-02-24",
+        "name": "Belchertown, MA 01007",
+        "datacoverage": 1,
+        "id": "ZIP:01007"
+    },
+    {
+        "mindate": "1945-06-16",
+        "maxdate": "2025-02-16",
+        "name": "Belcourt, ND 58316",
+        "datacoverage": 1,
+        "id": "ZIP:58316"
+    },
+    {
+        "mindate": "1941-10-20",
+        "maxdate": "2024-12-31",
+        "name": "Belden, CA 95915",
+        "datacoverage": 0.939,
+        "id": "ZIP:95915"
+    },
+    {
+        "mindate": "1974-09-01",
+        "maxdate": "1988-06-01",
+        "name": "Belden, MS 38826",
+        "datacoverage": 0.9626,
+        "id": "ZIP:38826"
+    },
+    {
+        "mindate": "2013-05-05",
+        "maxdate": "2020-10-18",
+        "name": "Beldenville, WI 54003",
+        "datacoverage": 1,
+        "id": "ZIP:54003"
+    },
+    {
+        "mindate": "1964-10-01",
+        "maxdate": "2016-08-21",
+        "name": "Belding, MI 48809",
+        "datacoverage": 1,
+        "id": "ZIP:48809"
+    },
+    {
+        "mindate": "1892-12-01",
+        "maxdate": "2025-02-25",
+        "name": "Belen, NM 87002",
+        "datacoverage": 1,
+        "id": "ZIP:87002"
+    },
+    {
+        "mindate": "2011-10-23",
+        "maxdate": "2025-02-24",
+        "name": "Belfair, WA 98528",
+        "datacoverage": 1,
+        "id": "ZIP:98528"
+    },
+    {
+        "mindate": "1948-06-01",
+        "maxdate": "2025-02-25",
+        "name": "Belfast, ME 04915",
+        "datacoverage": 1,
+        "id": "ZIP:04915"
+    },
+    {
+        "mindate": "2007-07-04",
+        "maxdate": "2025-02-24",
+        "name": "Belfast, TN 37019",
+        "datacoverage": 0.9825,
+        "id": "ZIP:37019"
+    },
+    {
+        "mindate": "1918-04-01",
+        "maxdate": "2025-02-25",
+        "name": "Belfield, ND 58622",
+        "datacoverage": 1,
+        "id": "ZIP:58622"
+    },
+    {
+        "mindate": "1961-04-01",
+        "maxdate": "1968-07-31",
+        "name": "Belford, NJ 07718",
+        "datacoverage": 1,
+        "id": "ZIP:07718"
+    },
+    {
+        "mindate": "1964-10-01",
+        "maxdate": "1974-01-01",
+        "name": "Belfry, KY 41514",
+        "datacoverage": 0.8664,
+        "id": "ZIP:41514"
+    },
+    {
+        "mindate": "1951-08-01",
+        "maxdate": "1974-06-01",
+        "name": "Belfry, MT 59008",
+        "datacoverage": 0.8309,
+        "id": "ZIP:59008"
+    },
+    {
+        "mindate": "2009-10-01",
+        "maxdate": "2025-02-25",
+        "name": "Belgium, WI 53004",
+        "datacoverage": 1,
+        "id": "ZIP:53004"
+    },
+    {
+        "mindate": "2010-02-26",
+        "maxdate": "2025-02-25",
+        "name": "Belgrade, MN 56312",
+        "datacoverage": 1,
+        "id": "ZIP:56312"
+    },
+    {
+        "mindate": "1909-03-24",
+        "maxdate": "2025-02-24",
+        "name": "Belgrade, MT 59714",
+        "datacoverage": 1,
+        "id": "ZIP:59714"
+    },
+    {
+        "mindate": "2002-09-01",
+        "maxdate": "2025-02-01",
+        "name": "Belgrade, NE 68623",
+        "datacoverage": 1,
+        "id": "ZIP:68623"
+    },
+    {
+        "mindate": "1908-09-05",
+        "maxdate": "2025-02-25",
+        "name": "Belhaven, NC 27810",
+        "datacoverage": 1,
+        "id": "ZIP:27810"
+    },
+    {
+        "mindate": "1938-03-01",
+        "maxdate": "2024-11-26",
+        "name": "Belington, WV 26250",
+        "datacoverage": 1,
+        "id": "ZIP:26250"
+    },
+    {
+        "mindate": "2007-04-11",
+        "maxdate": "2025-02-25",
+        "name": "Bell Buckle, TN 37020",
+        "datacoverage": 0.8885,
+        "id": "ZIP:37020"
+    },
+    {
+        "mindate": "1997-02-01",
+        "maxdate": "2020-08-20",
+        "name": "Bell City, LA 70630",
+        "datacoverage": 1,
+        "id": "ZIP:70630"
+    },
+    {
+        "mindate": "2000-03-01",
+        "maxdate": "2025-02-24",
+        "name": "Bell, FL 32619",
+        "datacoverage": 0.7182,
+        "id": "ZIP:32619"
+    },
+    {
+        "mindate": "2009-04-19",
+        "maxdate": "2025-02-25",
+        "name": "Bella Vista, AR 72715",
+        "datacoverage": 1,
+        "id": "ZIP:72715"
+    },
+    {
+        "mindate": "1948-07-01",
+        "maxdate": "1958-09-30",
+        "name": "Bella Vista, CA 96008",
+        "datacoverage": 1,
+        "id": "ZIP:96008"
+    },
+    {
+        "mindate": "1890-07-01",
+        "maxdate": "2024-11-27",
+        "name": "Bellaire, MI 49615",
+        "datacoverage": 1,
+        "id": "ZIP:49615"
+    },
+    {
+        "mindate": "1950-04-15",
+        "maxdate": "1999-06-18",
+        "name": "Bellaire, OH 43906",
+        "datacoverage": 1,
+        "id": "ZIP:43906"
+    },
+    {
+        "mindate": "2020-12-01",
+        "maxdate": "2022-06-28",
+        "name": "Bellaire, TX 77401",
+        "datacoverage": 0.513,
+        "id": "ZIP:77401"
+    },
+    {
+        "mindate": "2012-09-07",
+        "maxdate": "2023-11-09",
+        "name": "Bellbrook, OH 45305",
+        "datacoverage": 1,
+        "id": "ZIP:45305"
+    },
+    {
+        "mindate": "1964-12-01",
+        "maxdate": "2025-02-11",
+        "name": "Belle Center, OH 43310",
+        "datacoverage": 0.9765,
+        "id": "ZIP:43310"
+    },
+    {
+        "mindate": "1943-04-16",
+        "maxdate": "2025-02-25",
+        "name": "Belle Chasse, LA 70037",
+        "datacoverage": 1,
+        "id": "ZIP:70037"
+    },
+    {
+        "mindate": "1906-06-01",
+        "maxdate": "2025-02-25",
+        "name": "Belle Fourche, SD 57717",
+        "datacoverage": 1,
+        "id": "ZIP:57717"
+    },
+    {
+        "mindate": "1915-12-01",
+        "maxdate": "2025-02-25",
+        "name": "Belle Glade, FL 33430",
+        "datacoverage": 1,
+        "id": "ZIP:33430"
+    },
+    {
+        "mindate": "2009-10-16",
+        "maxdate": "2019-01-05",
+        "name": "Belle Mead, NJ 08502",
+        "datacoverage": 0.9534,
+        "id": "ZIP:08502"
+    },
+    {
+        "mindate": "1893-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Belle Plaine, IA 52208",
+        "datacoverage": 1,
+        "id": "ZIP:52208"
+    },
+    {
+        "mindate": "1950-10-01",
+        "maxdate": "2025-02-25",
+        "name": "Belle Plaine, KS 67013",
+        "datacoverage": 1,
+        "id": "ZIP:67013"
+    },
+    {
+        "mindate": "1893-09-01",
+        "maxdate": "2024-11-19",
+        "name": "Belle Plaine, MN 56011",
+        "datacoverage": 1,
+        "id": "ZIP:56011"
+    },
+    {
+        "mindate": "1972-07-01",
+        "maxdate": "2025-02-24",
+        "name": "Belle Rive, IL 62810",
+        "datacoverage": 1,
+        "id": "ZIP:62810"
+    },
+    {
+        "mindate": "1886-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Belle Vernon, PA 15012",
+        "datacoverage": 1,
+        "id": "ZIP:15012"
+    },
+    {
+        "mindate": "1893-01-01",
+        "maxdate": "2019-10-30",
+        "name": "Belle, MO 65013",
+        "datacoverage": 1,
+        "id": "ZIP:65013"
+    },
+    {
+        "mindate": "1894-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Bellefontaine, OH 43311",
+        "datacoverage": 1,
+        "id": "ZIP:43311"
+    },
+    {
+        "mindate": "1900-10-01",
+        "maxdate": "2025-02-25",
+        "name": "Bellefonte, PA 16823",
+        "datacoverage": 1,
+        "id": "ZIP:16823"
+    },
+    {
+        "mindate": "2008-08-01",
+        "maxdate": "2025-02-25",
+        "name": "Belleview, FL 34420",
+        "datacoverage": 1,
+        "id": "ZIP:34420"
+    },
+    {
+        "mindate": "1936-10-12",
+        "maxdate": "2000-09-30",
+        "name": "Belleview, MO 63623",
+        "datacoverage": 1,
+        "id": "ZIP:63623"
+    },
+    {
+        "mindate": "2006-12-08",
+        "maxdate": "2025-02-24",
+        "name": "Belleville, IL 62220",
+        "datacoverage": 1,
+        "id": "ZIP:62220"
+    },
+    {
+        "mindate": "1965-01-01",
+        "maxdate": "2025-02-14",
+        "name": "Belleville, IL 62221",
+        "datacoverage": 0.9915,
+        "id": "ZIP:62221"
+    },
+    {
+        "mindate": "2007-05-17",
+        "maxdate": "2020-10-30",
+        "name": "Belleville, IL 62223",
+        "datacoverage": 1,
+        "id": "ZIP:62223"
+    },
+    {
+        "mindate": "1941-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Belleville, IL 62226",
+        "datacoverage": 1,
+        "id": "ZIP:62226"
+    },
+    {
+        "mindate": "1929-09-01",
+        "maxdate": "2025-02-25",
+        "name": "Belleville, KS 66935",
+        "datacoverage": 1,
+        "id": "ZIP:66935"
+    },
+    {
+        "mindate": "1948-01-01",
+        "maxdate": "2025-02-24",
+        "name": "Belleville, MI 48111",
+        "datacoverage": 1,
+        "id": "ZIP:48111"
+    },
+    {
+        "mindate": "1893-04-01",
+        "maxdate": "2025-02-24",
+        "name": "Belleville, WI 53508",
+        "datacoverage": 1,
+        "id": "ZIP:53508"
+    },
+    {
+        "mindate": "1977-11-16",
+        "maxdate": "2025-02-25",
+        "name": "Bellevue, IA 52031",
+        "datacoverage": 0.9949,
+        "id": "ZIP:52031"
+    },
+    {
+        "mindate": "1916-05-15",
+        "maxdate": "2025-02-24",
+        "name": "Bellevue, ID 83313",
+        "datacoverage": 1,
+        "id": "ZIP:83313"
+    },
+    {
+        "mindate": "2008-07-18",
+        "maxdate": "2025-02-25",
+        "name": "Bellevue, MI 49021",
+        "datacoverage": 1,
+        "id": "ZIP:49021"
+    },
+    {
+        "mindate": "1905-02-14",
+        "maxdate": "2024-11-19",
+        "name": "Bellevue, NE 68005",
+        "datacoverage": 1,
+        "id": "ZIP:68005"
+    },
+    {
+        "mindate": "2006-06-01",
+        "maxdate": "2025-02-25",
+        "name": "Bellevue, NE 68123",
+        "datacoverage": 1,
+        "id": "ZIP:68123"
+    },
+    {
+        "mindate": "2012-02-15",
+        "maxdate": "2023-05-31",
+        "name": "Bellevue, NE 68147",
+        "datacoverage": 0.9893,
+        "id": "ZIP:68147"
+    },
+    {
+        "mindate": "2009-02-07",
+        "maxdate": "2025-02-25",
+        "name": "Bellevue, OH 44811",
+        "datacoverage": 1,
+        "id": "ZIP:44811"
+    },
+    {
+        "mindate": "1975-10-01",
+        "maxdate": "2010-09-01",
+        "name": "Bellevue, TX 76228",
+        "datacoverage": 0.8918,
+        "id": "ZIP:76228"
+    },
+    {
+        "mindate": "2008-07-03",
+        "maxdate": "2023-09-14",
+        "name": "Bellevue, WA 98004",
+        "datacoverage": 0.9739,
+        "id": "ZIP:98004"
+    },
+    {
+        "mindate": "2008-07-01",
+        "maxdate": "2016-07-16",
+        "name": "Bellevue, WA 98005",
+        "datacoverage": 0.806,
+        "id": "ZIP:98005"
+    },
+    {
+        "mindate": "2008-06-11",
+        "maxdate": "2024-04-21",
+        "name": "Bellevue, WA 98006",
+        "datacoverage": 1,
+        "id": "ZIP:98006"
+    },
+    {
+        "mindate": "2008-06-15",
+        "maxdate": "2024-09-23",
+        "name": "Bellevue, WA 98007",
+        "datacoverage": 1,
+        "id": "ZIP:98007"
+    },
+    {
+        "mindate": "2008-08-09",
+        "maxdate": "2009-04-12",
+        "name": "Bellevue, WA 98008",
+        "datacoverage": 0.7166,
+        "id": "ZIP:98008"
+    },
+    {
+        "mindate": "2015-06-07",
+        "maxdate": "2025-02-25",
+        "name": "Bellingham, MA 02019",
+        "datacoverage": 0.914,
+        "id": "ZIP:02019"
+    },
+    {
+        "mindate": "1931-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Bellingham, WA 98225",
+        "datacoverage": 1,
+        "id": "ZIP:98225"
+    },
+    {
+        "mindate": "1915-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Bellingham, WA 98226",
+        "datacoverage": 1,
+        "id": "ZIP:98226"
+    },
+    {
+        "mindate": "2003-05-02",
+        "maxdate": "2025-02-25",
+        "name": "Bellingham, WA 98229",
+        "datacoverage": 1,
+        "id": "ZIP:98229"
+    },
+    {
+        "mindate": "2022-09-22",
+        "maxdate": "2025-02-25",
+        "name": "Bellmore, NY 11710",
+        "datacoverage": 1,
+        "id": "ZIP:11710"
+    },
+    {
+        "mindate": "1919-03-01",
+        "maxdate": "2025-02-25",
+        "name": "Bellows Falls, VT 05101",
+        "datacoverage": 0.9866,
+        "id": "ZIP:05101"
+    },
+    {
+        "mindate": "2009-03-27",
+        "maxdate": "2019-07-30",
+        "name": "Bells, TN 38006",
+        "datacoverage": 0.9145,
+        "id": "ZIP:38006"
+    },
+    {
+        "mindate": "2018-07-12",
+        "maxdate": "2025-02-25",
+        "name": "Bells, TX 75414",
+        "datacoverage": 1,
+        "id": "ZIP:75414"
+    },
+    {
+        "mindate": "1978-11-01",
+        "maxdate": "2025-02-25",
+        "name": "Bellville, TX 77418",
+        "datacoverage": 1,
+        "id": "ZIP:77418"
+    },
+    {
+        "mindate": "1959-10-21",
+        "maxdate": "2025-02-25",
+        "name": "Bellvue, CO 80512",
+        "datacoverage": 1,
+        "id": "ZIP:80512"
+    },
+    {
+        "mindate": "2006-05-01",
+        "maxdate": "2025-02-18",
+        "name": "Bellwood, NE 68624",
+        "datacoverage": 1,
+        "id": "ZIP:68624"
+    },
+    {
+        "mindate": "1941-10-07",
+        "maxdate": "2025-02-24",
+        "name": "Belmar, NJ 07719",
+        "datacoverage": 1,
+        "id": "ZIP:07719"
+    },
+    {
+        "mindate": "1909-12-01",
+        "maxdate": "1945-12-31",
+        "name": "Belmond, IA 50421",
+        "datacoverage": 1,
+        "id": "ZIP:50421"
+    },
+    {
+        "mindate": "2011-01-01",
+        "maxdate": "2023-12-14",
+        "name": "Belmont, CA 94002",
+        "datacoverage": 0.9904,
+        "id": "ZIP:94002"
+    },
+    {
+        "mindate": "2011-03-28",
+        "maxdate": "2024-11-02",
+        "name": "Belmont, MA 02478",
+        "datacoverage": 0.5411,
+        "id": "ZIP:02478"
+    },
+    {
+        "mindate": "2011-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Belmont, MI 49306",
+        "datacoverage": 0.9607,
+        "id": "ZIP:49306"
+    },
+    {
+        "mindate": "1981-10-01",
+        "maxdate": "2003-02-13",
+        "name": "Belmont, MS 38827",
+        "datacoverage": 0.7036,
+        "id": "ZIP:38827"
+    },
+    {
+        "mindate": "2009-09-20",
+        "maxdate": "2025-02-17",
+        "name": "Belmont, NC 28012",
+        "datacoverage": 0.9519,
+        "id": "ZIP:28012"
+    },
+    {
+        "mindate": "2009-06-22",
+        "maxdate": "2025-02-25",
+        "name": "Belmont, NH 03220",
+        "datacoverage": 0.9045,
+        "id": "ZIP:03220"
+    },
+    {
+        "mindate": "2024-02-28",
+        "maxdate": "2024-11-28",
+        "name": "Belmont, NY 14813",
+        "datacoverage": 1,
+        "id": "ZIP:14813"
+    },
+    {
+        "mindate": "1948-05-03",
+        "maxdate": "1949-06-24",
+        "name": "Belmont, OH 43718",
+        "datacoverage": 1,
+        "id": "ZIP:43718"
+    },
+    {
+        "mindate": "1893-03-01",
+        "maxdate": "2025-02-25",
+        "name": "Beloit, KS 67420",
+        "datacoverage": 1,
+        "id": "ZIP:67420"
+    },
+    {
+        "mindate": "1945-10-01",
+        "maxdate": "1949-01-31",
+        "name": "Beloit, OH 44609",
+        "datacoverage": 0.7116,
+        "id": "ZIP:44609"
+    },
+    {
+        "mindate": "1893-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Beloit, WI 53511",
+        "datacoverage": 1,
+        "id": "ZIP:53511"
+    },
+    {
+        "mindate": "2007-03-22",
+        "maxdate": "2024-11-19",
+        "name": "Belpre, KS 67519",
+        "datacoverage": 1,
+        "id": "ZIP:67519"
+    },
+    {
+        "mindate": "2013-10-27",
+        "maxdate": "2022-10-05",
+        "name": "Belpre, OH 45714",
+        "datacoverage": 1,
+        "id": "ZIP:45714"
+    },
+    {
+        "mindate": "2010-06-21",
+        "maxdate": "2025-02-22",
+        "name": "Belt, MT 59412",
+        "datacoverage": 0.3113,
+        "id": "ZIP:59412"
+    },
+    {
+        "mindate": "1994-03-01",
+        "maxdate": "2002-02-28",
+        "name": "Belton, KY 42324",
+        "datacoverage": 1,
+        "id": "ZIP:42324"
+    },
+    {
+        "mindate": "1954-03-27",
+        "maxdate": "2025-02-25",
+        "name": "Belton, MO 64012",
+        "datacoverage": 1,
+        "id": "ZIP:64012"
+    },
+    {
+        "mindate": "1941-02-09",
+        "maxdate": "2025-02-25",
+        "name": "Belton, SC 29627",
+        "datacoverage": 1,
+        "id": "ZIP:29627"
+    },
+    {
+        "mindate": "1963-07-01",
+        "maxdate": "2025-02-25",
+        "name": "Belton, TX 76513",
+        "datacoverage": 1,
+        "id": "ZIP:76513"
+    },
+    {
+        "mindate": "2001-10-01",
+        "maxdate": "2025-02-04",
+        "name": "Beltrami Isl State for, MN 00165",
+        "datacoverage": 0.9726,
+        "id": "ZIP:00165"
+    },
+    {
+        "mindate": "1941-05-01",
+        "maxdate": "2025-02-24",
+        "name": "Beltsville, MD 20705",
+        "datacoverage": 1,
+        "id": "ZIP:20705"
+    },
+    {
+        "mindate": "1954-06-01",
+        "maxdate": "1982-01-31",
+        "name": "Belva, WV 26656",
+        "datacoverage": 0.916,
+        "id": "ZIP:26656"
+    },
+    {
+        "mindate": "1941-11-01",
+        "maxdate": "2025-02-25",
+        "name": "Belvidere, IL 61008",
+        "datacoverage": 1,
+        "id": "ZIP:61008"
+    },
+    {
+        "mindate": "2011-03-20",
+        "maxdate": "2016-11-14",
+        "name": "Belvidere, NC 27919",
+        "datacoverage": 1,
+        "id": "ZIP:27919"
+    },
+    {
+        "mindate": "1893-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Belvidere, NJ 07823",
+        "datacoverage": 1,
+        "id": "ZIP:07823"
+    },
+    {
+        "mindate": "1948-05-01",
+        "maxdate": "2009-12-14",
+        "name": "Belvidere, SD 57521",
+        "datacoverage": 1,
+        "id": "ZIP:57521"
+    },
+    {
+        "mindate": "1948-09-01",
+        "maxdate": "2012-01-11",
+        "name": "Belvidere, TN 37306",
+        "datacoverage": 1,
+        "id": "ZIP:37306"
+    },
+    {
+        "mindate": "2019-03-23",
+        "maxdate": "2025-02-25",
+        "name": "Belview, MN 56214",
+        "datacoverage": 0.8639,
+        "id": "ZIP:56214"
+    },
+    {
+        "mindate": "2013-03-01",
+        "maxdate": "2025-02-19",
+        "name": "Belvue, KS 66407",
+        "datacoverage": 1,
+        "id": "ZIP:66407"
+    },
+    {
+        "mindate": "1930-04-10",
+        "maxdate": "2025-02-03",
+        "name": "Belzoni, MS 39038",
+        "datacoverage": 0.928,
+        "id": "ZIP:39038"
+    },
+    {
+        "mindate": "2021-04-13",
+        "maxdate": "2025-02-25",
+        "name": "Bement, IL 61813",
+        "datacoverage": 1,
+        "id": "ZIP:61813"
+    },
+    {
+        "mindate": "1896-02-01",
+        "maxdate": "2025-02-25",
+        "name": "Bemidji, MN 56601",
+        "datacoverage": 1,
+        "id": "ZIP:56601"
+    },
+    {
+        "mindate": "1906-03-01",
+        "maxdate": "2025-02-25",
+        "name": "Ben Lomond, CA 95005",
+        "datacoverage": 1,
+        "id": "ZIP:95005"
+    },
+    {
+        "mindate": "1972-01-12",
+        "maxdate": "2025-02-24",
+        "name": "Ben Wheeler, TX 75754",
+        "datacoverage": 1,
+        "id": "ZIP:75754"
+    },
+    {
+        "mindate": "1893-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Bena, MN 56626",
+        "datacoverage": 0.9867,
+        "id": "ZIP:56626"
+    },
+    {
+        "mindate": "1901-04-01",
+        "maxdate": "2025-02-25",
+        "name": "Bend, OR 97701",
+        "datacoverage": 1,
+        "id": "ZIP:97701"
+    },
+    {
+        "mindate": "1986-09-12",
+        "maxdate": "2025-02-25",
+        "name": "Bend, OR 97702",
+        "datacoverage": 1,
+        "id": "ZIP:97702"
+    },
+    {
+        "mindate": "1909-06-01",
+        "maxdate": "2024-01-31",
+        "name": "Bend, OR 97707",
+        "datacoverage": 1,
+        "id": "ZIP:97707"
+    },
+    {
+        "mindate": "1940-06-03",
+        "maxdate": "2014-10-23",
+        "name": "Bendena, KS 66008",
+        "datacoverage": 1,
+        "id": "ZIP:66008"
+    },
+    {
+        "mindate": "2012-09-25",
+        "maxdate": "2025-02-25",
+        "name": "Benedict, KS 66714",
+        "datacoverage": 0.9192,
+        "id": "ZIP:66714"
+    },
+    {
+        "mindate": "1897-05-01",
+        "maxdate": "2025-02-22",
+        "name": "Benedict, NE 68316",
+        "datacoverage": 1,
+        "id": "ZIP:68316"
+    },
+    {
+        "mindate": "1940-04-01",
+        "maxdate": "1948-01-01",
+        "name": "Benham, KY 40807",
+        "datacoverage": 1,
+        "id": "ZIP:40807"
+    },
+    {
+        "mindate": "2010-02-05",
+        "maxdate": "2025-02-23",
+        "name": "Benicia, CA 94510",
+        "datacoverage": 1,
+        "id": "ZIP:94510"
+    },
+    {
+        "mindate": "1893-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Benkelman, NE 69021",
+        "datacoverage": 1,
+        "id": "ZIP:69021"
+    },
+    {
+        "mindate": "1943-01-01",
+        "maxdate": "2016-08-12",
+        "name": "Bennet, NE 68317",
+        "datacoverage": 1,
+        "id": "ZIP:68317"
+    },
+    {
+        "mindate": "1989-01-01",
+        "maxdate": "2025-02-21",
+        "name": "Bennett, CO 80102",
+        "datacoverage": 1,
+        "id": "ZIP:80102"
+    },
+    {
+        "mindate": "1902-08-01",
+        "maxdate": "2025-02-25",
+        "name": "Bennettsville, SC 29512",
+        "datacoverage": 1,
+        "id": "ZIP:29512"
+    },
+    {
+        "mindate": "2022-03-22",
+        "maxdate": "2025-02-19",
+        "name": "Bennington, KS 67422",
+        "datacoverage": 1,
+        "id": "ZIP:67422"
+    },
+    {
+        "mindate": "1985-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Bennington, NE 68007",
+        "datacoverage": 1,
+        "id": "ZIP:68007"
+    },
+    {
+        "mindate": "1893-02-01",
+        "maxdate": "1894-10-25",
+        "name": "Bennington, NH 03442",
+        "datacoverage": 1,
+        "id": "ZIP:03442"
+    },
+    {
+        "mindate": "1896-11-01",
+        "maxdate": "2025-02-22",
+        "name": "Bennington, VT 05201",
+        "datacoverage": 1,
+        "id": "ZIP:05201"
+    },
+    {
+        "mindate": "1918-06-01",
+        "maxdate": "1978-08-31",
+        "name": "Benoit, MS 38725",
+        "datacoverage": 1,
+        "id": "ZIP:38725"
+    },
+    {
+        "mindate": "1915-01-01",
+        "maxdate": "2019-08-31",
+        "name": "Bensalem, PA 19020",
+        "datacoverage": 1,
+        "id": "ZIP:19020"
+    },
+    {
+        "mindate": "2011-04-05",
+        "maxdate": "2025-02-23",
+        "name": "Bensenville, IL 60106",
+        "datacoverage": 1,
+        "id": "ZIP:60106"
+    },
+    {
+        "mindate": "1894-06-01",
+        "maxdate": "2025-02-25",
+        "name": "Benson, AZ 85602",
+        "datacoverage": 1,
+        "id": "ZIP:85602"
+    },
+    {
+        "mindate": "2012-07-23",
+        "maxdate": "2025-02-25",
+        "name": "Benson, IL 61516",
+        "datacoverage": 0.9289,
+        "id": "ZIP:61516"
+    },
+    {
+        "mindate": "1952-09-01",
+        "maxdate": "2025-02-25",
+        "name": "Benson, MN 56215",
+        "datacoverage": 1,
+        "id": "ZIP:56215"
+    },
+    {
+        "mindate": "2020-06-19",
+        "maxdate": "2022-07-15",
+        "name": "Benson, NC 27504",
+        "datacoverage": 0.1598,
+        "id": "ZIP:27504"
+    },
+    {
+        "mindate": "2007-04-11",
+        "maxdate": "2025-01-07",
+        "name": "Bentley, KS 67016",
+        "datacoverage": 1,
+        "id": "ZIP:67016"
+    },
+    {
+        "mindate": "1935-04-01",
+        "maxdate": "2025-02-25",
+        "name": "Bentley, LA 71407",
+        "datacoverage": 1,
+        "id": "ZIP:71407"
+    },
+    {
+        "mindate": "2024-03-14",
+        "maxdate": "2025-02-25",
+        "name": "Bentleyville, PA 15314",
+        "datacoverage": 1,
+        "id": "ZIP:15314"
+    },
+    {
+        "mindate": "1905-02-01",
+        "maxdate": "2025-02-25",
+        "name": "Benton City, WA 99320",
+        "datacoverage": 1,
+        "id": "ZIP:99320"
+    },
+    {
+        "mindate": "1893-01-01",
+        "maxdate": "2025-02-22",
+        "name": "Benton Harbor, MI 49022",
+        "datacoverage": 1,
+        "id": "ZIP:49022"
+    },
+    {
+        "mindate": "1907-03-01",
+        "maxdate": "2016-12-04",
+        "name": "Benton, AR 72015",
+        "datacoverage": 1,
+        "id": "ZIP:72015"
+    },
+    {
+        "mindate": "1995-05-05",
+        "maxdate": "2025-02-25",
+        "name": "Benton, AR 72019",
+        "datacoverage": 1,
+        "id": "ZIP:72019"
+    },
+    {
+        "mindate": "1964-10-01",
+        "maxdate": "2003-03-18",
+        "name": "Benton, CA 93512",
+        "datacoverage": 1,
+        "id": "ZIP:93512"
+    },
+    {
+        "mindate": "1948-06-01",
+        "maxdate": "2025-02-25",
+        "name": "Benton, IL 62812",
+        "datacoverage": 1,
+        "id": "ZIP:62812"
+    },
+    {
+        "mindate": "2015-08-02",
+        "maxdate": "2025-02-25",
+        "name": "Benton, KS 67017",
+        "datacoverage": 1,
+        "id": "ZIP:67017"
+    },
+    {
+        "mindate": "1948-08-01",
+        "maxdate": "2025-01-31",
+        "name": "Benton, KY 42025",
+        "datacoverage": 1,
+        "id": "ZIP:42025"
+    },
+    {
+        "mindate": "1998-03-01",
+        "maxdate": "2020-05-18",
+        "name": "Benton, LA 71006",
+        "datacoverage": 1,
+        "id": "ZIP:71006"
+    },
+    {
+        "mindate": "1926-02-01",
+        "maxdate": "2025-02-18",
+        "name": "Benton, MO 63736",
+        "datacoverage": 1,
+        "id": "ZIP:63736"
+    },
+    {
+        "mindate": "2001-03-01",
+        "maxdate": "2016-10-03",
+        "name": "Benton, PA 17814",
+        "datacoverage": 0.9888,
+        "id": "ZIP:17814"
+    },
+    {
+        "mindate": "1890-05-01",
+        "maxdate": "2025-02-25",
+        "name": "Benton, TN 37307",
+        "datacoverage": 1,
+        "id": "ZIP:37307"
+    },
+    {
+        "mindate": "2018-03-08",
+        "maxdate": "2025-02-25",
+        "name": "Benton, WI 53803",
+        "datacoverage": 0.988,
+        "id": "ZIP:53803"
+    },
+    {
+        "mindate": "1943-06-01",
+        "maxdate": "2025-02-24",
+        "name": "Bentonville, AR 72712",
+        "datacoverage": 1,
+        "id": "ZIP:72712"
+    },
+    {
+        "mindate": "2013-04-07",
+        "maxdate": "2025-02-25",
+        "name": "Benzonia, MI 49616",
+        "datacoverage": 0.9625,
+        "id": "ZIP:49616"
+    },
+    {
+        "mindate": "1901-02-01",
+        "maxdate": "2025-02-25",
+        "name": "Berea, KY 40403",
+        "datacoverage": 1,
+        "id": "ZIP:40403"
+    },
+    {
+        "mindate": "2016-01-02",
+        "maxdate": "2025-02-24",
+        "name": "Berea, OH 44017",
+        "datacoverage": 1,
+        "id": "ZIP:44017"
+    },
+    {
+        "mindate": "1962-12-01",
+        "maxdate": "2025-02-24",
+        "name": "Beresford, SD 57004",
+        "datacoverage": 0.9843,
+        "id": "ZIP:57004"
+    },
+    {
+        "mindate": "2008-01-25",
+        "maxdate": "2021-08-07",
+        "name": "Bergenfield, NJ 07621",
+        "datacoverage": 1,
+        "id": "ZIP:07621"
+    },
+    {
+        "mindate": "2008-07-23",
+        "maxdate": "2013-04-18",
+        "name": "Bergheim, TX 78004",
+        "datacoverage": 1,
+        "id": "ZIP:78004"
+    },
+    {
+        "mindate": "1939-01-01",
+        "maxdate": "1942-07-29",
+        "name": "Bergland, MI 49910",
+        "datacoverage": 0.7018,
+        "id": "ZIP:49910"
+    },
+    {
+        "mindate": "1948-08-01",
+        "maxdate": "1951-09-30",
+        "name": "Berkeley Heights, NJ 07922",
+        "datacoverage": 1,
+        "id": "ZIP:07922"
+    },
+    {
+        "mindate": "1895-01-13",
+        "maxdate": "2025-02-23",
+        "name": "Berkeley Springs, WV 25411",
+        "datacoverage": 1,
+        "id": "ZIP:25411"
+    },
+    {
+        "mindate": "2014-01-11",
+        "maxdate": "2015-12-19",
+        "name": "Berkeley, CA 94702",
+        "datacoverage": 1,
+        "id": "ZIP:94702"
+    },
+    {
+        "mindate": "2019-09-16",
+        "maxdate": "2025-02-23",
+        "name": "Berkeley, CA 94703",
+        "datacoverage": 0.9658,
+        "id": "ZIP:94703"
+    },
+    {
+        "mindate": "1893-01-01",
+        "maxdate": "1997-01-01",
+        "name": "Berkeley, CA 94704",
+        "datacoverage": 0.9251,
+        "id": "ZIP:94704"
+    },
+    {
+        "mindate": "2013-05-10",
+        "maxdate": "2020-03-04",
+        "name": "Berkeley, CA 94705",
+        "datacoverage": 0.8788,
+        "id": "ZIP:94705"
+    },
+    {
+        "mindate": "2022-03-01",
+        "maxdate": "2025-02-25",
+        "name": "Berkeley, CA 94707",
+        "datacoverage": 0.8984,
+        "id": "ZIP:94707"
+    },
+    {
+        "mindate": "2017-07-01",
+        "maxdate": "2025-02-15",
+        "name": "Berkeley, CA 94710",
+        "datacoverage": 0.4952,
+        "id": "ZIP:94710"
+    },
+    {
+        "mindate": "1997-01-01",
+        "maxdate": "2024-04-30",
+        "name": "Berkeley, CA 94720",
+        "datacoverage": 0.9251,
+        "id": "ZIP:94720"
+    },
+    {
+        "mindate": "2004-08-01",
+        "maxdate": "2025-02-25",
+        "name": "Berkley, MI 48072",
+        "datacoverage": 1,
+        "id": "ZIP:48072"
+    },
+    {
+        "mindate": "2005-04-01",
+        "maxdate": "2025-02-25",
+        "name": "Berkshire, NY 13736",
+        "datacoverage": 0.961,
+        "id": "ZIP:13736"
+    },
+    {
+        "mindate": "1951-01-01",
+        "maxdate": "1953-12-31",
+        "name": "Berlin Center, OH 44401",
+        "datacoverage": 1,
+        "id": "ZIP:44401"
+    },
+    {
+        "mindate": "2009-02-08",
+        "maxdate": "2025-02-25",
+        "name": "Berlin Heights, OH 44814",
+        "datacoverage": 0.9863,
+        "id": "ZIP:44814"
+    },
+    {
+        "mindate": "2013-06-17",
+        "maxdate": "2025-02-25",
+        "name": "Berlin, CT 06037",
+        "datacoverage": 1,
+        "id": "ZIP:06037"
+    },
+    {
+        "mindate": "2014-04-11",
+        "maxdate": "2025-02-24",
+        "name": "Berlin, MA 01503",
+        "datacoverage": 0.9698,
+        "id": "ZIP:01503"
+    },
+    {
+        "mindate": "1948-12-01",
+        "maxdate": "2025-02-25",
+        "name": "Berlin, MD 21811",
+        "datacoverage": 1,
+        "id": "ZIP:21811"
+    },
+    {
+        "mindate": "1893-03-01",
+        "maxdate": "1909-08-31",
+        "name": "Berlin, ND 58415",
+        "datacoverage": 0.8643,
+        "id": "ZIP:58415"
+    },
+    {
+        "mindate": "1886-06-01",
+        "maxdate": "2025-02-25",
+        "name": "Berlin, NH 03570",
+        "datacoverage": 1,
+        "id": "ZIP:03570"
+    },
+    {
+        "mindate": "1941-07-01",
+        "maxdate": "2017-05-13",
+        "name": "Berlin, NJ 08009",
+        "datacoverage": 1,
+        "id": "ZIP:08009"
+    },
+    {
+        "mindate": "1903-04-01",
+        "maxdate": "1973-08-31",
+        "name": "Berlin, NY 12022",
+        "datacoverage": 1,
+        "id": "ZIP:12022"
+    },
+    {
+        "mindate": "2015-02-23",
+        "maxdate": "2025-02-22",
+        "name": "Berlin, PA 15530",
+        "datacoverage": 1,
+        "id": "ZIP:15530"
+    },
+    {
+        "mindate": "1894-12-01",
+        "maxdate": "2025-02-25",
+        "name": "Berlin, WI 54923",
+        "datacoverage": 1,
+        "id": "ZIP:54923"
+    },
+    {
+        "mindate": "1992-03-01",
+        "maxdate": "2025-02-23",
+        "name": "Bern, ID 83220",
+        "datacoverage": 1,
+        "id": "ZIP:83220"
+    },
+    {
+        "mindate": "1893-11-01",
+        "maxdate": "1901-12-31",
+        "name": "Bern, KS 66408",
+        "datacoverage": 1,
+        "id": "ZIP:66408"
+    },
+    {
+        "mindate": "1895-05-20",
+        "maxdate": "2025-02-25",
+        "name": "Bernalillo, NM 87004",
+        "datacoverage": 1,
+        "id": "ZIP:87004"
+    },
+    {
+        "mindate": "2020-07-14",
+        "maxdate": "2025-02-25",
+        "name": "Bernardston, MA 01337",
+        "datacoverage": 1,
+        "id": "ZIP:01337"
+    },
+    {
+        "mindate": "2010-03-29",
+        "maxdate": "2025-02-25",
+        "name": "Bernardsville, NJ 07924",
+        "datacoverage": 1,
+        "id": "ZIP:07924"
+    },
+    {
+        "mindate": "1910-01-01",
+        "maxdate": "2025-02-18",
+        "name": "Berne, IN 46711",
+        "datacoverage": 1,
+        "id": "ZIP:46711"
+    },
+    {
+        "mindate": "1898-08-07",
+        "maxdate": "2025-02-25",
+        "name": "Berne, NY 12023",
+        "datacoverage": 1,
+        "id": "ZIP:12023"
+    },
+    {
+        "mindate": "1943-10-31",
+        "maxdate": "1951-09-30",
+        "name": "Bernice, LA 71222",
+        "datacoverage": 1,
+        "id": "ZIP:71222"
+    },
+    {
+        "mindate": "1944-07-01",
+        "maxdate": "2006-11-30",
+        "name": "Bernie, MO 63822",
+        "datacoverage": 0.9948,
+        "id": "ZIP:63822"
+    },
+    {
+        "mindate": "1945-08-15",
+        "maxdate": "2025-02-25",
+        "name": "Bernville, PA 19506",
+        "datacoverage": 1,
+        "id": "ZIP:19506"
+    },
+    {
+        "mindate": "1892-04-02",
+        "maxdate": "1951-09-30",
+        "name": "Berrien Springs, MI 49103",
+        "datacoverage": 1,
+        "id": "ZIP:49103"
+    },
+    {
+        "mindate": "1903-10-01",
+        "maxdate": "2002-03-20",
+        "name": "Berry Creek, CA 95916",
+        "datacoverage": 1,
+        "id": "ZIP:95916"
+    },
+    {
+        "mindate": "1940-03-01",
+        "maxdate": "2003-09-01",
+        "name": "Berry, AL 35546",
+        "datacoverage": 0.3255,
+        "id": "ZIP:35546"
+    },
+    {
+        "mindate": "1949-01-01",
+        "maxdate": "2025-02-24",
+        "name": "Berryton, KS 66409",
+        "datacoverage": 1,
+        "id": "ZIP:66409"
+    },
+    {
+        "mindate": "1946-01-05",
+        "maxdate": "2025-02-25",
+        "name": "Berryville, AR 72616",
+        "datacoverage": 1,
+        "id": "ZIP:72616"
+    },
+    {
+        "mindate": "1931-06-01",
+        "maxdate": "2025-02-25",
+        "name": "Berryville, VA 22611",
+        "datacoverage": 1,
+        "id": "ZIP:22611"
+    },
+    {
+        "mindate": "2022-05-02",
+        "maxdate": "2024-11-19",
+        "name": "Bertha, MN 56437",
+        "datacoverage": 1,
+        "id": "ZIP:56437"
+    },
+    {
+        "mindate": "1920-11-01",
+        "maxdate": "2025-02-24",
+        "name": "Berthold, ND 58718",
+        "datacoverage": 1,
+        "id": "ZIP:58718"
+    },
+    {
+        "mindate": "1998-06-17",
+        "maxdate": "2025-02-25",
+        "name": "Berthoud, CO 80513",
+        "datacoverage": 1,
+        "id": "ZIP:80513"
+    },
+    {
+        "mindate": "1968-02-01",
+        "maxdate": "2025-02-25",
+        "name": "Bertram, TX 78605",
+        "datacoverage": 1,
+        "id": "ZIP:78605"
+    },
+    {
+        "mindate": "2008-04-21",
+        "maxdate": "2009-09-20",
+        "name": "Bertrand, MO 63823",
+        "datacoverage": 0.6525,
+        "id": "ZIP:63823"
+    },
+    {
+        "mindate": "1908-09-01",
+        "maxdate": "2022-10-08",
+        "name": "Bertrand, NE 68927",
+        "datacoverage": 1,
+        "id": "ZIP:68927"
+    },
+    {
+        "mindate": "1905-01-01",
+        "maxdate": "2023-10-02",
+        "name": "Berwick, LA 70342",
+        "datacoverage": 1,
+        "id": "ZIP:70342"
+    },
+    {
+        "mindate": "2016-08-22",
+        "maxdate": "2025-02-25",
+        "name": "Berwick, ME 03901",
+        "datacoverage": 1,
+        "id": "ZIP:03901"
+    },
+    {
+        "mindate": "1944-10-01",
+        "maxdate": "2025-02-25",
+        "name": "Berwick, PA 18603",
+        "datacoverage": 1,
+        "id": "ZIP:18603"
+    },
+    {
+        "mindate": "2011-07-01",
+        "maxdate": "2013-12-31",
+        "name": "Berwind, WV 24815",
+        "datacoverage": 0.8011,
+        "id": "ZIP:24815"
+    },
+    {
+        "mindate": "1948-07-01",
+        "maxdate": "2025-01-09",
+        "name": "Berwyn, IL 60402",
+        "datacoverage": 1,
+        "id": "ZIP:60402"
+    },
+    {
+        "mindate": "2012-06-16",
+        "maxdate": "2021-01-10",
+        "name": "Berwyn, PA 19312",
+        "datacoverage": 1,
+        "id": "ZIP:19312"
+    },
+    {
+        "mindate": "1915-10-13",
+        "maxdate": "2008-06-30",
+        "name": "Beryl, UT 84714",
+        "datacoverage": 1,
+        "id": "ZIP:84714"
+    },
+    {
+        "mindate": "1954-10-01",
+        "maxdate": "2024-07-25",
+        "name": "Bessemer, AL 35020",
+        "datacoverage": 1,
+        "id": "ZIP:35020"
+    },
+    {
+        "mindate": "1951-08-01",
+        "maxdate": "2025-02-20",
+        "name": "Bessemer, AL 35022",
+        "datacoverage": 1,
+        "id": "ZIP:35022"
+    },
+    {
+        "mindate": "1958-04-01",
+        "maxdate": "2025-02-25",
+        "name": "Bessemer, AL 35023",
+        "datacoverage": 1,
+        "id": "ZIP:35023"
+    },
+    {
+        "mindate": "1927-05-01",
+        "maxdate": "1955-12-01",
+        "name": "Bessemer, MI 49911",
+        "datacoverage": 0.9949,
+        "id": "ZIP:49911"
+    },
+    {
+        "mindate": "2024-07-27",
+        "maxdate": "2025-02-25",
+        "name": "Bethalto, IL 62010",
+        "datacoverage": 0.9439,
+        "id": "ZIP:62010"
+    },
+    {
+        "mindate": "2021-04-16",
+        "maxdate": "2024-08-19",
+        "name": "Bethany, CT 06524",
+        "datacoverage": 1,
+        "id": "ZIP:06524"
+    },
+    {
+        "mindate": "1893-01-01",
+        "maxdate": "2025-02-24",
+        "name": "Bethany, MO 64424",
+        "datacoverage": 1,
+        "id": "ZIP:64424"
+    },
+    {
+        "mindate": "1996-08-01",
+        "maxdate": "2025-02-24",
+        "name": "Bethany, OK 73008",
+        "datacoverage": 1,
+        "id": "ZIP:73008"
+    },
+    {
+        "mindate": "1923-09-01",
+        "maxdate": "2025-02-24",
+        "name": "Bethel, AK 99559",
+        "datacoverage": 1,
+        "id": "ZIP:99559"
+    },
+    {
+        "mindate": "2016-05-18",
+        "maxdate": "2025-02-25",
+        "name": "Bethel, CT 06801",
+        "datacoverage": 0.9844,
+        "id": "ZIP:06801"
+    },
+    {
+        "mindate": "1943-05-01",
+        "maxdate": "2025-02-25",
+        "name": "Bethel, ME 04217",
+        "datacoverage": 1,
+        "id": "ZIP:04217"
+    },
+    {
+        "mindate": "2017-07-01",
+        "maxdate": "2024-10-31",
+        "name": "Bethel, MN 55005",
+        "datacoverage": 0.9142,
+        "id": "ZIP:55005"
+    },
+    {
+        "mindate": "2014-03-09",
+        "maxdate": "2015-01-26",
+        "name": "Bethel, NC 27812",
+        "datacoverage": 0.821,
+        "id": "ZIP:27812"
+    },
+    {
+        "mindate": "2014-01-01",
+        "maxdate": "2021-10-09",
+        "name": "Bethel, OH 45106",
+        "datacoverage": 0.9045,
+        "id": "ZIP:45106"
+    },
+    {
+        "mindate": "1938-11-01",
+        "maxdate": "2025-02-24",
+        "name": "Bethel, OK 74724",
+        "datacoverage": 1,
+        "id": "ZIP:74724"
+    },
+    {
+        "mindate": "1929-01-01",
+        "maxdate": "2025-02-24",
+        "name": "Bethel, VT 05032",
+        "datacoverage": 1,
+        "id": "ZIP:05032"
+    },
+    {
+        "mindate": "1948-08-01",
+        "maxdate": "2014-06-12",
+        "name": "Bethesda, MD 20814",
+        "datacoverage": 1,
+        "id": "ZIP:20814"
+    },
+    {
+        "mindate": "1945-01-01",
+        "maxdate": "2011-05-17",
+        "name": "Bethesda, MD 20816",
+        "datacoverage": 1,
+        "id": "ZIP:20816"
+    },
+    {
+        "mindate": "1943-11-15",
+        "maxdate": "2024-03-10",
+        "name": "Bethesda, MD 20817",
+        "datacoverage": 1,
+        "id": "ZIP:20817"
+    },
+    {
+        "mindate": "2004-02-04",
+        "maxdate": "2021-03-05",
+        "name": "Bethlehem, GA 30620",
+        "datacoverage": 1,
+        "id": "ZIP:30620"
+    },
+    {
+        "mindate": "2002-08-19",
+        "maxdate": "2024-07-05",
+        "name": "Bethlehem, KY 40007",
+        "datacoverage": 0.9882,
+        "id": "ZIP:40007"
+    },
+    {
+        "mindate": "1903-10-01",
+        "maxdate": "2025-02-25",
+        "name": "Bethlehem, NH 03574",
+        "datacoverage": 1,
+        "id": "ZIP:03574"
+    },
+    {
+        "mindate": "1902-04-15",
+        "maxdate": "1964-06-30",
+        "name": "Bethlehem, PA 18015",
+        "datacoverage": 1,
+        "id": "ZIP:18015"
+    },
+    {
+        "mindate": "2015-06-29",
+        "maxdate": "2025-02-25",
+        "name": "Bethlehem, PA 18017",
+        "datacoverage": 1,
+        "id": "ZIP:18017"
+    },
+    {
+        "mindate": "1894-09-01",
+        "maxdate": "2025-02-25",
+        "name": "Bethlehem, PA 18018",
+        "datacoverage": 0.9413,
+        "id": "ZIP:18018"
+    },
+    {
+        "mindate": "2011-03-23",
+        "maxdate": "2019-07-23",
+        "name": "Bethlehem, PA 18020",
+        "datacoverage": 1,
+        "id": "ZIP:18020"
+    },
+    {
+        "mindate": "2007-11-01",
+        "maxdate": "2020-11-14",
+        "name": "Bethpage, NY 11714",
+        "datacoverage": 0.9273,
+        "id": "ZIP:11714"
+    },
+    {
+        "mindate": "1953-07-01",
+        "maxdate": "2025-02-25",
+        "name": "Bethpage, TN 37022",
+        "datacoverage": 1,
+        "id": "ZIP:37022"
+    },
+    {
+        "mindate": "1949-05-01",
+        "maxdate": "2025-02-21",
+        "name": "Bethune, CO 80805",
+        "datacoverage": 1,
+        "id": "ZIP:80805"
+    },
+    {
+        "mindate": "1948-04-01",
+        "maxdate": "2025-02-25",
+        "name": "Bettendorf, IA 52722",
+        "datacoverage": 1,
+        "id": "ZIP:52722"
+    },
+    {
+        "mindate": "1918-11-01",
+        "maxdate": "2025-02-25",
+        "name": "Bettles Field, AK 99726",
+        "datacoverage": 1,
+        "id": "ZIP:99726"
+    },
+    {
+        "mindate": "2008-02-01",
+        "maxdate": "2025-02-23",
+        "name": "Beulah, CO 81023",
+        "datacoverage": 1,
+        "id": "ZIP:81023"
+    },
+    {
+        "mindate": "2016-11-15",
+        "maxdate": "2017-04-08",
+        "name": "Beulah, MI 49617",
+        "datacoverage": 1,
+        "id": "ZIP:49617"
+    },
+    {
+        "mindate": "1981-01-01",
+        "maxdate": "1981-10-31",
+        "name": "Beulah, MO 65436",
+        "datacoverage": 1,
+        "id": "ZIP:65436"
+    },
+    {
+        "mindate": "1907-01-01",
+        "maxdate": "2024-12-31",
+        "name": "Beulah, ND 58523",
+        "datacoverage": 1,
+        "id": "ZIP:58523"
+    },
+    {
+        "mindate": "2010-12-12",
+        "maxdate": "2022-04-26",
+        "name": "Beulaville, NC 28518",
+        "datacoverage": 1,
+        "id": "ZIP:28518"
+    },
+    {
+        "mindate": "1997-11-06",
+        "maxdate": "2025-02-25",
+        "name": "Beverly Hills, CA 90210",
+        "datacoverage": 0.9084,
+        "id": "ZIP:90210"
+    },
+    {
+        "mindate": "2020-06-05",
+        "maxdate": "2024-05-21",
+        "name": "Beverly Hills, FL 34465",
+        "datacoverage": 0.8908,
+        "id": "ZIP:34465"
+    },
+    {
+        "mindate": "2010-09-14",
+        "maxdate": "2025-02-24",
+        "name": "Beverly, KS 67423",
+        "datacoverage": 1,
+        "id": "ZIP:67423"
+    },
+    {
+        "mindate": "1885-06-01",
+        "maxdate": "2025-02-25",
+        "name": "Beverly, MA 01915",
+        "datacoverage": 1,
+        "id": "ZIP:01915"
+    },
+    {
+        "mindate": "1996-10-01",
+        "maxdate": "2025-02-25",
+        "name": "Beverly, OH 45715",
+        "datacoverage": 1,
+        "id": "ZIP:45715"
+    },
+    {
+        "mindate": "1893-11-25",
+        "maxdate": "2008-03-31",
+        "name": "Beverly, WV 26253",
+        "datacoverage": 1,
+        "id": "ZIP:26253"
+    },
+    {
+        "mindate": "1913-10-01",
+        "maxdate": "1919-07-31",
+        "name": "Bevinsville, KY 41606",
+        "datacoverage": 0.9207,
+        "id": "ZIP:41606"
+    },
+    {
+        "mindate": "1914-07-01",
+        "maxdate": "2018-06-30",
+        "name": "Bickleton, WA 99322",
+        "datacoverage": 1,
+        "id": "ZIP:99322"
+    },
+    {
+        "mindate": "1948-07-01",
+        "maxdate": "2025-02-25",
+        "name": "Bicknell, IN 47512",
+        "datacoverage": 0.9832,
+        "id": "ZIP:47512"
+    },
+    {
+        "mindate": "1925-10-01",
+        "maxdate": "2025-02-25",
+        "name": "Biddeford, ME 04005",
+        "datacoverage": 1,
+        "id": "ZIP:04005"
+    },
+    {
+        "mindate": "1893-02-01",
+        "maxdate": "2025-02-24",
+        "name": "Biddle, MT 59314",
+        "datacoverage": 1,
+        "id": "ZIP:59314"
+    },
+    {
+        "mindate": "1893-01-01",
+        "maxdate": "2025-02-24",
+        "name": "Bienville, LA 71008",
+        "datacoverage": 1,
+        "id": "ZIP:71008"
+    },
+    {
+        "mindate": "1943-10-18",
+        "maxdate": "2025-02-25",
+        "name": "Big Bar, CA 96010",
+        "datacoverage": 1,
+        "id": "ZIP:96010"
+    },
+    {
+        "mindate": "1914-12-01",
+        "maxdate": "2025-02-25",
+        "name": "Big Bear City, CA 92314",
+        "datacoverage": 1,
+        "id": "ZIP:92314"
+    },
+    {
+        "mindate": "1960-07-01",
+        "maxdate": "2025-02-24",
+        "name": "Big Bear Lake, CA 92315",
+        "datacoverage": 1,
+        "id": "ZIP:92315"
+    },
+    {
+        "mindate": "1910-06-15",
+        "maxdate": "2025-02-25",
+        "name": "Big Bend National Park, TX 79834",
+        "datacoverage": 1,
+        "id": "ZIP:79834"
+    },
+    {
+        "mindate": "2007-07-31",
+        "maxdate": "2025-02-25",
+        "name": "Big Bend, WI 53103",
+        "datacoverage": 1,
+        "id": "ZIP:53103"
+    },
+    {
+        "mindate": "1948-05-01",
+        "maxdate": "1951-09-30",
+        "name": "Big Cove Tannery, PA 17212",
+        "datacoverage": 0.9127,
+        "id": "ZIP:17212"
+    },
+    {
+        "mindate": "1978-05-01",
+        "maxdate": "2003-10-31",
+        "name": "Big Creek, KY 40914",
+        "datacoverage": 0.9747,
+        "id": "ZIP:40914"
+    },
+    {
+        "mindate": "1910-10-01",
+        "maxdate": "1913-08-31",
+        "name": "Big Creek, MS 38914",
+        "datacoverage": 0.8469,
+        "id": "ZIP:38914"
+    },
+    {
+        "mindate": "1921-06-06",
+        "maxdate": "2025-02-25",
+        "name": "Big Falls, MN 56627",
+        "datacoverage": 0.9794,
+        "id": "ZIP:56627"
+    },
+    {
+        "mindate": "1945-01-01",
+        "maxdate": "1951-10-31",
+        "name": "Big Flat, AR 72617",
+        "datacoverage": 1,
+        "id": "ZIP:72617"
+    },
+    {
+        "mindate": "2004-01-01",
+        "maxdate": "2020-02-01",
+        "name": "Big Flats, NY 14814",
+        "datacoverage": 0.9665,
+        "id": "ZIP:14814"
+    },
+    {
+        "mindate": "1948-05-02",
+        "maxdate": "2012-11-02",
+        "name": "Big Indian, NY 12410",
+        "datacoverage": 1,
+        "id": "ZIP:12410"
+    },
+    {
+        "mindate": "2005-02-25",
+        "maxdate": "2023-09-07",
+        "name": "Big Island, VA 24526",
+        "datacoverage": 1,
+        "id": "ZIP:24526"
+    },
+    {
+        "mindate": "2011-04-10",
+        "maxdate": "2025-02-25",
+        "name": "Big Lake, MN 55309",
+        "datacoverage": 1,
+        "id": "ZIP:55309"
+    },
+    {
+        "mindate": "1916-04-05",
+        "maxdate": "2025-02-25",
+        "name": "Big Lake, TX 76932",
+        "datacoverage": 1,
+        "id": "ZIP:76932"
+    },
+    {
+        "mindate": "1978-05-01",
+        "maxdate": "2003-05-31",
+        "name": "Big Laurel, KY 40808",
+        "datacoverage": 1,
+        "id": "ZIP:40808"
+    },
+    {
+        "mindate": "1949-12-01",
+        "maxdate": "2025-02-25",
+        "name": "Big Pine Key, FL 33043",
+        "datacoverage": 1,
+        "id": "ZIP:33043"
+    },
+    {
+        "mindate": "1948-07-01",
+        "maxdate": "2019-02-15",
+        "name": "Big Pine, CA 93513",
+        "datacoverage": 0.9683,
+        "id": "ZIP:93513"
+    },
+    {
+        "mindate": "1948-08-01",
+        "maxdate": "2025-02-24",
+        "name": "Big Piney, WY 83113",
+        "datacoverage": 1,
+        "id": "ZIP:83113"
+    },
+    {
+        "mindate": "1896-04-01",
+        "maxdate": "2025-02-25",
+        "name": "Big Rapids, MI 49307",
+        "datacoverage": 1,
+        "id": "ZIP:49307"
+    },
+    {
+        "mindate": "2007-12-26",
+        "maxdate": "2025-02-19",
+        "name": "Big Rock, TN 37023",
+        "datacoverage": 0.9899,
+        "id": "ZIP:37023"
+    },
+    {
+        "mindate": "1904-11-08",
+        "maxdate": "2025-01-19",
+        "name": "Big Sandy, MT 59520",
+        "datacoverage": 1,
+        "id": "ZIP:59520"
+    },
+    {
+        "mindate": "1997-08-01",
+        "maxdate": "2025-01-31",
+        "name": "Big Sandy, TN 38221",
+        "datacoverage": 1,
+        "id": "ZIP:38221"
+    },
+    {
+        "mindate": "1940-09-15",
+        "maxdate": "2025-02-24",
+        "name": "Big Sandy, TX 75755",
+        "datacoverage": 1,
+        "id": "ZIP:75755"
+    },
+    {
+        "mindate": "1948-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Big Spring, TX 79720",
+        "datacoverage": 1,
+        "id": "ZIP:79720"
+    },
+    {
+        "mindate": "1916-05-01",
+        "maxdate": "2025-02-15",
+        "name": "Big Springs, NE 69122",
+        "datacoverage": 1,
+        "id": "ZIP:69122"
+    },
+    {
+        "mindate": "2018-11-04",
+        "maxdate": "2025-01-02",
+        "name": "Big Springs, WV 26137",
+        "datacoverage": 1,
+        "id": "ZIP:26137"
+    },
+    {
+        "mindate": "1983-12-01",
+        "maxdate": "2025-02-25",
+        "name": "Big Stone City, SD 57216",
+        "datacoverage": 1,
+        "id": "ZIP:57216"
+    },
+    {
+        "mindate": "1893-01-01",
+        "maxdate": "2024-12-31",
+        "name": "Big Stone Gap, VA 24219",
+        "datacoverage": 1,
+        "id": "ZIP:24219"
+    },
+    {
+        "mindate": "1894-04-08",
+        "maxdate": "2025-02-24",
+        "name": "Big Timber, MT 59011",
+        "datacoverage": 1,
+        "id": "ZIP:59011"
+    },
+    {
+        "mindate": "1916-01-01",
+        "maxdate": "2006-09-30",
+        "name": "Big Wells, TX 78830",
+        "datacoverage": 1,
+        "id": "ZIP:78830"
+    },
+    {
+        "mindate": "1915-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Big sur, CA 93920",
+        "datacoverage": 1,
+        "id": "ZIP:93920"
+    },
+    {
+        "mindate": "2012-10-13",
+        "maxdate": "2025-02-25",
+        "name": "Bigelow, AR 72016",
+        "datacoverage": 0.8,
+        "id": "ZIP:72016"
+    },
+    {
+        "mindate": "2021-04-07",
+        "maxdate": "2025-02-25",
+        "name": "Bigelow, MN 56117",
+        "datacoverage": 1,
+        "id": "ZIP:56117"
+    },
+    {
+        "mindate": "2010-02-24",
+        "maxdate": "2013-09-29",
+        "name": "Bigfoot, TX 78005",
+        "datacoverage": 0.8851,
+        "id": "ZIP:78005"
+    },
+    {
+        "mindate": "1926-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Bigfork, MN 56628",
+        "datacoverage": 1,
+        "id": "ZIP:56628"
+    },
+    {
+        "mindate": "1944-11-15",
+        "maxdate": "2025-02-25",
+        "name": "Bigfork, MT 59911",
+        "datacoverage": 1,
+        "id": "ZIP:59911"
+    },
+    {
+        "mindate": "2012-07-20",
+        "maxdate": "2014-12-31",
+        "name": "Biggers, AR 72413",
+        "datacoverage": 0.7285,
+        "id": "ZIP:72413"
+    },
+    {
+        "mindate": "1956-05-01",
+        "maxdate": "1958-05-31",
+        "name": "Biggsville, IL 61418",
+        "datacoverage": 1,
+        "id": "ZIP:61418"
+    },
+    {
+        "mindate": "1925-09-01",
+        "maxdate": "2025-02-24",
+        "name": "Bighorn, MT 59010",
+        "datacoverage": 1,
+        "id": "ZIP:59010"
+    },
+    {
+        "mindate": "1918-09-01",
+        "maxdate": "2025-02-25",
+        "name": "Biglerville, PA 17307",
+        "datacoverage": 1,
+        "id": "ZIP:17307"
+    },
+    {
+        "mindate": "1948-08-01",
+        "maxdate": "2025-01-27",
+        "name": "Billerica, MA 01821",
+        "datacoverage": 1,
+        "id": "ZIP:01821"
+    },
+    {
+        "mindate": "1962-05-01",
+        "maxdate": "2025-02-24",
+        "name": "Billings, MO 65610",
+        "datacoverage": 1,
+        "id": "ZIP:65610"
+    },
+    {
+        "mindate": "1937-04-12",
+        "maxdate": "2025-02-25",
+        "name": "Billings, MT 59101",
+        "datacoverage": 1,
+        "id": "ZIP:59101"
+    },
+    {
+        "mindate": "1935-05-01",
+        "maxdate": "2025-02-25",
+        "name": "Billings, MT 59102",
+        "datacoverage": 1,
+        "id": "ZIP:59102"
+    },
+    {
+        "mindate": "1911-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Billings, MT 59105",
+        "datacoverage": 1,
+        "id": "ZIP:59105"
+    },
+    {
+        "mindate": "2007-04-23",
+        "maxdate": "2022-10-28",
+        "name": "Billings, MT 59106",
+        "datacoverage": 1,
+        "id": "ZIP:59106"
+    },
+    {
+        "mindate": "1914-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Billings, OK 74630",
+        "datacoverage": 0.9975,
+        "id": "ZIP:74630"
+    },
+    {
+        "mindate": "1938-12-01",
+        "maxdate": "2025-02-24",
+        "name": "Billingsley, AL 36006",
+        "datacoverage": 1,
+        "id": "ZIP:36006"
+    },
+    {
+        "mindate": "1893-05-01",
+        "maxdate": "2025-02-25",
+        "name": "Biloxi, MS 39530",
+        "datacoverage": 1,
+        "id": "ZIP:39530"
+    },
+    {
+        "mindate": "1940-03-30",
+        "maxdate": "2025-02-24",
+        "name": "Biloxi, MS 39531",
+        "datacoverage": 1,
+        "id": "ZIP:39531"
+    },
+    {
+        "mindate": "2008-07-27",
+        "maxdate": "2025-02-25",
+        "name": "Biloxi, MS 39532",
+        "datacoverage": 1,
+        "id": "ZIP:39532"
+    },
+    {
+        "mindate": "1942-05-01",
+        "maxdate": "1970-12-31",
+        "name": "Biloxi, MS 39534",
+        "datacoverage": 0.9867,
+        "id": "ZIP:39534"
+    },
+    {
+        "mindate": "1903-06-01",
+        "maxdate": "1906-05-31",
+        "name": "Binger, OK 73009",
+        "datacoverage": 1,
+        "id": "ZIP:73009"
+    },
+    {
+        "mindate": "1911-06-01",
+        "maxdate": "2025-02-24",
+        "name": "Bingham Canyon, UT 84006",
+        "datacoverage": 1,
+        "id": "ZIP:84006"
+    },
+    {
+        "mindate": "1893-01-01",
+        "maxdate": "1898-08-31",
+        "name": "Bingham Lake, MN 56118",
+        "datacoverage": 0.7767,
+        "id": "ZIP:56118"
+    },
+    {
+        "mindate": "1885-06-01",
+        "maxdate": "2025-02-01",
+        "name": "Bingham, ME 04920",
+        "datacoverage": 1,
+        "id": "ZIP:04920"
+    },
+    {
+        "mindate": "1921-09-01",
+        "maxdate": "2024-09-08",
+        "name": "Bingham, NE 69335",
+        "datacoverage": 1,
+        "id": "ZIP:69335"
+    },
+    {
+        "mindate": "1893-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Binghamton, NY 13901",
+        "datacoverage": 0.9914,
+        "id": "ZIP:13901"
+    },
+    {
+        "mindate": "2004-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Binghamton, NY 13903",
+        "datacoverage": 0.9394,
+        "id": "ZIP:13903"
+    },
+    {
+        "mindate": "2004-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Binghamton, NY 13904",
+        "datacoverage": 0.9193,
+        "id": "ZIP:13904"
+    },
+    {
+        "mindate": "2014-05-24",
+        "maxdate": "2015-09-07",
+        "name": "Binghamton, NY 13905",
+        "datacoverage": 0.2331,
+        "id": "ZIP:13905"
+    },
+    {
+        "mindate": "1949-10-01",
+        "maxdate": "2005-10-01",
+        "name": "Birch River, WV 26610",
+        "datacoverage": 1,
+        "id": "ZIP:26610"
+    },
+    {
+        "mindate": "1891-09-01",
+        "maxdate": "2014-01-06",
+        "name": "Birch Run, MI 48415",
+        "datacoverage": 1,
+        "id": "ZIP:48415"
+    },
+    {
+        "mindate": "1893-08-01",
+        "maxdate": "2017-12-22",
+        "name": "Birch Tree, MO 65438",
+        "datacoverage": 1,
+        "id": "ZIP:65438"
+    },
+    {
+        "mindate": "1949-01-01",
+        "maxdate": "1962-03-31",
+        "name": "Birchwood, TN 37308",
+        "datacoverage": 0.9992,
+        "id": "ZIP:37308"
+    },
+    {
+        "mindate": "1916-10-10",
+        "maxdate": "2025-02-24",
+        "name": "Bird City, KS 67731",
+        "datacoverage": 1,
+        "id": "ZIP:67731"
+    },
+    {
+        "mindate": "1893-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Bird Island, MN 55310",
+        "datacoverage": 1,
+        "id": "ZIP:55310"
+    },
+    {
+        "mindate": "1945-08-15",
+        "maxdate": "2022-11-30",
+        "name": "Birdsboro, PA 19508",
+        "datacoverage": 0.9674,
+        "id": "ZIP:19508"
+    },
+    {
+        "mindate": "2023-03-17",
+        "maxdate": "2025-02-25",
+        "name": "Birdseye, IN 47513",
+        "datacoverage": 0.9705,
+        "id": "ZIP:47513"
+    },
+    {
+        "mindate": "1948-08-01",
+        "maxdate": "1964-03-31",
+        "name": "Birdsnest, VA 23307",
+        "datacoverage": 1,
+        "id": "ZIP:23307"
+    },
+    {
+        "mindate": "1895-04-01",
+        "maxdate": "1908-01-01",
+        "name": "Birmingham, AL 35203",
+        "datacoverage": 0.4286,
+        "id": "ZIP:35203"
+    },
+    {
+        "mindate": "1908-01-01",
+        "maxdate": "1953-10-31",
+        "name": "Birmingham, AL 35204",
+        "datacoverage": 1,
+        "id": "ZIP:35204"
+    },
+    {
+        "mindate": "2007-10-19",
+        "maxdate": "2010-04-13",
+        "name": "Birmingham, AL 35206",
+        "datacoverage": 1,
+        "id": "ZIP:35206"
+    },
+    {
+        "mindate": "2003-05-06",
+        "maxdate": "2025-02-19",
+        "name": "Birmingham, AL 35208",
+        "datacoverage": 0.7319,
+        "id": "ZIP:35208"
+    },
+    {
+        "mindate": "1977-01-01",
+        "maxdate": "2023-12-01",
+        "name": "Birmingham, AL 35209",
+        "datacoverage": 1,
+        "id": "ZIP:35209"
+    },
+    {
+        "mindate": "1937-01-01",
+        "maxdate": "1977-01-31",
+        "name": "Birmingham, AL 35211",
+        "datacoverage": 1,
+        "id": "ZIP:35211"
+    },
+    {
+        "mindate": "1931-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Birmingham, AL 35212",
+        "datacoverage": 1,
+        "id": "ZIP:35212"
+    },
+    {
+        "mindate": "2008-09-14",
+        "maxdate": "2024-04-17",
+        "name": "Birmingham, AL 35213",
+        "datacoverage": 1,
+        "id": "ZIP:35213"
+    },
+    {
+        "mindate": "1951-01-01",
+        "maxdate": "1996-11-06",
+        "name": "Birmingham, AL 35215",
+        "datacoverage": 0.9984,
+        "id": "ZIP:35215"
+    },
+    {
+        "mindate": "2007-10-16",
+        "maxdate": "2025-02-25",
+        "name": "Birmingham, AL 35216",
+        "datacoverage": 1,
+        "id": "ZIP:35216"
+    },
+    {
+        "mindate": "2007-11-06",
+        "maxdate": "2025-02-25",
+        "name": "Birmingham, AL 35226",
+        "datacoverage": 1,
+        "id": "ZIP:35226"
+    },
+    {
+        "mindate": "2013-01-01",
+        "maxdate": "2023-02-09",
+        "name": "Birmingham, AL 35235",
+        "datacoverage": 0.986,
+        "id": "ZIP:35235"
+    },
+    {
+        "mindate": "1981-12-01",
+        "maxdate": "2025-02-25",
+        "name": "Birmingham, AL 35242",
+        "datacoverage": 1,
+        "id": "ZIP:35242"
+    },
+    {
+        "mindate": "2007-11-01",
+        "maxdate": "2025-02-13",
+        "name": "Birmingham, AL 35243",
+        "datacoverage": 1,
+        "id": "ZIP:35243"
+    },
+    {
+        "mindate": "2007-10-29",
+        "maxdate": "2025-02-25",
+        "name": "Birmingham, AL 35244",
+        "datacoverage": 1,
+        "id": "ZIP:35244"
+    },
+    {
+        "mindate": "2022-04-13",
+        "maxdate": "2025-02-21",
+        "name": "Birnamwood, WI 54414",
+        "datacoverage": 0.9455,
+        "id": "ZIP:54414"
+    },
+    {
+        "mindate": "1950-01-01",
+        "maxdate": "2013-05-25",
+        "name": "Birney, MT 59012",
+        "datacoverage": 1,
+        "id": "ZIP:59012"
+    },
+    {
+        "mindate": "1892-12-01",
+        "maxdate": "2024-11-04",
+        "name": "Bisbee, AZ 85603",
+        "datacoverage": 1,
+        "id": "ZIP:85603"
+    },
+    {
+        "mindate": "1937-04-18",
+        "maxdate": "1982-03-31",
+        "name": "Bisbee, ND 58317",
+        "datacoverage": 1,
+        "id": "ZIP:58317"
+    },
+    {
+        "mindate": "2021-04-30",
+        "maxdate": "2025-02-23",
+        "name": "Biscoe, AR 72017",
+        "datacoverage": 1,
+        "id": "ZIP:72017"
+    },
+    {
+        "mindate": "1924-12-01",
+        "maxdate": "2025-02-25",
+        "name": "Bishop, CA 93514",
+        "datacoverage": 1,
+        "id": "ZIP:93514"
+    },
+    {
+        "mindate": "1971-06-01",
+        "maxdate": "2025-02-25",
+        "name": "Bishop, GA 30621",
+        "datacoverage": 1,
+        "id": "ZIP:30621"
+    },
+    {
+        "mindate": "1934-10-01",
+        "maxdate": "2016-08-15",
+        "name": "Bishop, TX 78343",
+        "datacoverage": 1,
+        "id": "ZIP:78343"
+    },
+    {
+        "mindate": "2007-07-01",
+        "maxdate": "2025-02-25",
+        "name": "Bishopville, MD 21813",
+        "datacoverage": 1,
+        "id": "ZIP:21813"
+    },
+    {
+        "mindate": "1933-04-22",
+        "maxdate": "2025-02-25",
+        "name": "Bishopville, SC 29010",
+        "datacoverage": 1,
+        "id": "ZIP:29010"
+    },
+    {
+        "mindate": "1965-10-02",
+        "maxdate": "2025-02-25",
+        "name": "Bismarck, AR 71929",
+        "datacoverage": 1,
+        "id": "ZIP:71929"
+    },
+    {
+        "mindate": "2012-03-28",
+        "maxdate": "2018-02-25",
+        "name": "Bismarck, IL 61814",
+        "datacoverage": 0.6197,
+        "id": "ZIP:61814"
+    },
+    {
+        "mindate": "2014-09-07",
+        "maxdate": "2025-02-05",
+        "name": "Bismarck, MO 63624",
+        "datacoverage": 1,
+        "id": "ZIP:63624"
+    },
+    {
+        "mindate": "2009-05-04",
+        "maxdate": "2025-02-24",
+        "name": "Bismarck, ND 58501",
+        "datacoverage": 1,
+        "id": "ZIP:58501"
+    },
+    {
+        "mindate": "2000-04-12",
+        "maxdate": "2024-11-07",
+        "name": "Bismarck, ND 58503",
+        "datacoverage": 1,
+        "id": "ZIP:58503"
+    },
+    {
+        "mindate": "1936-07-01",
+        "maxdate": "2025-02-25",
+        "name": "Bismarck, ND 58504",
+        "datacoverage": 1,
+        "id": "ZIP:58504"
+    },
+    {
+        "mindate": "1923-03-01",
+        "maxdate": "2025-02-18",
+        "name": "Bison, KS 67520",
+        "datacoverage": 1,
+        "id": "ZIP:67520"
+    },
+    {
+        "mindate": "1916-06-01",
+        "maxdate": "2025-01-31",
+        "name": "Bison, SD 57620",
+        "datacoverage": 1,
+        "id": "ZIP:57620"
+    },
+    {
+        "mindate": "1941-10-01",
+        "maxdate": "1959-11-30",
+        "name": "Bixby, MO 65439",
+        "datacoverage": 1,
+        "id": "ZIP:65439"
+    },
+    {
+        "mindate": "1943-11-19",
+        "maxdate": "2025-02-25",
+        "name": "Bixby, OK 74008",
+        "datacoverage": 1,
+        "id": "ZIP:74008"
+    },
+    {
+        "mindate": "1938-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Blachly, OR 97412",
+        "datacoverage": 1,
+        "id": "ZIP:97412"
+    },
+    {
+        "mindate": "1952-12-01",
+        "maxdate": "2025-02-25",
+        "name": "Black Canyon City, AZ 85324",
+        "datacoverage": 1,
+        "id": "ZIP:85324"
+    },
+    {
+        "mindate": "2009-09-12",
+        "maxdate": "2024-11-20",
+        "name": "Black Creek, WI 54106",
+        "datacoverage": 1,
+        "id": "ZIP:54106"
+    },
+    {
+        "mindate": "2020-03-28",
+        "maxdate": "2025-02-25",
+        "name": "Black Earth, WI 53515",
+        "datacoverage": 1,
+        "id": "ZIP:53515"
+    },
+    {
+        "mindate": "2000-05-31",
+        "maxdate": "2025-02-25",
+        "name": "Black Hawk, CO 80422",
+        "datacoverage": 1,
+        "id": "ZIP:80422"
+    },
+    {
+        "mindate": "2007-07-19",
+        "maxdate": "2019-11-27",
+        "name": "Black Hawk, SD 57718",
+        "datacoverage": 1,
+        "id": "ZIP:57718"
+    },
+    {
+        "mindate": "1917-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Black Mountain, NC 28711",
+        "datacoverage": 1,
+        "id": "ZIP:28711"
+    },
+    {
+        "mindate": "1893-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Black River Falls, WI 54615",
+        "datacoverage": 1,
+        "id": "ZIP:54615"
+    },
+    {
+        "mindate": "2008-09-20",
+        "maxdate": "2019-08-19",
+        "name": "Black River, NY 13612",
+        "datacoverage": 0.8957,
+        "id": "ZIP:13612"
+    },
+    {
+        "mindate": "1892-02-01",
+        "maxdate": "2025-02-24",
+        "name": "Black Rock, AR 72415",
+        "datacoverage": 1,
+        "id": "ZIP:72415"
+    },
+    {
+        "mindate": "1983-05-01",
+        "maxdate": "2002-09-20",
+        "name": "Black, AL 36314",
+        "datacoverage": 0.4023,
+        "id": "ZIP:36314"
+    },
+    {
+        "mindate": "1944-11-01",
+        "maxdate": "2015-01-26",
+        "name": "Black, MO 63625",
+        "datacoverage": 1,
+        "id": "ZIP:63625"
+    },
+    {
+        "mindate": "2017-12-13",
+        "maxdate": "2025-02-24",
+        "name": "Blackburn, MO 65321",
+        "datacoverage": 1,
+        "id": "ZIP:65321"
+    },
+    {
+        "mindate": "1989-11-01",
+        "maxdate": "2019-12-31",
+        "name": "Blackduck, MN 56630",
+        "datacoverage": 0.7791,
+        "id": "ZIP:56630"
+    },
+    {
+        "mindate": "1895-11-01",
+        "maxdate": "2025-02-20",
+        "name": "Blackfoot, ID 83221",
+        "datacoverage": 1,
+        "id": "ZIP:83221"
+    },
+    {
+        "mindate": "2009-03-29",
+        "maxdate": "2025-02-25",
+        "name": "Blacklick, OH 43004",
+        "datacoverage": 0.9998,
+        "id": "ZIP:43004"
+    },
+    {
+        "mindate": "1912-12-01",
+        "maxdate": "2025-02-25",
+        "name": "Blacksburg, SC 29702",
+        "datacoverage": 1,
+        "id": "ZIP:29702"
+    },
+    {
+        "mindate": "1893-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Blacksburg, VA 24060",
+        "datacoverage": 1,
+        "id": "ZIP:24060"
+    },
+    {
+        "mindate": "1964-05-01",
+        "maxdate": "2024-07-29",
+        "name": "Blackshear, GA 31516",
+        "datacoverage": 1,
+        "id": "ZIP:31516"
+    },
+    {
+        "mindate": "1916-03-01",
+        "maxdate": "1919-04-22",
+        "name": "Blackstock, SC 29014",
+        "datacoverage": 1,
+        "id": "ZIP:29014"
+    },
+    {
+        "mindate": "2007-04-28",
+        "maxdate": "2010-09-22",
+        "name": "Blackstone, IL 61313",
+        "datacoverage": 1,
+        "id": "ZIP:61313"
+    },
+    {
+        "mindate": "2018-08-06",
+        "maxdate": "2020-06-12",
+        "name": "Blackstone, MA 01504",
+        "datacoverage": 0.8848,
+        "id": "ZIP:01504"
+    },
+    {
+        "mindate": "1945-07-01",
+        "maxdate": "2025-02-24",
+        "name": "Blackstone, VA 23824",
+        "datacoverage": 1,
+        "id": "ZIP:23824"
+    },
+    {
+        "mindate": "1893-11-01",
+        "maxdate": "2025-02-22",
+        "name": "Blackville, SC 29817",
+        "datacoverage": 1,
+        "id": "ZIP:29817"
+    },
+    {
+        "mindate": "2018-04-23",
+        "maxdate": "2023-09-07",
+        "name": "Blackwell, MO 63626",
+        "datacoverage": 0.1207,
+        "id": "ZIP:63626"
+    },
+    {
+        "mindate": "1916-03-27",
+        "maxdate": "2025-02-24",
+        "name": "Blackwell, OK 74631",
+        "datacoverage": 1,
+        "id": "ZIP:74631"
+    },
+    {
+        "mindate": "1936-08-01",
+        "maxdate": "2025-02-25",
+        "name": "Blackwell, TX 79506",
+        "datacoverage": 1,
+        "id": "ZIP:79506"
+    },
+    {
+        "mindate": "2023-03-06",
+        "maxdate": "2025-01-07",
+        "name": "Blackwood, NJ 08012",
+        "datacoverage": 0.6774,
+        "id": "ZIP:08012"
+    },
+    {
+        "mindate": "1951-09-01",
+        "maxdate": "2021-05-19",
+        "name": "Bladen, NE 68928",
+        "datacoverage": 1,
+        "id": "ZIP:68928"
+    },
+    {
+        "mindate": "2009-08-27",
+        "maxdate": "2023-04-07",
+        "name": "Bladenboro, NC 28320",
+        "datacoverage": 0.9783,
+        "id": "ZIP:28320"
+    },
+    {
+        "mindate": "1937-02-15",
+        "maxdate": "1955-05-31",
+        "name": "Blain, PA 17006",
+        "datacoverage": 0.9824,
+        "id": "ZIP:17006"
+    },
+    {
+        "mindate": "1956-05-21",
+        "maxdate": "1978-12-31",
+        "name": "Blaine, KY 41124",
+        "datacoverage": 1,
+        "id": "ZIP:41124"
+    },
+    {
+        "mindate": "1893-10-01",
+        "maxdate": "2023-11-14",
+        "name": "Blaine, WA 98230",
+        "datacoverage": 0.8917,
+        "id": "ZIP:98230"
+    },
+    {
+        "mindate": "1893-04-01",
+        "maxdate": "2025-02-25",
+        "name": "Blair, NE 68008",
+        "datacoverage": 1,
+        "id": "ZIP:68008"
+    },
+    {
+        "mindate": "2012-12-15",
+        "maxdate": "2024-10-19",
+        "name": "Blair, OK 73526",
+        "datacoverage": 0.3173,
+        "id": "ZIP:73526"
+    },
+    {
+        "mindate": "1936-12-01",
+        "maxdate": "2025-02-20",
+        "name": "Blair, SC 29015",
+        "datacoverage": 1,
+        "id": "ZIP:29015"
+    },
+    {
+        "mindate": "1925-02-01",
+        "maxdate": "2012-05-08",
+        "name": "Blair, WI 54616",
+        "datacoverage": 1,
+        "id": "ZIP:54616"
+    },
+    {
+        "mindate": "1965-09-02",
+        "maxdate": "2024-03-18",
+        "name": "Blairstown, MO 64726",
+        "datacoverage": 1,
+        "id": "ZIP:64726"
+    },
+    {
+        "mindate": "2008-03-02",
+        "maxdate": "2025-02-25",
+        "name": "Blairstown, NJ 07825",
+        "datacoverage": 1,
+        "id": "ZIP:07825"
+    },
+    {
+        "mindate": "1931-08-13",
+        "maxdate": "2025-02-25",
+        "name": "Blairsville, GA 30512",
+        "datacoverage": 1,
+        "id": "ZIP:30512"
+    },
+    {
+        "mindate": "1937-03-01",
+        "maxdate": "1988-09-30",
+        "name": "Blairsville, PA 15717",
+        "datacoverage": 1,
+        "id": "ZIP:15717"
+    },
+    {
+        "mindate": "1889-09-01",
+        "maxdate": "2011-01-20",
+        "name": "Blakely, GA 39823",
+        "datacoverage": 1,
+        "id": "ZIP:39823"
+    },
+    {
+        "mindate": "1948-05-01",
+        "maxdate": "1995-01-10",
+        "name": "Blakeslee, PA 18610",
+        "datacoverage": 1,
+        "id": "ZIP:18610"
+    },
+    {
+        "mindate": "1909-01-01",
+        "maxdate": "2024-06-22",
+        "name": "Blanca, CO 81123",
+        "datacoverage": 0.7716,
+        "id": "ZIP:81123"
+    },
+    {
+        "mindate": "1949-03-01",
+        "maxdate": "1979-12-31",
+        "name": "Blanch, NC 27212",
+        "datacoverage": 1,
+        "id": "ZIP:27212"
+    },
+    {
+        "mindate": "1899-03-01",
+        "maxdate": "1919-09-30",
+        "name": "Blanchard, IA 51630",
+        "datacoverage": 1,
+        "id": "ZIP:51630"
+    },
+    {
+        "mindate": "1976-07-01",
+        "maxdate": "1977-04-04",
+        "name": "Blanchard, MI 49310",
+        "datacoverage": 0.5493,
+        "id": "ZIP:49310"
+    },
+    {
+        "mindate": "1952-09-01",
+        "maxdate": "2021-04-30",
+        "name": "Blanchard, OK 73010",
+        "datacoverage": 1,
+        "id": "ZIP:73010"
+    },
+    {
+        "mindate": "1948-09-23",
+        "maxdate": "2025-02-25",
+        "name": "Blanchardville, WI 53516",
+        "datacoverage": 1,
+        "id": "ZIP:53516"
+    },
+    {
+        "mindate": "2022-12-30",
+        "maxdate": "2025-02-25",
+        "name": "Blanchester, OH 45107",
+        "datacoverage": 0.7782,
+        "id": "ZIP:45107"
+    },
+    {
+        "mindate": "1921-05-11",
+        "maxdate": "1923-03-31",
+        "name": "Blanco, NM 87412",
+        "datacoverage": 1,
+        "id": "ZIP:87412"
+    },
+    {
+        "mindate": "1896-05-01",
+        "maxdate": "2025-02-25",
+        "name": "Blanco, TX 78606",
+        "datacoverage": 1,
+        "id": "ZIP:78606"
+    },
+    {
+        "mindate": "1944-02-01",
+        "maxdate": "2011-12-31",
+        "name": "Bland, VA 24315",
+        "datacoverage": 1,
+        "id": "ZIP:24315"
+    },
+    {
+        "mindate": "1969-05-01",
+        "maxdate": "1995-05-31",
+        "name": "Blandford, MA 01008",
+        "datacoverage": 0.9593,
+        "id": "ZIP:01008"
+    },
+    {
+        "mindate": "1904-12-01",
+        "maxdate": "2025-02-25",
+        "name": "Blanding, UT 84511",
+        "datacoverage": 1,
+        "id": "ZIP:84511"
+    },
+    {
+        "mindate": "1940-01-01",
+        "maxdate": "2025-02-24",
+        "name": "Blanket, TX 76432",
+        "datacoverage": 1,
+        "id": "ZIP:76432"
+    },
+    {
+        "mindate": "1957-12-01",
+        "maxdate": "2012-03-28",
+        "name": "Bledsoe, KY 40810",
+        "datacoverage": 1,
+        "id": "ZIP:40810"
+    },
+    {
+        "mindate": "2011-11-21",
+        "maxdate": "2024-11-19",
+        "name": "Blencoe, IA 51523",
+        "datacoverage": 0.1337,
+        "id": "ZIP:51523"
+    },
+    {
+        "mindate": "2015-10-28",
+        "maxdate": "2025-02-25",
+        "name": "Blessing, TX 77419",
+        "datacoverage": 1,
+        "id": "ZIP:77419"
+    },
+    {
+        "mindate": "1894-12-01",
+        "maxdate": "2000-01-31",
+        "name": "Bliss, ID 83314",
+        "datacoverage": 1,
+        "id": "ZIP:83314"
+    },
+    {
+        "mindate": "2001-11-01",
+        "maxdate": "2024-11-20",
+        "name": "Blissfield, MI 49228",
+        "datacoverage": 1,
+        "id": "ZIP:49228"
+    },
+    {
+        "mindate": "1927-12-02",
+        "maxdate": "2025-02-24",
+        "name": "Block Island, RI 02807",
+        "datacoverage": 1,
+        "id": "ZIP:02807"
+    },
+    {
+        "mindate": "2022-06-04",
+        "maxdate": "2025-02-25",
+        "name": "Blocksburg, CA 95514",
+        "datacoverage": 1,
+        "id": "ZIP:95514"
+    },
+    {
+        "mindate": "1948-04-01",
+        "maxdate": "2017-07-19",
+        "name": "Blockton, IA 50836",
+        "datacoverage": 1,
+        "id": "ZIP:50836"
+    },
+    {
+        "mindate": "1909-05-01",
+        "maxdate": "2025-02-25",
+        "name": "Blodgett, OR 97326",
+        "datacoverage": 1,
+        "id": "ZIP:97326"
+    },
+    {
+        "mindate": "2020-06-29",
+        "maxdate": "2020-10-20",
+        "name": "Blomkest, MN 56216",
+        "datacoverage": 0.9211,
+        "id": "ZIP:56216"
+    },
+    {
+        "mindate": "1944-08-28",
+        "maxdate": "2025-02-25",
+        "name": "Bloomer, WI 54724",
+        "datacoverage": 1,
+        "id": "ZIP:54724"
+    },
+    {
+        "mindate": "1893-11-13",
+        "maxdate": "1897-05-31",
+        "name": "Bloomery, WV 26817",
+        "datacoverage": 0.9844,
+        "id": "ZIP:26817"
+    },
+    {
+        "mindate": "2010-10-29",
+        "maxdate": "2025-02-25",
+        "name": "Bloomfield Hills, MI 48301",
+        "datacoverage": 0.9264,
+        "id": "ZIP:48301"
+    },
+    {
+        "mindate": "1891-10-01",
+        "maxdate": "1909-08-31",
+        "name": "Bloomfield Hills, MI 48302",
+        "datacoverage": 0.9919,
+        "id": "ZIP:48302"
+    },
+    {
+        "mindate": "2014-04-12",
+        "maxdate": "2025-02-24",
+        "name": "Bloomfield Hills, MI 48304",
+        "datacoverage": 1,
+        "id": "ZIP:48304"
+    },
+    {
+        "mindate": "1948-06-01",
+        "maxdate": "2025-02-23",
+        "name": "Bloomfield, CT 06002",
+        "datacoverage": 1,
+        "id": "ZIP:06002"
+    },
+    {
+        "mindate": "1906-08-01",
+        "maxdate": "2025-02-25",
+        "name": "Bloomfield, IA 52537",
+        "datacoverage": 1,
+        "id": "ZIP:52537"
+    },
+    {
+        "mindate": "1913-11-01",
+        "maxdate": "2025-02-25",
+        "name": "Bloomfield, IN 47424",
+        "datacoverage": 1,
+        "id": "ZIP:47424"
+    },
+    {
+        "mindate": "1944-07-01",
+        "maxdate": "2007-04-30",
+        "name": "Bloomfield, MO 63825",
+        "datacoverage": 1,
+        "id": "ZIP:63825"
+    },
+    {
+        "mindate": "1908-03-12",
+        "maxdate": "2013-08-31",
+        "name": "Bloomfield, MT 59315",
+        "datacoverage": 1,
+        "id": "ZIP:59315"
+    },
+    {
+        "mindate": "1905-12-01",
+        "maxdate": "2025-02-24",
+        "name": "Bloomfield, NE 68718",
+        "datacoverage": 1,
+        "id": "ZIP:68718"
+    },
+    {
+        "mindate": "2012-09-18",
+        "maxdate": "2017-06-20",
+        "name": "Bloomfield, NJ 07003",
+        "datacoverage": 0.4301,
+        "id": "ZIP:07003"
+    },
+    {
+        "mindate": "1892-12-01",
+        "maxdate": "2025-02-25",
+        "name": "Bloomfield, NM 87413",
+        "datacoverage": 1,
+        "id": "ZIP:87413"
+    },
+    {
+        "mindate": "1956-06-13",
+        "maxdate": "2025-02-24",
+        "name": "Bloomfield, NY 14469",
+        "datacoverage": 1,
+        "id": "ZIP:14469"
+    },
+    {
+        "mindate": "2002-02-28",
+        "maxdate": "2025-02-23",
+        "name": "Blooming Grove, TX 76626",
+        "datacoverage": 1,
+        "id": "ZIP:76626"
+    },
+    {
+        "mindate": "1893-01-01",
+        "maxdate": "1904-10-31",
+        "name": "Blooming Prairie, MN 55917",
+        "datacoverage": 0.9975,
+        "id": "ZIP:55917"
+    },
+    {
+        "mindate": "2008-11-01",
+        "maxdate": "2013-02-04",
+        "name": "Bloomingburg, NY 12721",
+        "datacoverage": 1,
+        "id": "ZIP:12721"
+    },
+    {
+        "mindate": "1930-07-01",
+        "maxdate": "1934-02-14",
+        "name": "Bloomingdale, GA 31302",
+        "datacoverage": 1,
+        "id": "ZIP:31302"
+    },
+    {
+        "mindate": "2009-03-17",
+        "maxdate": "2025-02-25",
+        "name": "Bloomingdale, IL 60108",
+        "datacoverage": 1,
+        "id": "ZIP:60108"
+    },
+    {
+        "mindate": "1904-04-06",
+        "maxdate": "2021-08-31",
+        "name": "Bloomingdale, MI 49026",
+        "datacoverage": 1,
+        "id": "ZIP:49026"
+    },
+    {
+        "mindate": "2012-03-12",
+        "maxdate": "2024-08-04",
+        "name": "Bloomingdale, NJ 07403",
+        "datacoverage": 1,
+        "id": "ZIP:07403"
+    },
+    {
+        "mindate": "2016-04-28",
+        "maxdate": "2024-10-13",
+        "name": "Bloomingdale, NY 12913",
+        "datacoverage": 0.7467,
+        "id": "ZIP:12913"
+    },
+    {
+        "mindate": "2016-12-14",
+        "maxdate": "2021-02-15",
+        "name": "Bloomingdale, OH 43910",
+        "datacoverage": 0.5026,
+        "id": "ZIP:43910"
+    },
+    {
+        "mindate": "1893-01-01",
+        "maxdate": "2025-02-24",
+        "name": "Bloomington, IL 61701",
+        "datacoverage": 1,
+        "id": "ZIP:61701"
+    },
+    {
+        "mindate": "2007-02-21",
+        "maxdate": "2025-02-25",
+        "name": "Bloomington, IL 61704",
+        "datacoverage": 1,
+        "id": "ZIP:61704"
+    },
+    {
+        "mindate": "1987-04-02",
+        "maxdate": "2025-02-25",
+        "name": "Bloomington, IL 61705",
+        "datacoverage": 1,
+        "id": "ZIP:61705"
+    },
+    {
+        "mindate": "2006-03-30",
+        "maxdate": "2025-02-25",
+        "name": "Bloomington, IN 47401",
+        "datacoverage": 1,
+        "id": "ZIP:47401"
+    },
+    {
+        "mindate": "1951-11-01",
+        "maxdate": "2025-02-24",
+        "name": "Bloomington, IN 47403",
+        "datacoverage": 1,
+        "id": "ZIP:47403"
+    },
+    {
+        "mindate": "2006-11-14",
+        "maxdate": "2025-02-25",
+        "name": "Bloomington, IN 47404",
+        "datacoverage": 1,
+        "id": "ZIP:47404"
+    },
+    {
+        "mindate": "1895-12-01",
+        "maxdate": "2025-02-15",
+        "name": "Bloomington, IN 47405",
+        "datacoverage": 1,
+        "id": "ZIP:47405"
+    },
+    {
+        "mindate": "1954-04-01",
+        "maxdate": "2025-02-25",
+        "name": "Bloomington, IN 47408",
+        "datacoverage": 1,
+        "id": "ZIP:47408"
+    },
+    {
+        "mindate": "1945-02-26",
+        "maxdate": "2025-02-25",
+        "name": "Bloomington, MD 21523",
+        "datacoverage": 1,
+        "id": "ZIP:21523"
+    },
+    {
+        "mindate": "1907-12-01",
+        "maxdate": "2025-02-25",
+        "name": "Bloomington, NE 68929",
+        "datacoverage": 1,
+        "id": "ZIP:68929"
+    },
+    {
+        "mindate": "2007-11-18",
+        "maxdate": "2014-03-09",
+        "name": "Bloomington, TX 77951",
+        "datacoverage": 1,
+        "id": "ZIP:77951"
+    },
+    {
+        "mindate": "2021-03-23",
+        "maxdate": "2025-02-25",
+        "name": "Bloomington, WI 53804",
+        "datacoverage": 1,
+        "id": "ZIP:53804"
+    },
+    {
+        "mindate": "1896-01-01",
+        "maxdate": "2023-09-26",
+        "name": "Bloomsburg, PA 17815",
+        "datacoverage": 0.9947,
+        "id": "ZIP:17815"
+    },
+    {
+        "mindate": "2008-01-29",
+        "maxdate": "2025-02-25",
+        "name": "Bloomsbury, NJ 08804",
+        "datacoverage": 0.9963,
+        "id": "ZIP:08804"
+    },
+    {
+        "mindate": "1948-05-01",
+        "maxdate": "2013-09-03",
+        "name": "Bloomville, NY 13739",
+        "datacoverage": 1,
+        "id": "ZIP:13739"
+    },
+    {
+        "mindate": "1943-02-19",
+        "maxdate": "1948-01-30",
+        "name": "Bloomville, OH 44818",
+        "datacoverage": 0.992,
+        "id": "ZIP:44818"
+    },
+    {
+        "mindate": "1932-01-01",
+        "maxdate": "2025-02-16",
+        "name": "Blossvale, NY 13308",
+        "datacoverage": 0.912,
+        "id": "ZIP:13308"
+    },
+    {
+        "mindate": "1894-01-05",
+        "maxdate": "1897-01-31",
+        "name": "Blount, WV 25025",
+        "datacoverage": 0.9167,
+        "id": "ZIP:25025"
+    },
+    {
+        "mindate": "2013-12-05",
+        "maxdate": "2018-05-30",
+        "name": "Blounts Creek, NC 27814",
+        "datacoverage": 0.4957,
+        "id": "ZIP:27814"
+    },
+    {
+        "mindate": "1908-04-01",
+        "maxdate": "2025-02-25",
+        "name": "Blountstown, FL 32424",
+        "datacoverage": 1,
+        "id": "ZIP:32424"
+    },
+    {
+        "mindate": "2007-11-05",
+        "maxdate": "2025-02-24",
+        "name": "Blountsville, AL 35031",
+        "datacoverage": 1,
+        "id": "ZIP:35031"
+    },
+    {
+        "mindate": "1937-10-01",
+        "maxdate": "2025-02-25",
+        "name": "Blountville, TN 37617",
+        "datacoverage": 1,
+        "id": "ZIP:37617"
+    },
+    {
+        "mindate": "1943-06-01",
+        "maxdate": "2025-02-25",
+        "name": "Blowing Rock, NC 28605",
+        "datacoverage": 1,
+        "id": "ZIP:28605"
+    },
+    {
+        "mindate": "1959-06-01",
+        "maxdate": "2008-10-28",
+        "name": "Bloxom, VA 23308",
+        "datacoverage": 1,
+        "id": "ZIP:23308"
+    },
+    {
+        "mindate": "2006-02-12",
+        "maxdate": "2025-02-25",
+        "name": "Blue Bell, PA 19422",
+        "datacoverage": 0.8425,
+        "id": "ZIP:19422"
+    },
+    {
+        "mindate": "1948-08-01",
+        "maxdate": "2025-02-25",
+        "name": "Blue Earth, MN 56013",
+        "datacoverage": 1,
+        "id": "ZIP:56013"
+    },
+    {
+        "mindate": "2010-05-15",
+        "maxdate": "2021-06-27",
+        "name": "Blue Hill, ME 04614",
+        "datacoverage": 0.5196,
+        "id": "ZIP:04614"
+    },
+    {
+        "mindate": "1894-11-01",
+        "maxdate": "2025-02-24",
+        "name": "Blue Hill, NE 68930",
+        "datacoverage": 1,
+        "id": "ZIP:68930"
+    },
+    {
+        "mindate": "2008-07-07",
+        "maxdate": "2011-10-26",
+        "name": "Blue Island, IL 60406",
+        "datacoverage": 1,
+        "id": "ZIP:60406"
+    },
+    {
+        "mindate": "1956-02-01",
+        "maxdate": "1974-12-31",
+        "name": "Blue Lake, CA 95525",
+        "datacoverage": 1,
+        "id": "ZIP:95525"
+    },
+    {
+        "mindate": "1988-03-01",
+        "maxdate": "1990-10-09",
+        "name": "Blue Mound, KS 66010",
+        "datacoverage": 1,
+        "id": "ZIP:66010"
+    },
+    {
+        "mindate": "1962-06-07",
+        "maxdate": "1986-08-01",
+        "name": "Blue Mounds, WI 53517",
+        "datacoverage": 1,
+        "id": "ZIP:53517"
+    },
+    {
+        "mindate": "1900-05-01",
+        "maxdate": "1951-12-31",
+        "name": "Blue Mountain Lake, NY 12812",
+        "datacoverage": 1,
+        "id": "ZIP:12812"
+    },
+    {
+        "mindate": "2002-04-14",
+        "maxdate": "2025-02-21",
+        "name": "Blue Point, NY 11715",
+        "datacoverage": 1,
+        "id": "ZIP:11715"
+    },
+    {
+        "mindate": "1905-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Blue Rapids, KS 66411",
+        "datacoverage": 1,
+        "id": "ZIP:66411"
+    },
+    {
+        "mindate": "1920-03-01",
+        "maxdate": "2025-02-25",
+        "name": "Blue Ridge, GA 30513",
+        "datacoverage": 1,
+        "id": "ZIP:30513"
+    },
+    {
+        "mindate": "2016-11-09",
+        "maxdate": "2025-02-25",
+        "name": "Blue Ridge, TX 75424",
+        "datacoverage": 0.9465,
+        "id": "ZIP:75424"
+    },
+    {
+        "mindate": "1902-02-01",
+        "maxdate": "2025-02-25",
+        "name": "Blue River, OR 97413",
+        "datacoverage": 1,
+        "id": "ZIP:97413"
+    },
+    {
+        "mindate": "1901-10-01",
+        "maxdate": "1965-09-30",
+        "name": "Blue Rock, OH 43720",
+        "datacoverage": 1,
+        "id": "ZIP:43720"
+    },
+    {
+        "mindate": "2019-10-02",
+        "maxdate": "2025-02-25",
+        "name": "Blue Springs, MO 64014",
+        "datacoverage": 1,
+        "id": "ZIP:64014"
+    },
+    {
+        "mindate": "1903-04-01",
+        "maxdate": "2025-02-24",
+        "name": "Blue Springs, MO 64015",
+        "datacoverage": 1,
+        "id": "ZIP:64015"
+    },
+    {
+        "mindate": "1980-11-01",
+        "maxdate": "2015-05-14",
+        "name": "Blue Springs, MS 38828",
+        "datacoverage": 0.9617,
+        "id": "ZIP:38828"
+    },
+    {
+        "mindate": "1948-06-01",
+        "maxdate": "2025-01-31",
+        "name": "Blue Springs, NE 68318",
+        "datacoverage": 1,
+        "id": "ZIP:68318"
+    },
+    {
+        "mindate": "1903-11-13",
+        "maxdate": "2025-02-23",
+        "name": "Blue, AZ 85922",
+        "datacoverage": 0.7162,
+        "id": "ZIP:85922"
+    },
+    {
+        "mindate": "1893-01-01",
+        "maxdate": "2025-02-24",
+        "name": "Bluefield, WV 24701",
+        "datacoverage": 1,
+        "id": "ZIP:24701"
+    },
+    {
+        "mindate": "1915-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Bluemont, VA 20135",
+        "datacoverage": 1,
+        "id": "ZIP:20135"
+    },
+    {
+        "mindate": "1896-05-01",
+        "maxdate": "2025-02-25",
+        "name": "Bluewater, NM 87005",
+        "datacoverage": 1,
+        "id": "ZIP:87005"
+    },
+    {
+        "mindate": "1948-07-01",
+        "maxdate": "2012-01-31",
+        "name": "Bluff City, AR 71722",
+        "datacoverage": 0.9005,
+        "id": "ZIP:71722"
+    },
+    {
+        "mindate": "1973-04-01",
+        "maxdate": "2025-02-21",
+        "name": "Bluff City, KS 67018",
+        "datacoverage": 0.5623,
+        "id": "ZIP:67018"
+    },
+    {
+        "mindate": "1895-09-01",
+        "maxdate": "1962-03-31",
+        "name": "Bluff City, TN 37618",
+        "datacoverage": 1,
+        "id": "ZIP:37618"
+    },
+    {
+        "mindate": "1910-07-01",
+        "maxdate": "2025-02-24",
+        "name": "Bluff Dale, TX 76433",
+        "datacoverage": 1,
+        "id": "ZIP:76433"
+    },
+    {
+        "mindate": "1940-06-01",
+        "maxdate": "1986-10-31",
+        "name": "Bluffs, IL 62621",
+        "datacoverage": 0.9758,
+        "id": "ZIP:62621"
+    },
+    {
+        "mindate": "1965-02-23",
+        "maxdate": "2018-07-19",
+        "name": "Bluffton, AR 72827",
+        "datacoverage": 0.9712,
+        "id": "ZIP:72827"
+    },
+    {
+        "mindate": "1895-10-03",
+        "maxdate": "2025-02-24",
+        "name": "Bluffton, IN 46714",
+        "datacoverage": 1,
+        "id": "ZIP:46714"
+    },
+    {
+        "mindate": "2008-03-04",
+        "maxdate": "2025-02-25",
+        "name": "Bluffton, SC 29910",
+        "datacoverage": 1,
+        "id": "ZIP:29910"
+    },
+    {
+        "mindate": "2011-09-08",
+        "maxdate": "2012-09-02",
+        "name": "Bluford, IL 62814",
+        "datacoverage": 0.4875,
+        "id": "ZIP:62814"
+    },
+    {
+        "mindate": "1970-02-01",
+        "maxdate": "2022-11-26",
+        "name": "Blum, TX 76627",
+        "datacoverage": 0.2032,
+        "id": "ZIP:76627"
+    },
+    {
+        "mindate": "1913-11-01",
+        "maxdate": "2011-05-31",
+        "name": "Blunt, SD 57522",
+        "datacoverage": 1,
+        "id": "ZIP:57522"
+    },
+    {
+        "mindate": "1913-01-01",
+        "maxdate": "2025-02-24",
+        "name": "Blythe, CA 92225",
+        "datacoverage": 1,
+        "id": "ZIP:92225"
+    },
+    {
+        "mindate": "2016-05-04",
+        "maxdate": "2017-06-19",
+        "name": "Blythe, GA 30805",
+        "datacoverage": 1,
+        "id": "ZIP:30805"
+    },
+    {
+        "mindate": "1926-03-10",
+        "maxdate": "2025-02-25",
+        "name": "Blytheville, AR 72315",
+        "datacoverage": 1,
+        "id": "ZIP:72315"
+    },
+    {
+        "mindate": "2005-02-12",
+        "maxdate": "2025-02-25",
+        "name": "Blythewood, SC 29016",
+        "datacoverage": 1,
+        "id": "ZIP:29016"
+    },
+    {
+        "mindate": "2005-12-22",
+        "maxdate": "2025-02-25",
+        "name": "Boalsburg, PA 16827",
+        "datacoverage": 1,
+        "id": "ZIP:16827"
+    },
+    {
+        "mindate": "1898-06-01",
+        "maxdate": "2025-01-31",
+        "name": "Boardman, OR 97818",
+        "datacoverage": 1,
+        "id": "ZIP:97818"
+    },
+    {
+        "mindate": "1938-03-01",
+        "maxdate": "2025-02-25",
+        "name": "Boaz, AL 35957",
+        "datacoverage": 1,
+        "id": "ZIP:35957"
+    },
+    {
+        "mindate": "2010-05-25",
+        "maxdate": "2021-07-31",
+        "name": "Boca Raton, FL 33428",
+        "datacoverage": 0.9883,
+        "id": "ZIP:33428"
+    },
+    {
+        "mindate": "2016-05-24",
+        "maxdate": "2021-08-25",
+        "name": "Boca Raton, FL 33431",
+        "datacoverage": 0.95,
+        "id": "ZIP:33431"
+    },
+    {
+        "mindate": "1897-04-01",
+        "maxdate": "2025-02-23",
+        "name": "Boca Raton, FL 33432",
+        "datacoverage": 1,
+        "id": "ZIP:33432"
+    },
+    {
+        "mindate": "1949-03-09",
+        "maxdate": "2025-02-24",
+        "name": "Boca Raton, FL 33433",
+        "datacoverage": 0.9186,
+        "id": "ZIP:33433"
+    },
+    {
+        "mindate": "2009-12-31",
+        "maxdate": "2024-06-26",
+        "name": "Boca Raton, FL 33487",
+        "datacoverage": 1,
+        "id": "ZIP:33487"
+    },
+    {
+        "mindate": "2023-06-16",
+        "maxdate": "2025-01-19",
+        "name": "Boca Raton, FL 33498",
+        "datacoverage": 0.7764,
+        "id": "ZIP:33498"
+    },
+    {
+        "mindate": "2008-06-15",
+        "maxdate": "2025-02-24",
+        "name": "Bodega Bay, CA 94923",
+        "datacoverage": 1,
+        "id": "ZIP:94923"
+    },
+    {
+        "mindate": "2004-12-03",
+        "maxdate": "2023-05-25",
+        "name": "Boelus, NE 68820",
+        "datacoverage": 1,
+        "id": "ZIP:68820"
+    },
+    {
+        "mindate": "1893-01-17",
+        "maxdate": "2025-02-25",
+        "name": "Boerne, TX 78006",
+        "datacoverage": 1,
+        "id": "ZIP:78006"
+    },
+    {
+        "mindate": "1946-12-01",
+        "maxdate": "2025-02-25",
+        "name": "Boerne, TX 78015",
+        "datacoverage": 1,
+        "id": "ZIP:78015"
+    },
+    {
+        "mindate": "1930-07-01",
+        "maxdate": "2023-06-20",
+        "name": "Bogalusa, LA 70427",
+        "datacoverage": 1,
+        "id": "ZIP:70427"
+    },
+    {
+        "mindate": "1949-08-01",
+        "maxdate": "1997-01-06",
+        "name": "Bogard, MO 64622",
+        "datacoverage": 1,
+        "id": "ZIP:64622"
+    },
+    {
+        "mindate": "2002-01-31",
+        "maxdate": "2025-02-20",
+        "name": "Bogart, GA 30622",
+        "datacoverage": 1,
+        "id": "ZIP:30622"
+    },
+    {
+        "mindate": "1940-10-01",
+        "maxdate": "1973-11-01",
+        "name": "Bogata, TX 75417",
+        "datacoverage": 0.9128,
+        "id": "ZIP:75417"
+    },
+    {
+        "mindate": "2002-05-03",
+        "maxdate": "2022-02-04",
+        "name": "Bogue Chitto, MS 39629",
+        "datacoverage": 0.9515,
+        "id": "ZIP:39629"
+    },
+    {
+        "mindate": "2016-08-27",
+        "maxdate": "2018-04-30",
+        "name": "Bohemia, NY 11716",
+        "datacoverage": 0.6405,
+        "id": "ZIP:11716"
+    },
+    {
+        "mindate": "1948-05-01",
+        "maxdate": "1959-06-30",
+        "name": "Boiceville, NY 12412",
+        "datacoverage": 0.9988,
+        "id": "ZIP:12412"
+    },
+    {
+        "mindate": "2010-05-10",
+        "maxdate": "2025-02-25",
+        "name": "Boiling Springs, SC 29316",
+        "datacoverage": 1,
+        "id": "ZIP:29316"
+    },
+    {
+        "mindate": "1972-07-01",
+        "maxdate": "2017-08-07",
+        "name": "Bois D Arc, MO 65612",
+        "datacoverage": 0.6831,
+        "id": "ZIP:65612"
+    },
+    {
+        "mindate": "1908-01-18",
+        "maxdate": "2020-02-28",
+        "name": "Boise City, OK 73933",
+        "datacoverage": 1,
+        "id": "ZIP:73933"
+    },
+    {
+        "mindate": "2009-04-02",
+        "maxdate": "2025-02-25",
+        "name": "Boise, ID 83702",
+        "datacoverage": 1,
+        "id": "ZIP:83702"
+    },
+    {
+        "mindate": "2008-12-01",
+        "maxdate": "2025-02-25",
+        "name": "Boise, ID 83703",
+        "datacoverage": 1,
+        "id": "ZIP:83703"
+    },
+    {
+        "mindate": "2009-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Boise, ID 83704",
+        "datacoverage": 0.9768,
+        "id": "ZIP:83704"
+    },
+    {
+        "mindate": "1940-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Boise, ID 83705",
+        "datacoverage": 1,
+        "id": "ZIP:83705"
+    },
+    {
+        "mindate": "1931-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Boise, ID 83706",
+        "datacoverage": 1,
+        "id": "ZIP:83706"
+    },
+    {
+        "mindate": "2009-03-16",
+        "maxdate": "2025-02-25",
+        "name": "Boise, ID 83709",
+        "datacoverage": 0.9977,
+        "id": "ZIP:83709"
+    },
+    {
+        "mindate": "1909-02-01",
+        "maxdate": "1913-04-30",
+        "name": "Boise, ID 83712",
+        "datacoverage": 0.5168,
+        "id": "ZIP:83712"
+    },
+    {
+        "mindate": "2019-03-06",
+        "maxdate": "2023-06-19",
+        "name": "Boise, ID 83713",
+        "datacoverage": 1,
+        "id": "ZIP:83713"
+    },
+    {
+        "mindate": "1909-02-04",
+        "maxdate": "2025-02-25",
+        "name": "Boise, ID 83716",
+        "datacoverage": 1,
+        "id": "ZIP:83716"
+    },
+    {
+        "mindate": "1992-03-01",
+        "maxdate": "2009-03-31",
+        "name": "Bokchito, OK 74726",
+        "datacoverage": 0.9745,
+        "id": "ZIP:74726"
+    },
+    {
+        "mindate": "2008-09-14",
+        "maxdate": "2016-09-23",
+        "name": "Bokeelia, FL 33922",
+        "datacoverage": 0.8514,
+        "id": "ZIP:33922"
+    },
+    {
+        "mindate": "2009-06-20",
+        "maxdate": "2011-03-21",
+        "name": "Bokoshe, OK 74930",
+        "datacoverage": 0.8547,
+        "id": "ZIP:74930"
+    },
+    {
+        "mindate": "1896-06-01",
+        "maxdate": "2013-11-24",
+        "name": "Bolckow, MO 64427",
+        "datacoverage": 0.9958,
+        "id": "ZIP:64427"
+    },
+    {
+        "mindate": "1941-08-01",
+        "maxdate": "1942-06-30",
+        "name": "Boley, OK 74829",
+        "datacoverage": 1,
+        "id": "ZIP:74829"
+    },
+    {
+        "mindate": "2014-11-11",
+        "maxdate": "2025-02-24",
+        "name": "Bolinas, CA 94924",
+        "datacoverage": 0.979,
+        "id": "ZIP:94924"
+    },
+    {
+        "mindate": "1946-06-01",
+        "maxdate": "1999-02-28",
+        "name": "Boling, TX 77420",
+        "datacoverage": 0.9753,
+        "id": "ZIP:77420"
+    },
+    {
+        "mindate": "2009-11-18",
+        "maxdate": "2025-02-25",
+        "name": "Bolingbrook, IL 60440",
+        "datacoverage": 1,
+        "id": "ZIP:60440"
+    },
+    {
+        "mindate": "2007-10-03",
+        "maxdate": "2020-11-10",
+        "name": "Bolingbrook, IL 60490",
+        "datacoverage": 1,
+        "id": "ZIP:60490"
+    },
+    {
+        "mindate": "1905-09-05",
+        "maxdate": "2025-02-25",
+        "name": "Bolivar, MO 65613",
+        "datacoverage": 1,
+        "id": "ZIP:65613"
+    },
+    {
+        "mindate": "1896-04-01",
+        "maxdate": "1999-09-30",
+        "name": "Bolivar, NY 14715",
+        "datacoverage": 1,
+        "id": "ZIP:14715"
+    },
+    {
+        "mindate": "1949-01-01",
+        "maxdate": "2009-10-31",
+        "name": "Bolivar, OH 44612",
+        "datacoverage": 1,
+        "id": "ZIP:44612"
+    },
+    {
+        "mindate": "1893-01-01",
+        "maxdate": "2025-02-24",
+        "name": "Bolivar, TN 38008",
+        "datacoverage": 1,
+        "id": "ZIP:38008"
+    },
+    {
+        "mindate": "2011-03-16",
+        "maxdate": "2025-02-25",
+        "name": "Bolivia, NC 28422",
+        "datacoverage": 1,
+        "id": "ZIP:28422"
+    },
+    {
+        "mindate": "1922-11-01",
+        "maxdate": "1956-08-01",
+        "name": "Bolton Landing, NY 12814",
+        "datacoverage": 1,
+        "id": "ZIP:12814"
+    },
+    {
+        "mindate": "1914-06-12",
+        "maxdate": "1915-10-31",
+        "name": "Bolton, NC 28423",
+        "datacoverage": 1,
+        "id": "ZIP:28423"
+    },
+    {
+        "mindate": "2007-08-17",
+        "maxdate": "2025-02-24",
+        "name": "Bon Aqua, TN 37025",
+        "datacoverage": 1,
+        "id": "ZIP:37025"
+    },
+    {
+        "mindate": "1943-01-15",
+        "maxdate": "1988-06-30",
+        "name": "Bon Wier, TX 75928",
+        "datacoverage": 0.9354,
+        "id": "ZIP:75928"
+    },
+    {
+        "mindate": "2009-06-18",
+        "maxdate": "2025-02-19",
+        "name": "Bonaire, GA 31005",
+        "datacoverage": 1,
+        "id": "ZIP:31005"
+    },
+    {
+        "mindate": "1905-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Bonanza, OR 97623",
+        "datacoverage": 1,
+        "id": "ZIP:97623"
+    },
+    {
+        "mindate": "1893-01-01",
+        "maxdate": "1939-03-31",
+        "name": "Bonaparte, IA 52620",
+        "datacoverage": 1,
+        "id": "ZIP:52620"
+    },
+    {
+        "mindate": "1958-11-01",
+        "maxdate": "2025-02-24",
+        "name": "Bond, CO 80423",
+        "datacoverage": 1,
+        "id": "ZIP:80423"
+    },
+    {
+        "mindate": "1907-04-01",
+        "maxdate": "2025-02-24",
+        "name": "Bonduel, WI 54107",
+        "datacoverage": 1,
+        "id": "ZIP:54107"
+    },
+    {
+        "mindate": "2014-06-21",
+        "maxdate": "2024-11-20",
+        "name": "Bondurant, IA 50035",
+        "datacoverage": 0.9823,
+        "id": "ZIP:50035"
+    },
+    {
+        "mindate": "1948-08-01",
+        "maxdate": "2025-02-24",
+        "name": "Bondurant, WY 82922",
+        "datacoverage": 1,
+        "id": "ZIP:82922"
+    },
+    {
+        "mindate": "1893-01-01",
+        "maxdate": "1893-05-31",
+        "name": "Bondville, VT 05340",
+        "datacoverage": 0.5872,
+        "id": "ZIP:05340"
+    },
+    {
+        "mindate": "1956-05-01",
+        "maxdate": "2025-02-25",
+        "name": "Bonesteel, SD 57317",
+        "datacoverage": 1,
+        "id": "ZIP:57317"
+    },
+    {
+        "mindate": "2007-04-08",
+        "maxdate": "2018-04-10",
+        "name": "Bonfield, IL 60913",
+        "datacoverage": 1,
+        "id": "ZIP:60913"
+    },
+    {
+        "mindate": "1903-01-10",
+        "maxdate": "2025-02-25",
+        "name": "Bonham, TX 75418",
+        "datacoverage": 1,
+        "id": "ZIP:75418"
+    },
+    {
+        "mindate": "1901-09-01",
+        "maxdate": "2025-02-24",
+        "name": "Bonifay, FL 32425",
+        "datacoverage": 1,
+        "id": "ZIP:32425"
+    },
+    {
+        "mindate": "2007-10-02",
+        "maxdate": "2021-02-14",
+        "name": "Bonita Springs, FL 34134",
+        "datacoverage": 0.4914,
+        "id": "ZIP:34134"
+    },
+    {
+        "mindate": "1942-12-02",
+        "maxdate": "1955-01-31",
+        "name": "Bonita Springs, FL 34135",
+        "datacoverage": 0.9622,
+        "id": "ZIP:34135"
+    },
+    {
+        "mindate": "1915-10-01",
+        "maxdate": "2025-02-25",
+        "name": "Bonita, CA 91902",
+        "datacoverage": 1,
+        "id": "ZIP:91902"
+    },
+    {
+        "mindate": "1940-04-01",
+        "maxdate": "1964-06-30",
+        "name": "Bonita, LA 71223",
+        "datacoverage": 1,
+        "id": "ZIP:71223"
+    },
+    {
+        "mindate": "2015-03-30",
+        "maxdate": "2025-02-16",
+        "name": "Bonneau, SC 29431",
+        "datacoverage": 0.7687,
+        "id": "ZIP:29431"
+    },
+    {
+        "mindate": "1938-02-01",
+        "maxdate": "2021-12-31",
+        "name": "Bonner Springs, KS 66012",
+        "datacoverage": 1,
+        "id": "ZIP:66012"
+    },
+    {
+        "mindate": "1948-07-01",
+        "maxdate": "2025-02-25",
+        "name": "Bonner, MT 59823",
+        "datacoverage": 1,
+        "id": "ZIP:59823"
+    },
+    {
+        "mindate": "1965-10-01",
+        "maxdate": "2018-03-29",
+        "name": "Bonnerdale, AR 71933",
+        "datacoverage": 0.9505,
+        "id": "ZIP:71933"
+    },
+    {
+        "mindate": "1904-05-14",
+        "maxdate": "2025-02-25",
+        "name": "Bonners Ferry, ID 83805",
+        "datacoverage": 1,
+        "id": "ZIP:83805"
+    },
+    {
+        "mindate": "2021-11-17",
+        "maxdate": "2025-02-24",
+        "name": "Bonney Lake, WA 98391",
+        "datacoverage": 0.6982,
+        "id": "ZIP:98391"
+    },
+    {
+        "mindate": "1956-04-01",
+        "maxdate": "2003-06-30",
+        "name": "Bonnieville, KY 42713",
+        "datacoverage": 1,
+        "id": "ZIP:42713"
+    },
+    {
+        "mindate": "1974-05-23",
+        "maxdate": "1974-12-12",
+        "name": "Bono, AR 72416",
+        "datacoverage": 0.9594,
+        "id": "ZIP:72416"
+    },
+    {
+        "mindate": "1941-01-01",
+        "maxdate": "2025-01-10",
+        "name": "Booker, TX 79005",
+        "datacoverage": 1,
+        "id": "ZIP:79005"
+    },
+    {
+        "mindate": "1892-09-01",
+        "maxdate": "1903-08-31",
+        "name": "Boon, MI 49618",
+        "datacoverage": 0.9831,
+        "id": "ZIP:49618"
+    },
+    {
+        "mindate": "1955-10-01",
+        "maxdate": "2025-02-24",
+        "name": "Boone, CO 81025",
+        "datacoverage": 1,
+        "id": "ZIP:81025"
+    },
+    {
+        "mindate": "1905-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Boone, IA 50036",
+        "datacoverage": 1,
+        "id": "ZIP:50036"
+    },
+    {
+        "mindate": "1929-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Boone, NC 28607",
+        "datacoverage": 1,
+        "id": "ZIP:28607"
+    },
+    {
+        "mindate": "2011-04-18",
+        "maxdate": "2021-09-25",
+        "name": "Boones Mill, VA 24065",
+        "datacoverage": 1,
+        "id": "ZIP:24065"
+    },
+    {
+        "mindate": "1906-04-01",
+        "maxdate": "2025-02-25",
+        "name": "Booneville, AR 72927",
+        "datacoverage": 1,
+        "id": "ZIP:72927"
+    },
+    {
+        "mindate": "1957-05-20",
+        "maxdate": "1957-11-28",
+        "name": "Booneville, IA 50038",
+        "datacoverage": 0.6966,
+        "id": "ZIP:50038"
+    },
+    {
+        "mindate": "1893-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Booneville, KY 41314",
+        "datacoverage": 1,
+        "id": "ZIP:41314"
+    },
+    {
+        "mindate": "1892-07-03",
+        "maxdate": "2025-02-25",
+        "name": "Booneville, MS 38829",
+        "datacoverage": 1,
+        "id": "ZIP:38829"
+    },
+    {
+        "mindate": "1899-03-01",
+        "maxdate": "2022-11-30",
+        "name": "Boonsboro, MD 21713",
+        "datacoverage": 1,
+        "id": "ZIP:21713"
+    },
+    {
+        "mindate": "1893-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Boonton, NJ 07005",
+        "datacoverage": 1,
+        "id": "ZIP:07005"
+    },
+    {
+        "mindate": "1959-05-01",
+        "maxdate": "2025-02-25",
+        "name": "Boonville, CA 95415",
+        "datacoverage": 0.9845,
+        "id": "ZIP:95415"
+    },
+    {
+        "mindate": "1893-01-01",
+        "maxdate": "2025-02-24",
+        "name": "Boonville, IN 47601",
+        "datacoverage": 1,
+        "id": "ZIP:47601"
+    },
+    {
+        "mindate": "1893-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Boonville, MO 65233",
+        "datacoverage": 1,
+        "id": "ZIP:65233"
+    },
+    {
+        "mindate": "1912-12-01",
+        "maxdate": "2025-02-25",
+        "name": "Boonville, NY 13309",
+        "datacoverage": 1,
+        "id": "ZIP:13309"
+    },
+    {
+        "mindate": "2008-03-18",
+        "maxdate": "2010-08-13",
+        "name": "Borden, IN 47106",
+        "datacoverage": 0.6382,
+        "id": "ZIP:47106"
+    },
+    {
+        "mindate": "2021-03-26",
+        "maxdate": "2025-01-08",
+        "name": "Bordentown, NJ 08505",
+        "datacoverage": 0.9581,
+        "id": "ZIP:08505"
+    },
+    {
+        "mindate": "1944-04-26",
+        "maxdate": "2025-02-25",
+        "name": "Borger, TX 79007",
+        "datacoverage": 1,
+        "id": "ZIP:79007"
+    },
+    {
+        "mindate": "2008-01-12",
+        "maxdate": "2025-02-24",
+        "name": "Boring, OR 97009",
+        "datacoverage": 0.9532,
+        "id": "ZIP:97009"
+    },
+    {
+        "mindate": "1932-03-01",
+        "maxdate": "2025-02-24",
+        "name": "Borrego Springs, CA 92004",
+        "datacoverage": 1,
+        "id": "ZIP:92004"
+    },
+    {
+        "mindate": "1895-10-12",
+        "maxdate": "2025-02-22",
+        "name": "Boscobel, WI 53805",
+        "datacoverage": 0.998,
+        "id": "ZIP:53805"
+    },
+    {
+        "mindate": "1901-07-01",
+        "maxdate": "2025-02-25",
+        "name": "Bosler, WY 82051",
+        "datacoverage": 1,
+        "id": "ZIP:82051"
+    },
+    {
+        "mindate": "2005-04-09",
+        "maxdate": "2025-02-22",
+        "name": "Bosque Farms, NM 87068",
+        "datacoverage": 1,
+        "id": "ZIP:87068"
+    },
+    {
+        "mindate": "1933-07-01",
+        "maxdate": "2025-02-25",
+        "name": "Bosque, NM 87006",
+        "datacoverage": 1,
+        "id": "ZIP:87006"
+    },
+    {
+        "mindate": "2008-05-30",
+        "maxdate": "2025-02-19",
+        "name": "Boss, MO 65440",
+        "datacoverage": 1,
+        "id": "ZIP:65440"
+    },
+    {
+        "mindate": "1951-01-01",
+        "maxdate": "2025-02-24",
+        "name": "Bossier City, LA 71111",
+        "datacoverage": 1,
+        "id": "ZIP:71111"
+    },
+    {
+        "mindate": "1966-02-01",
+        "maxdate": "2025-02-25",
+        "name": "Bossier City, LA 71112",
+        "datacoverage": 1,
+        "id": "ZIP:71112"
+    },
+    {
+        "mindate": "2009-01-29",
+        "maxdate": "2017-06-17",
+        "name": "Boston, GA 31626",
+        "datacoverage": 0.934,
+        "id": "ZIP:31626"
+    },
+    {
+        "mindate": "1948-12-01",
+        "maxdate": "1951-11-14",
+        "name": "Boston, KY 40107",
+        "datacoverage": 1,
+        "id": "ZIP:40107"
+    },
+    {
+        "mindate": "2009-02-26",
+        "maxdate": "2021-12-31",
+        "name": "Boston, MA 02108",
+        "datacoverage": 0.3088,
+        "id": "ZIP:02108"
+    },
+    {
+        "mindate": "1891-01-01",
+        "maxdate": "1935-12-31",
+        "name": "Boston, MA 02116",
+        "datacoverage": 1,
+        "id": "ZIP:02116"
+    },
+    {
+        "mindate": "1906-02-01",
+        "maxdate": "1922-03-31",
+        "name": "Boston, MA 02127",
+        "datacoverage": 0.9651,
+        "id": "ZIP:02127"
+    },
+    {
+        "mindate": "1936-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Boston, MA 02128",
+        "datacoverage": 1,
+        "id": "ZIP:02128"
+    },
+    {
+        "mindate": "1998-09-01",
+        "maxdate": "2025-02-25",
+        "name": "Boston, VA 22713",
+        "datacoverage": 1,
+        "id": "ZIP:22713"
+    },
+    {
+        "mindate": "1941-08-01",
+        "maxdate": "1999-08-31",
+        "name": "Boswell, OK 74727",
+        "datacoverage": 0.9255,
+        "id": "ZIP:74727"
+    },
+    {
+        "mindate": "1942-12-12",
+        "maxdate": "2015-04-30",
+        "name": "Boswell, PA 15531",
+        "datacoverage": 1,
+        "id": "ZIP:15531"
+    },
+    {
+        "mindate": "1931-01-01",
+        "maxdate": "2022-07-06",
+        "name": "Bothell, WA 98011",
+        "datacoverage": 1,
+        "id": "ZIP:98011"
+    },
+    {
+        "mindate": "2008-06-04",
+        "maxdate": "2025-02-25",
+        "name": "Bothell, WA 98012",
+        "datacoverage": 1,
+        "id": "ZIP:98012"
+    },
+    {
+        "mindate": "1932-08-01",
+        "maxdate": "2024-12-14",
+        "name": "Bothell, WA 98021",
+        "datacoverage": 1,
+        "id": "ZIP:98021"
+    },
+    {
+        "mindate": "1893-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Bottineau, ND 58318",
+        "datacoverage": 1,
+        "id": "ZIP:58318"
+    },
+    {
+        "mindate": "1931-09-01",
+        "maxdate": "2025-02-25",
+        "name": "Boulder City, NV 89005",
+        "datacoverage": 1,
+        "id": "ZIP:89005"
+    },
+    {
+        "mindate": "1906-03-01",
+        "maxdate": "2025-02-25",
+        "name": "Boulder Creek, CA 95006",
+        "datacoverage": 1,
+        "id": "ZIP:95006"
+    },
+    {
+        "mindate": "2018-10-02",
+        "maxdate": "2025-02-15",
+        "name": "Boulder Junction, WI 54512",
+        "datacoverage": 0.8025,
+        "id": "ZIP:54512"
+    },
+    {
+        "mindate": "2001-05-04",
+        "maxdate": "2025-02-25",
+        "name": "Boulder, CO 80301",
+        "datacoverage": 1,
+        "id": "ZIP:80301"
+    },
+    {
+        "mindate": "1893-10-01",
+        "maxdate": "2025-02-25",
+        "name": "Boulder, CO 80302",
+        "datacoverage": 1,
+        "id": "ZIP:80302"
+    },
+    {
+        "mindate": "2001-06-29",
+        "maxdate": "2025-02-25",
+        "name": "Boulder, CO 80303",
+        "datacoverage": 1,
+        "id": "ZIP:80303"
+    },
+    {
+        "mindate": "1983-01-05",
+        "maxdate": "2025-02-25",
+        "name": "Boulder, CO 80304",
+        "datacoverage": 1,
+        "id": "ZIP:80304"
+    },
+    {
+        "mindate": "2000-06-14",
+        "maxdate": "2025-02-25",
+        "name": "Boulder, CO 80305",
+        "datacoverage": 1,
+        "id": "ZIP:80305"
+    },
+    {
+        "mindate": "1891-08-01",
+        "maxdate": "2025-02-25",
+        "name": "Boulder, MT 59632",
+        "datacoverage": 1,
+        "id": "ZIP:59632"
+    },
+    {
+        "mindate": "1954-06-11",
+        "maxdate": "2025-02-24",
+        "name": "Boulder, UT 84716",
+        "datacoverage": 1,
+        "id": "ZIP:84716"
+    },
+    {
+        "mindate": "1916-12-01",
+        "maxdate": "2025-02-24",
+        "name": "Boulder, WY 82923",
+        "datacoverage": 1,
+        "id": "ZIP:82923"
+    },
+    {
+        "mindate": "1924-12-17",
+        "maxdate": "2024-11-03",
+        "name": "Boulevard, CA 91905",
+        "datacoverage": 1,
+        "id": "ZIP:91905"
+    },
+    {
+        "mindate": "1974-10-01",
+        "maxdate": "2025-02-25",
+        "name": "Bountiful, UT 84010",
+        "datacoverage": 1,
+        "id": "ZIP:84010"
+    },
+    {
+        "mindate": "2010-11-21",
+        "maxdate": "2017-11-18",
+        "name": "Bourbon, IN 46504",
+        "datacoverage": 0.9781,
+        "id": "ZIP:46504"
+    },
+    {
+        "mindate": "1973-03-01",
+        "maxdate": "2025-02-24",
+        "name": "Bourbon, MO 65441",
+        "datacoverage": 1,
+        "id": "ZIP:65441"
+    },
+    {
+        "mindate": "1991-08-01",
+        "maxdate": "2025-02-25",
+        "name": "Bourbonnais, IL 60914",
+        "datacoverage": 1,
+        "id": "ZIP:60914"
+    },
+    {
+        "mindate": "2017-05-15",
+        "maxdate": "2025-02-25",
+        "name": "Bovey, MN 55709",
+        "datacoverage": 1,
+        "id": "ZIP:55709"
+    },
+    {
+        "mindate": "1948-05-01",
+        "maxdate": "2008-11-10",
+        "name": "Bovina Center, NY 13740",
+        "datacoverage": 0.9998,
+        "id": "ZIP:13740"
+    },
+    {
+        "mindate": "2009-06-28",
+        "maxdate": "2025-02-25",
+        "name": "Bow, NH 03304",
+        "datacoverage": 1,
+        "id": "ZIP:03304"
+    },
+    {
+        "mindate": "2008-09-22",
+        "maxdate": "2025-02-25",
+        "name": "Bow, WA 98232",
+        "datacoverage": 1,
+        "id": "ZIP:98232"
+    },
+    {
+        "mindate": "1912-04-01",
+        "maxdate": "2025-02-22",
+        "name": "Bowbells, ND 58721",
+        "datacoverage": 1,
+        "id": "ZIP:58721"
+    },
+    {
+        "mindate": "1925-01-01",
+        "maxdate": "1947-10-02",
+        "name": "Bowden, WV 26254",
+        "datacoverage": 0.9589,
+        "id": "ZIP:26254"
+    },
+    {
+        "mindate": "1893-01-01",
+        "maxdate": "2025-02-24",
+        "name": "Bowdle, SD 57428",
+        "datacoverage": 1,
+        "id": "ZIP:57428"
+    },
+    {
+        "mindate": "2019-05-14",
+        "maxdate": "2025-02-25",
+        "name": "Bowdoin, ME 04287",
+        "datacoverage": 0.1281,
+        "id": "ZIP:04287"
+    },
+    {
+        "mindate": "1949-01-01",
+        "maxdate": "1987-06-30",
+        "name": "Bowerston, OH 44695",
+        "datacoverage": 1,
+        "id": "ZIP:44695"
+    },
+    {
+        "mindate": "1901-04-01",
+        "maxdate": "1907-07-24",
+        "name": "Bowersville, GA 30516",
+        "datacoverage": 1,
+        "id": "ZIP:30516"
+    },
+    {
+        "mindate": "2005-10-01",
+        "maxdate": "2025-02-25",
+        "name": "Bowie, MD 20715",
+        "datacoverage": 1,
+        "id": "ZIP:20715"
+    },
+    {
+        "mindate": "2010-01-31",
+        "maxdate": "2025-02-20",
+        "name": "Bowie, MD 20716",
+        "datacoverage": 0.4914,
+        "id": "ZIP:20716"
+    },
+    {
+        "mindate": "2005-12-04",
+        "maxdate": "2022-11-30",
+        "name": "Bowie, MD 20720",
+        "datacoverage": 1,
+        "id": "ZIP:20720"
+    },
+    {
+        "mindate": "2018-07-10",
+        "maxdate": "2020-01-14",
+        "name": "Bowie, MD 20721",
+        "datacoverage": 1,
+        "id": "ZIP:20721"
+    },
+    {
+        "mindate": "1897-01-01",
+        "maxdate": "2025-02-24",
+        "name": "Bowie, TX 76230",
+        "datacoverage": 1,
+        "id": "ZIP:76230"
+    },
+    {
+        "mindate": "1948-08-01",
+        "maxdate": "2025-02-25",
+        "name": "Bowler, WI 54416",
+        "datacoverage": 1,
+        "id": "ZIP:54416"
+    },
+    {
+        "mindate": "2014-08-17",
+        "maxdate": "2022-05-15",
+        "name": "Bowling Green, FL 33834",
+        "datacoverage": 0.8455,
+        "id": "ZIP:33834"
+    },
+    {
+        "mindate": "1946-05-01",
+        "maxdate": "2025-02-21",
+        "name": "Bowling Green, IN 47833",
+        "datacoverage": 1,
+        "id": "ZIP:47833"
+    },
+    {
+        "mindate": "1893-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Bowling Green, KY 42101",
+        "datacoverage": 1,
+        "id": "ZIP:42101"
+    },
+    {
+        "mindate": "1996-02-06",
+        "maxdate": "2025-02-25",
+        "name": "Bowling Green, KY 42103",
+        "datacoverage": 0.9962,
+        "id": "ZIP:42103"
+    },
+    {
+        "mindate": "1944-12-08",
+        "maxdate": "2025-02-25",
+        "name": "Bowling Green, KY 42104",
+        "datacoverage": 1,
+        "id": "ZIP:42104"
+    },
+    {
+        "mindate": "1893-01-03",
+        "maxdate": "2025-02-25",
+        "name": "Bowling Green, MO 63334",
+        "datacoverage": 1,
+        "id": "ZIP:63334"
+    },
+    {
+        "mindate": "1893-06-01",
+        "maxdate": "2025-02-25",
+        "name": "Bowling Green, OH 43402",
+        "datacoverage": 1,
+        "id": "ZIP:43402"
+    },
+    {
+        "mindate": "1950-04-01",
+        "maxdate": "1959-01-31",
+        "name": "Bowling Green, VA 22427",
+        "datacoverage": 1,
+        "id": "ZIP:22427"
+    },
+    {
+        "mindate": "1952-01-02",
+        "maxdate": "2025-02-20",
+        "name": "Bowman, GA 30624",
+        "datacoverage": 1,
+        "id": "ZIP:30624"
+    },
+    {
+        "mindate": "1915-01-02",
+        "maxdate": "2025-02-22",
+        "name": "Bowman, ND 58623",
+        "datacoverage": 1,
+        "id": "ZIP:58623"
+    },
+    {
+        "mindate": "1901-09-01",
+        "maxdate": "1921-11-30",
+        "name": "Bowman, SC 29018",
+        "datacoverage": 0.9821,
+        "id": "ZIP:29018"
+    },
+    {
+        "mindate": "1951-06-01",
+        "maxdate": "2025-02-25",
+        "name": "Box Elder, MT 59521",
+        "datacoverage": 1,
+        "id": "ZIP:59521"
+    },
+    {
+        "mindate": "2007-06-01",
+        "maxdate": "2025-02-24",
+        "name": "Box Elder, SD 57719",
+        "datacoverage": 1,
+        "id": "ZIP:57719"
+    },
+    {
+        "mindate": "2017-04-05",
+        "maxdate": "2018-10-18",
+        "name": "Boxborough, MA 01719",
+        "datacoverage": 0.7491,
+        "id": "ZIP:01719"
+    },
+    {
+        "mindate": "2011-09-19",
+        "maxdate": "2025-02-25",
+        "name": "Boxford, MA 01921",
+        "datacoverage": 0.9998,
+        "id": "ZIP:01921"
+    },
+    {
+        "mindate": "1995-11-01",
+        "maxdate": "2012-05-01",
+        "name": "Boyce, LA 71409",
+        "datacoverage": 1,
+        "id": "ZIP:71409"
+    },
+    {
+        "mindate": "2008-04-11",
+        "maxdate": "2023-04-28",
+        "name": "Boyceville, WI 54725",
+        "datacoverage": 1,
+        "id": "ZIP:54725"
+    },
+    {
+        "mindate": "2016-03-21",
+        "maxdate": "2017-10-30",
+        "name": "Boyd, MN 56218",
+        "datacoverage": 1,
+        "id": "ZIP:56218"
+    },
+    {
+        "mindate": "1947-07-01",
+        "maxdate": "1999-06-30",
+        "name": "Boyd, TX 76023",
+        "datacoverage": 1,
+        "id": "ZIP:76023"
+    },
+    {
+        "mindate": "1919-12-15",
+        "maxdate": "2021-07-02",
+        "name": "Boyds, MD 20841",
+        "datacoverage": 1,
+        "id": "ZIP:20841"
+    },
+    {
+        "mindate": "1910-04-01",
+        "maxdate": "2025-02-24",
+        "name": "Boyds, WA 99107",
+        "datacoverage": 1,
+        "id": "ZIP:99107"
+    },
+    {
+        "mindate": "1948-03-01",
+        "maxdate": "2025-02-25",
+        "name": "Boydton, VA 23917",
+        "datacoverage": 1,
+        "id": "ZIP:23917"
+    },
+    {
+        "mindate": "1955-04-20",
+        "maxdate": "2024-11-21",
+        "name": "Boyertown, PA 19512",
+        "datacoverage": 1,
+        "id": "ZIP:19512"
+    },
+    {
+        "mindate": "1950-04-01",
+        "maxdate": "2025-02-24",
+        "name": "Boyes, MT 59316",
+        "datacoverage": 1,
+        "id": "ZIP:59316"
+    },
+    {
+        "mindate": "1902-10-01",
+        "maxdate": "1978-12-31",
+        "name": "Boykins, VA 23827",
+        "datacoverage": 1,
+        "id": "ZIP:23827"
+    },
+    {
+        "mindate": "1896-01-01",
+        "maxdate": "2025-02-25",
+        "name": "Boylston, MA 01505",
+        "datacoverage": 1,
+        "id": "ZIP:01505"
+    },
+    {
+        "mindate": "1922-06-16",
+        "maxdate": "2016-04-06",
+        "name": "Boyne City, MI 49712",
+        "datacoverage": 0.2973,
+        "id": "ZIP:49712"
+    },
+    {
+        "mindate": "1949-07-01",
+        "maxdate": "2025-02-09",
+        "name": "Boyne Falls, MI 49713",
+        "datacoverage": 1,
+        "id": "ZIP:49713"
+    },
+    {
+        "mindate": "2010-03-06",
+        "maxdate": "2015-12-06",
+        "name": "Boynton Beach, FL 33426",
+        "datacoverage": 0.8535,
+        "id": "ZIP:33426"
+    },
+    {
+        "mindate": "1892-01-01",
+        "maxdate": "1959-07-31",
+        "name": "Boynton Beach, FL 33435",
+        "datacoverage": 1,
+        "id": "ZIP:33435"
+    },
+    {
+        "mindate": "2008-11-12",
+        "maxdate": "2025-02-19",
+        "name": "Boynton Beach, FL 33436",
+        "datacoverage": 0.9156,
+        "id": "ZIP:33436"
+    },
+    {
+        "mindate": "2007-10-01",
+        "maxdate": "2025-02-25",
+        "name": "Boynton Beach, FL 33437",
+        "datacoverage": 0.6667,
+        "id": "ZIP:33437"
+    }
+]
