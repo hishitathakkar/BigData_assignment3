@@ -1,0 +1,7 @@
+snowflake-connector-python
+snowflake-cli-labs
+snowflake-snowpark-python
+pandas
+requests
+pyyaml  # If using YAML configurations
+pytest  # If running tests
