@@ -23,22 +23,9 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          if [ -f requirements.txt ]; then
-            pip install -r requirements.txt
-          else
-            echo "No requirements.txt found, skipping dependency installation."
-          fi
+          pip install -r requirements.txt
 
       - name: Run Data Scraping & Upload Script
-        run: python "co2_data:weather_data pipeline/src/fetch_co2_data.py"
-
-      - name: Validate Snowflake Notebook Execution
-        run: |
-          echo "Checking for Snowflake Notebook..."
-          ls -la "co2_data:weather_data pipeline/sql/"
-          jupyter nbconvert --to notebook --execute "co2_data:weather_data pipeline/sql/"*.ipynb
-
-      - name: Run Snowflake Pipeline
         env:
           SNOWFLAKE_ACCOUNT: ${{ secrets.SNOWFLAKE_ACCOUNT }}
           SNOWFLAKE_USER: ${{ secrets.SNOWFLAKE_USER }}
@@ -47,4 +34,10 @@ jobs:
           SNOWFLAKE_WAREHOUSE: ${{ secrets.SNOWFLAKE_WAREHOUSE }}
           SNOWFLAKE_DATABASE: ${{ secrets.SNOWFLAKE_DATABASE }}
           SNOWFLAKE_SCHEMA: ${{ secrets.SNOWFLAKE_SCHEMA }}
-        run: echo "Executing Snowflake Notebook Workflow"
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        run: python "co2_data:weather_data pipeline/src/fetch_co2_data.py"
+
+      - name: Validate Snowflake Notebook Execution
+        run: |
+          jupyter nbconvert --to notebook --execute "co2_data:weather_data pipeline/sql/"*.ipynb
