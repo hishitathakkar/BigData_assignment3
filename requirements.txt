@@ -5,3 +5,6 @@ pandas
 requests
 pyyaml  # If using YAML configurations
 pytest  # If running tests
+boto3
+
+
