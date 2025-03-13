@@ -37,7 +37,7 @@ jobs:
           SNOWFLAKE_WAREHOUSE: ${{ secrets.SNOWFLAKE_WAREHOUSE }}
           SNOWFLAKE_DATABASE: ${{ secrets.SNOWFLAKE_DATABASE }}
           SNOWFLAKE_SCHEMA: ${{ secrets.SNOWFLAKE_SCHEMA }}
-        run: python "co2_data/weather_data_pipeline/src/fetch_co2_data.py"
+        run: python "./co2_data:weather_data pipeline/src/fetch_co2_data.py"
 
       - name: Run Snowflake Pipeline
         env:
@@ -51,4 +51,4 @@ jobs:
           SNOWFLAKE_WAREHOUSE: ${{ secrets.SNOWFLAKE_WAREHOUSE }}
           SNOWFLAKE_DATABASE: ${{ secrets.SNOWFLAKE_DATABASE }}
           SNOWFLAKE_SCHEMA: ${{ secrets.SNOWFLAKE_SCHEMA }}
-        run: python "co2_data/weather_data_pipeline/sql/snowflake_pipeline_1.py"
+        run: python "./co2_data:weather_data pipeline/sql/snowflake_pipeline_1.py"
