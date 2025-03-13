@@ -13,6 +13,7 @@ This guide walks through **building a CO₂ data pipeline** from **data ingestio
 ✅ **Snowflake for Processing & Analytics**  
 ✅ **Automated Updates with Stored Procedures & Tasks**  
 ✅ **CI/CD Deployment via GitHub Actions**  
+✅ **Jinja for Dynamic SQL Templates** 
 
 ---
 
@@ -24,8 +25,9 @@ This guide walks through **building a CO₂ data pipeline** from **data ingestio
 5. [Transforming & Normalizing Data](#transforming-and-normalizing-data)
 6. [Analytics & Reporting](#analytics-and-reporting)
 7. [Automating Updates](#automating-updates)
-8. [Deployment with GitHub Actions](#deployment-with-github-actions)
-9. [Conclusion](#conclusion)
+8. [Using Jinja for SQL Templating](#using-jinja-for-sql-templating)
+9. [Deployment with GitHub Actions](#deployment-with-github-actions)
+10. [Conclusion](#conclusion)
 
 ---
 
@@ -172,6 +174,7 @@ END;
 $$;
 ```
 
+
 ### Scheduled Task for Daily Updates
 ```sql
 CREATE OR REPLACE TASK UPDATE_CO2_DATA
@@ -182,7 +185,36 @@ CALL UPDATE_CO2_PROCEDURE();
 ALTER TASK UPDATE_CO2_DATA RESUME;
 ```
 
-## **8️⃣ Deployment with GitHub Actions**
+## **8️⃣ Using Jinja for SQL Templating**
+Jinja helps create dynamic SQL queries with placeholders for variables.
+
+### Example Jinja Template (`templates/load_data.sql.jinja`)
+```sql
+COPY INTO {{ table_name }}
+FROM @{{ stage_name }}/{{ file_path }}
+FILE_FORMAT = (FORMAT_NAME = '{{ file_format }}')
+FORCE = TRUE;
+```
+
+### Using Jinja in Python
+```python
+from jinja2 import Environment, FileSystemLoader
+
+env = Environment(loader=FileSystemLoader("templates"))
+template = env.get_template("load_data.sql.jinja")
+
+sql_query = template.render(
+    table_name="RAW_DOW30_STAGING",
+    stage_name="CO2_STAGE",
+    file_path="raw_data/co2_data.csv",
+    file_format="CO2_CSV_FORMAT"
+)
+
+print(sql_query)
+```
+
+
+## **9️⃣ Deployment with GitHub Actions**
 We use GitHub Actions to automate pipeline execution.
 
 ### `.github/workflows/snowflake_ci.yml`
@@ -204,7 +236,7 @@ jobs:
         run: python "co2_data_weather_data_pipeline/sql/snowflake_pipeline_1.py"
 ```
 
-## **🎯 Conclusion**
+## **🔟🎯 Conclusion**
 In this guide, we:  
 ✅ Fetched CO₂ data from NOAA  
 ✅ Stored it in AWS S3  
