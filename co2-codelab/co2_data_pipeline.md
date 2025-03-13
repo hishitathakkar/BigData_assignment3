@@ -246,4 +246,4 @@ In this guide, we:
 ✅ Deployed via GitHub Actions  
 
 📌 Repository: [[GitHub Link](https://github.com/hishitathakkar/BigData_assignment3)]  
-📌 Author: Hishita Thakkar
+📌 Author: Hishita Thakkar.
