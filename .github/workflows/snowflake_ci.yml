@@ -23,12 +23,23 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          pip install snowflake-connector-python boto3 requests pandas notebook jupyter streamlit ipykernel "pyarrow<19.0.0"
+          pip install snowflake-connector-python boto3 requests pandas notebook jupyter streamlit ipykernel jinja2 "pyarrow<19.0.0"
 
       - name: Verify Directory Structure
         run: |
           echo "Listing repository structure for debugging:"
           ls -R
+
+      - name: Generate SQL from Jinja Templates
+        env:
+          SNOWFLAKE_ACCOUNT: ${{ secrets.SNOWFLAKE_ACCOUNT }}
+          SNOWFLAKE_USER: ${{ secrets.SNOWFLAKE_USER }}
+          SNOWFLAKE_PASSWORD: ${{ secrets.SNOWFLAKE_PASSWORD }}
+          SNOWFLAKE_ROLE: ${{ secrets.SNOWFLAKE_ROLE }}
+          SNOWFLAKE_WAREHOUSE: ${{ secrets.SNOWFLAKE_WAREHOUSE }}
+          SNOWFLAKE_DATABASE: ${{ secrets.SNOWFLAKE_DATABASE }}
+          SNOWFLAKE_SCHEMA: ${{ secrets.SNOWFLAKE_SCHEMA }}
+        run: python "./co2_data_weather_data_pipeline/generate_sql.py"
 
       - name: Run Data Scraping & Upload Script
         env:
