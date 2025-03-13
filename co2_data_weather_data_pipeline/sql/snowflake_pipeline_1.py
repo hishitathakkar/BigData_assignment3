@@ -65,7 +65,7 @@ cursor.execute("""
 # 5️⃣ **Load Data from S3**
 cursor.execute("""
     COPY INTO RAW_DOW30_STAGING
-    FROM @CO2_STAGE/raw_data/co2_data_v2.csv
+    FROM @CO2_STAGE/co2_data/co2_dataset_2.csv
     FILE_FORMAT = (FORMAT_NAME = 'CO2_CSV_FORMAT')
     FORCE = TRUE;
 """)
