@@ -23,7 +23,12 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          pip install snowflake-connector-python boto3 requests pandas streamlit ipykernel
+          pip install snowflake-connector-python boto3 requests pandas notebook jupyter streamlit ipykernel "pyarrow<19.0.0"
+
+      - name: Verify Directory Structure
+        run: |
+          echo "Listing repository structure for debugging:"
+          ls -R
 
       - name: Run Data Scraping & Upload Script
         env:
@@ -37,7 +42,7 @@ jobs:
           SNOWFLAKE_WAREHOUSE: ${{ secrets.SNOWFLAKE_WAREHOUSE }}
           SNOWFLAKE_DATABASE: ${{ secrets.SNOWFLAKE_DATABASE }}
           SNOWFLAKE_SCHEMA: ${{ secrets.SNOWFLAKE_SCHEMA }}
-        run: python "./co2_data:weather_data pipeline/src/fetch_co2_data.py"
+        run: python "./co2_data/weather_data_pipeline/src/fetch_co2_data.py"
 
       - name: Run Snowflake Pipeline
         env:
@@ -51,4 +56,4 @@ jobs:
           SNOWFLAKE_WAREHOUSE: ${{ secrets.SNOWFLAKE_WAREHOUSE }}
           SNOWFLAKE_DATABASE: ${{ secrets.SNOWFLAKE_DATABASE }}
           SNOWFLAKE_SCHEMA: ${{ secrets.SNOWFLAKE_SCHEMA }}
-        run: python "./co2_data:weather_data pipeline/sql/snowflake_pipeline_1.py"
+        run: python "./co2_data/weather_data_pipeline/sql/snowflake_pipeline_1.py"
