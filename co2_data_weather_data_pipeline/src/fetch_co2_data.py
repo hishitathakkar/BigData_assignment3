@@ -4,7 +4,7 @@ import boto3
 from io import StringIO
 
 BUCKET_NAME = "big.data.ass3"
-S3_FILE_PATH = "co2_data/co2_dataset.csv"
+S3_FILE_PATH = "co2_data/co2_dataset_2.csv"
 
 def fetch_co2_data():
     response = requests.get("https://gml.noaa.gov/webdata/ccgg/trends/co2/co2_daily_mlo.txt")
