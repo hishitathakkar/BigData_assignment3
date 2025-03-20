@@ -5,6 +5,7 @@ Overview
 This Quickstart guides users through building a Snowflake-based data pipeline that ingests, transforms, and updates daily CO₂ emissions data from the Mauna Loa Observatory. The pipeline is implemented using Snowpark Python and Snowflake Notebooks, leveraging Snowflake Tasks, Streams, and Stored Procedures to enable incremental data updates.
 
 Codelab: https://hishitathakkar.github.io/BigData_assignment3/#0
+
 Video: https://youtu.be/SJRHHteuWPE
 
 Expected Outcome
